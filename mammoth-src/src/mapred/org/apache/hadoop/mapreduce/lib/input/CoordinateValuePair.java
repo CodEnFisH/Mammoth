@@ -14,8 +14,6 @@ public class CoordinateValuePair implements WritableComparable<CoordinateValuePa
     public CoordinateValuePair(){
         coordinate = new TwoDimCoordinate();
         values = new BackgroundValueSet();
-    	// coordinate = null;
-    	// values = null;
     }
 
     // Constructor

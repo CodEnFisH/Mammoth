@@ -497,10 +497,14 @@ public class JobInProgress {
 			// Added by Xin - 05/06/2012
 			// Initialize partition builder and observation builder
 			// for calculating computation workload.
+			String strPartitionInfoPath = conf.get(
+					"app.partition.info.path", "/user/s3gator/conf/partition.info");
+			String strObPath = conf.get(
+					"app.ob.info.path", "/user/s3gator/conf/observation");
 			pBuilder = new DomainCalcUtils.PartitionBuilder(conf);
 			obBuilder = new DomainCalcUtils.ObservationBuilder(conf);
-			pBuilder.build(new Path("/user/s3gator/Conf/partition.info"));
-			obBuilder.build(new Path("/user/s3gator/Conf/observation"),
+			pBuilder.build(new Path(strPartitionInfoPath));
+			obBuilder.build(new Path(strObPath),
 					pBuilder.getNumOfPointX(), pBuilder.getNumOfPointY());
 
 		} finally {
@@ -693,7 +697,7 @@ public class JobInProgress {
 	// Added by Xin - 04/28/2012
 	// calculate the map task's outdegree according to its index
 	private int CalculateOutDegree(int idx) {
-		numOfRegionAlongX = numOfRegionAlongY = 10;
+		// numOfRegionAlongX = numOfRegionAlongY = 10;
 
 		if (idx == 0 || idx == (numOfRegionAlongX - 1)
 				|| idx == (numOfRegionAlongX * numOfRegionAlongY - 1)
@@ -767,7 +771,12 @@ public class JobInProgress {
 		jobtracker.getInstrumentation().addWaitingMaps(getJobID(), numMapTasks);
 		jobtracker.getInstrumentation().addWaitingReduces(getJobID(),
 				numReduceTasks);
-
+		
+		int chunkNumX = conf.getInt("app.chunknum.x", 10);
+	    int chunkNumY = conf.getInt("app.chunknum.y", 10);
+	    numOfRegionAlongX = chunkNumX;
+	    numOfRegionAlongY = chunkNumY;
+	    
 		maps = new TaskInProgress[numMapTasks];
 		for (int i = 0; i < numMapTasks; ++i) {
 			inputLength += splits[i].getInputDataLength();
@@ -781,7 +790,7 @@ public class JobInProgress {
 
 		// Added by Xin - 05/06/2012
 		// Z order scanning
-		int xNum = 10, yNum = 10;
+		int xNum = chunkNumX, yNum = chunkNumY;
 		// zOrderTasks(maps, xNum, yNum);
 		// zOrderSplits(splits, xNum, yNum);
 
@@ -2430,8 +2439,8 @@ public class JobInProgress {
 						 * mapSplitLocs.get(tip.getIdWithinJob())) == false) {
 						 * return null; }
 						 */
-					 	iter.remove();
-					 	return tip;
+						iter.remove();
+						return tip;
 					}
 
 					// Modified by Xin - 04/28/2012
@@ -2439,15 +2448,11 @@ public class JobInProgress {
 					// Schedule map tasks according to the outdegree of map
 					// tasks
 					// largest outdegree first
-					
-					// else { // Map task 
-						// if ( tip.getOutDegree() == maxOutDegree 
-						//	|| iter.hasNext() == false ) { 
-						//	iter.remove(); 
-						//	return tip;
-						// }
-					// }
-					 
+					/*
+					 * else { // Map task if (tip.getOutDegree() == maxOutDegree
+					 * || iter.hasNext() == false) { iter.remove(); return tip;
+					 * } }
+					 */
 
 					// Schedule method 3:
 					// smallest outdegree first
@@ -2489,8 +2494,6 @@ public class JobInProgress {
 	 */
 
 	private boolean canReduceScheduled(int reduceIndex, Set<Integer> mapKeys) {
-
-		// if (true) return true;
 
 		if (mapKeys.size() == 0) {
 			return false;

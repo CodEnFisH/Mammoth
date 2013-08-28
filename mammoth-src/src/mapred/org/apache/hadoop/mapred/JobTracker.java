@@ -5549,7 +5549,6 @@ public class JobTracker implements MRConstants, InterTrackerProtocol,
 	// //////////////////////
 	
 	private List<StopSkewedTaskAction> getSkewTasksToStop(TaskTrackerStatus tts){
-
 		List<TaskStatus> taskStatuses = tts.getTaskReports();
 		List<StopSkewedTaskAction> skewList = null;
 		if (taskStatuses != null) {
@@ -5627,7 +5626,7 @@ LOG.info("SKEW 1:	" + taskStatus.getTaskID() + " will stop at " + stopSign);
 		private long computeStopSign(TaskAttemptID taskid, long currentProgress){
 			
 			// disable skew management
-			if (true) return -1;
+			// return -1;
 
 			
 			if(!isStatisticsReliable(taskid, currentProgress)){

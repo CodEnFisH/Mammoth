@@ -61,6 +61,7 @@ public class ExampleDriver {
       pgd.addClass("teragen", TeraGen.class, "Generate data for the terasort");
       pgd.addClass("terasort", TeraSort.class, "Run the terasort");
       pgd.addClass("teravalidate", TeraValidate.class, "Checking results of terasort");
+      pgd.addClass("mammoth", Mammoth.class, "Mammoth for state-transition applications");
       pgd.driver(argv);
       
       // Success
