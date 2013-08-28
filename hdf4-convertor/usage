@@ -1,0 +1,6 @@
+Compile:
+g++ -o split -g -I/directory/of/HDF4/head/file -L/directory/of/HDF4/library/file hdfsplit.cpp -lmfhdf -ldf -ljpeg -lz
+
+Run:
+./split HDF/file/gonna/to/be/split m n
+
