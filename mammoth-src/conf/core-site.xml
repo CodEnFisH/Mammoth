@@ -12,4 +12,34 @@
     <name>hadoop.tmp.dir</name>
     <value>/mnt/s3gator</value>
   </property>
+  
+  <property>
+    <name>app.partition.info.path</name>
+    <value>/user/s3gator/conf/partition.info</value>
+  </property>
+  
+  <property>
+    <name>app.ob.info.path</name>
+    <value>/user/s3gator/conf/observation</value>
+  </property>
+  
+  <property>
+    <name>app.chunknum.x</name>
+    <value>10</value>
+  </property>
+  
+  <property>
+    <name>app.chunknum.y</name>
+    <value>10</value>
+  </property>
+  
+  <property>
+    <name>app.reused.intermediate.data.path</name>
+    <value>/mnt/s3gator/_mammoth_map_</value>
+  </property>
+  
+  <property>
+    <name>app.reduce.out.path</name>
+    <value>/mnt/s3gator/_mammoth_reduce_</value>
+  </property>
 </configuration>
