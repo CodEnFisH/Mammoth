@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib
+END
+MetricsRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricsRegistry.java
+END
+DefaultMetricsSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/DefaultMetricsSystem.java
+END
+MetricMutableGaugeInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableGaugeInt.java
+END
+MetricMutableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableFactory.java
+END
+MetricMutableGauge.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableGauge.java
+END
+MetricMutableGaugeLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableGaugeLong.java
+END
+MetricMutableCounterInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableCounterInt.java
+END
+MetricMutableStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableStat.java
+END
+AbstractMetricsSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/AbstractMetricsSource.java
+END
+MetricMutableCounterLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableCounterLong.java
+END
+MetricMutable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutable.java
+END
+MetricMutableCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics2/lib/MetricMutableCounter.java
+END

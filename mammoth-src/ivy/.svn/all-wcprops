@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/ivy
+END
+hadoop-core-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ivy/hadoop-core-pom-template.xml
+END
+hadoop-streaming-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/ivy/hadoop-streaming-pom-template.xml
+END
+libraries.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/ivy/libraries.properties
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/ivy/ivysettings.xml
+END
+hadoop-examples-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/ivy/hadoop-examples-pom-template.xml
+END
+hadoop-test-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ivy/hadoop-test-pom-template.xml
+END
+hadoop-tools-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/ivy/hadoop-tools-pom-template.xml
+END
+hadoop-core.pom
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/ivy/hadoop-core.pom
+END
+ivy-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/ivy/ivy-2.1.0.jar
+END

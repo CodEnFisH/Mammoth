@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util
+END
+Tool.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/Tool.html
+END
+IndexedSorter.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/IndexedSorter.html
+END
+DiskChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/DiskChecker.html
+END
+DiskChecker.DiskOutOfSpaceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/DiskChecker.DiskOutOfSpaceException.html
+END
+LinuxMemoryCalculatorPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/LinuxMemoryCalculatorPlugin.html
+END
+XMLUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/XMLUtils.html
+END
+ProgramDriver.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/ProgramDriver.html
+END
+HostsFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/HostsFileReader.html
+END
+StringUtils.TraditionalBinaryPrefix.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/StringUtils.TraditionalBinaryPrefix.html
+END
+PrintJarMainClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/PrintJarMainClass.html
+END
+PlatformName.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/PlatformName.html
+END
+StringUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/StringUtils.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/package-tree.html
+END
+UTF8ByteArrayUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/UTF8ByteArrayUtils.html
+END
+DataChecksum.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/DataChecksum.html
+END
+QueueProcessingStatistics.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/QueueProcessingStatistics.html
+END
+GenericsUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/GenericsUtil.html
+END
+Daemon.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/Daemon.html
+END
+GenericOptionsParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/GenericOptionsParser.html
+END
+ToolRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/ToolRunner.html
+END
+QueueProcessingStatistics.State.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/QueueProcessingStatistics.State.html
+END
+IndexedSortable.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/IndexedSortable.html
+END
+ServletUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/ServletUtil.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/package-frame.html
+END
+QuickSort.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/QuickSort.html
+END
+CyclicIteration.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/CyclicIteration.html
+END
+HeapSort.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/HeapSort.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/package-summary.html
+END
+PriorityQueue.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/PriorityQueue.html
+END
+Progressable.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/Progressable.html
+END
+Shell.ExitCodeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/Shell.ExitCodeException.html
+END
+Shell.ShellCommandExecutor.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/Shell.ShellCommandExecutor.html
+END
+ProcessTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/ProcessTree.html
+END
+MemoryCalculatorPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/MemoryCalculatorPlugin.html
+END
+VersionInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/VersionInfo.html
+END
+RunJar.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/RunJar.html
+END
+DiskChecker.DiskErrorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/DiskChecker.DiskErrorException.html
+END
+Progress.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/Progress.html
+END
+Shell.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/Shell.html
+END
+MergeSort.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/MergeSort.html
+END
+NativeCodeLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/NativeCodeLoader.html
+END
+ProcessTree.Signal.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/ProcessTree.Signal.html
+END
+LineReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/LineReader.html
+END
+ProcfsBasedProcessTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/ProcfsBasedProcessTree.html
+END
+ReflectionUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/ReflectionUtils.html
+END

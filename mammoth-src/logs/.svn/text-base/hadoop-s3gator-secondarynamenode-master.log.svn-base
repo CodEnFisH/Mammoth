@@ -1,0 +1,54 @@
+2012-06-01 21:50:06,309 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting SecondaryNameNode
+STARTUP_MSG:   host = master/10.38.17.251
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Fri Jun  1 21:49:03 UTC 2012
+************************************************************/
+2012-06-01 21:50:08,329 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 0 time(s).
+2012-06-01 21:50:09,371 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 1 time(s).
+2012-06-01 21:50:10,421 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 2 time(s).
+2012-06-01 21:50:11,422 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 3 time(s).
+2012-06-01 21:50:12,422 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 4 time(s).
+2012-06-01 21:50:13,423 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 5 time(s).
+2012-06-01 21:50:14,424 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 6 time(s).
+2012-06-01 21:50:15,425 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 7 time(s).
+2012-06-01 21:50:16,425 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 8 time(s).
+2012-06-01 21:50:17,426 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 9 time(s).
+2012-06-01 21:50:17,428 INFO org.apache.hadoop.ipc.RPC: Server at master/10.38.17.251:9000 not available yet, Zzzzz...
+2012-06-01 21:50:19,429 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 0 time(s).
+2012-06-01 21:50:20,430 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 1 time(s).
+2012-06-01 21:50:21,430 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 2 time(s).
+2012-06-01 21:50:22,431 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 3 time(s).
+2012-06-01 21:50:23,432 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 4 time(s).
+2012-06-01 21:50:24,432 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 5 time(s).
+2012-06-01 21:50:25,168 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down SecondaryNameNode at master/10.38.17.251
+************************************************************/
+2012-06-01 21:52:05,414 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting SecondaryNameNode
+STARTUP_MSG:   host = master/10.38.17.251
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Fri Jun  1 21:49:03 UTC 2012
+************************************************************/
+2012-06-01 21:52:07,320 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Starting web server as: s3gator
+2012-06-01 21:52:07,593 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2012-06-01 21:52:07,794 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2012-06-01 21:52:07,800 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50090
+2012-06-01 21:52:07,802 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50090 webServer.getConnectors()[0].getLocalPort() returned 50090
+2012-06-01 21:52:07,802 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50090
+2012-06-01 21:52:07,802 INFO org.mortbay.log: jetty-6.1.26
+2012-06-01 21:52:08,818 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50090
+2012-06-01 21:52:08,818 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Web server init done
+2012-06-01 21:52:08,818 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Secondary Web-server up at: 0.0.0.0:50090
+2012-06-01 21:52:08,818 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Secondary image servlet up at: 0.0.0.0:50090
+2012-06-01 21:52:08,818 WARN org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Checkpoint Period   :3600 secs (60 min)
+2012-06-01 21:52:08,819 WARN org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Log Size Trigger    :67108864 bytes (65536 KB)
+2012-06-01 21:54:08,674 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down SecondaryNameNode at master/10.38.17.251
+************************************************************/

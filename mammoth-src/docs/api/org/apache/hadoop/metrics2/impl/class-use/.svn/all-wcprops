@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/impl/class-use
+END
+MetricsSystemImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/impl/class-use/MetricsSystemImpl.html
+END
+MetricsRecordImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/impl/class-use/MetricsRecordImpl.html
+END
+MetricsConfigException.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/impl/class-use/MetricsConfigException.html
+END

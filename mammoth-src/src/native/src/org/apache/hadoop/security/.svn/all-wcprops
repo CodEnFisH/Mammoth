@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/security
+END
+JniBasedUnixGroupsMapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/security/JniBasedUnixGroupsMapping.c
+END
+JniBasedUnixGroupsNetgroupMapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/security/JniBasedUnixGroupsNetgroupMapping.c
+END
+getGroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/security/getGroup.c
+END

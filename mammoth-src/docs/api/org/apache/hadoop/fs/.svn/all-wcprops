@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs
+END
+FSInputChecker.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FSInputChecker.html
+END
+ChecksumException.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/ChecksumException.html
+END
+GlobPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/GlobPattern.html
+END
+FSError.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FSError.html
+END
+BlockLocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/BlockLocation.html
+END
+FileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FileSystem.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/package-tree.html
+END
+DF.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/DF.html
+END
+FilterFileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FilterFileSystem.html
+END
+PositionedReadable.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/PositionedReadable.html
+END
+LocalFileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/LocalFileSystem.html
+END
+FSDataOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FSDataOutputStream.html
+END
+Syncable.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/Syncable.html
+END
+FileChecksum.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FileChecksum.html
+END
+InMemoryFileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/InMemoryFileSystem.html
+END
+HardLink.LinkStats.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/HardLink.LinkStats.html
+END
+BufferedFSInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/BufferedFSInputStream.html
+END
+ChecksumFileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/ChecksumFileSystem.html
+END
+RawLocalFileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/RawLocalFileSystem.html
+END
+MD5MD5CRC32FileChecksum.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/MD5MD5CRC32FileChecksum.html
+END
+CommonConfigurationKeys.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/CommonConfigurationKeys.html
+END
+FileUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FileUtil.html
+END
+FileSystem.Statistics.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FileSystem.Statistics.html
+END
+HardLink.OSType.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/HardLink.OSType.html
+END
+HarFileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/HarFileSystem.html
+END
+Trash.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/Trash.html
+END
+FSOutputSummer.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FSOutputSummer.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/package-frame.html
+END
+FileStatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FileStatus.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/package-summary.html
+END
+ContentSummary.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/ContentSummary.html
+END
+LocalDirAllocator.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/LocalDirAllocator.html
+END
+Path.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/Path.html
+END
+HardLink.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/HardLink.html
+END
+FsUrlStreamHandlerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FsUrlStreamHandlerFactory.html
+END
+FSDataInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FSDataInputStream.html
+END
+FsShell.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FsShell.html
+END
+PathFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/PathFilter.html
+END
+FSInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/FSInputStream.html
+END
+DU.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/DU.html
+END
+Seekable.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/fs/Seekable.html
+END

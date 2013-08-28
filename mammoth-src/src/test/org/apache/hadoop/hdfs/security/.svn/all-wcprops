@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/hdfs/security
+END
+TestDelegationTokenAuthMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/hdfs/security/TestDelegationTokenAuthMethod.java
+END
+TestDelegationTokenForProxyUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/hdfs/security/TestDelegationTokenForProxyUser.java
+END
+TestClientProtocolWithDelegationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/hdfs/security/TestClientProtocolWithDelegationToken.java
+END
+TestDelegationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/hdfs/security/TestDelegationToken.java
+END

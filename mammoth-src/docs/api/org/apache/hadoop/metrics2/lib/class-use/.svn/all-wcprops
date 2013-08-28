@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use
+END
+MetricMutableCounterLong.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableCounterLong.html
+END
+MetricMutable.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutable.html
+END
+MetricMutableCounter.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableCounter.html
+END
+MetricsRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricsRegistry.html
+END
+DefaultMetricsSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/DefaultMetricsSystem.html
+END
+MetricMutableGaugeInt.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableGaugeInt.html
+END
+MetricMutableFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableFactory.html
+END
+MetricMutableGaugeLong.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableGaugeLong.html
+END
+MetricMutableGauge.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableGauge.html
+END
+MetricMutableCounterInt.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableCounterInt.html
+END
+MetricMutableStat.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/MetricMutableStat.html
+END
+AbstractMetricsSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/lib/class-use/AbstractMetricsSource.html
+END

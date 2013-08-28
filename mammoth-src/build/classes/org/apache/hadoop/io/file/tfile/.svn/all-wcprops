@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile
+END
+BCFile$Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Reader.class
+END
+CompareUtils$MemcmpRawComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/CompareUtils$MemcmpRawComparator.class
+END
+Compression$Algorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Compression$Algorithm.class
+END
+BCFile$Reader$BlockReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Reader$BlockReader.class
+END
+TFile$Reader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Reader$1.class
+END
+TFile$TFileIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$TFileIndex.class
+END
+BCFile$Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Writer.class
+END
+TFile$Writer$KeyRegister.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Writer$KeyRegister.class
+END
+Compression$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Compression$1.class
+END
+BoundedRangeFileInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BoundedRangeFileInputStream.class
+END
+CompareUtils$ScalarComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/CompareUtils$ScalarComparator.class
+END
+Chunk$ChunkDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Chunk$ChunkDecoder.class
+END
+TFile$Reader$Scanner$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Reader$Scanner$Entry.class
+END
+TFileDumper$Align.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFileDumper$Align.class
+END
+CompareUtils$Scalar.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/CompareUtils$Scalar.class
+END
+Compression$Algorithm$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Compression$Algorithm$1.class
+END
+TFile$TFileMeta.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$TFileMeta.class
+END
+Compression$Algorithm$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Compression$Algorithm$2.class
+END
+ByteArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/ByteArray.class
+END
+BCFile$Writer$DataBlockRegister.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Writer$DataBlockRegister.class
+END
+MetaBlockAlreadyExists.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/MetaBlockAlreadyExists.class
+END
+Compression$Algorithm$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Compression$Algorithm$3.class
+END
+Compression$FinishOnFlushCompressionStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Compression$FinishOnFlushCompressionStream.class
+END
+TFile$TFileIndexEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$TFileIndexEntry.class
+END
+Chunk.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Chunk.class
+END
+TFile$Reader$Scanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Reader$Scanner.class
+END
+BCFile$Writer$BlockRegister.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Writer$BlockRegister.class
+END
+TFile$Writer$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Writer$State.class
+END
+CompareUtils$BytesComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/CompareUtils$BytesComparator.class
+END
+BCFile$DataIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$DataIndex.class
+END
+Utils$Version.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Utils$Version.class
+END
+BCFile$Reader$RBlockState.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Reader$RBlockState.class
+END
+RawComparable.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/RawComparable.class
+END
+TFileDumper.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFileDumper.class
+END
+BCFile$Writer$MetaBlockRegister.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Writer$MetaBlockRegister.class
+END
+CompareUtils$ScalarLong.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/CompareUtils$ScalarLong.class
+END
+BCFile$Writer$BlockAppender.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Writer$BlockAppender.class
+END
+BCFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile.class
+END
+BCFile$MetaIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$MetaIndex.class
+END
+TFile$Reader$Location.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Reader$Location.class
+END
+BCFile$Magic.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Magic.class
+END
+SimpleBufferedOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/SimpleBufferedOutputStream.class
+END
+TFile$Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Reader.class
+END
+BCFile$Writer$WBlockState.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$Writer$WBlockState.class
+END
+BoundedByteArrayOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BoundedByteArrayOutputStream.class
+END
+Utils.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Utils.class
+END
+Compression.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Compression.class
+END
+TFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile.class
+END
+TFile$Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Writer.class
+END
+Chunk$ChunkEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Chunk$ChunkEncoder.class
+END
+CompareUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/CompareUtils.class
+END
+Chunk$SingleChunkEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/Chunk$SingleChunkEncoder.class
+END
+BCFile$BlockRegion.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$BlockRegion.class
+END
+BCFile$MetaIndexEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/BCFile$MetaIndexEntry.class
+END
+TFile$Writer$ValueRegister.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/TFile$Writer$ValueRegister.class
+END
+MetaBlockDoesNotExist.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/file/tfile/MetaBlockDoesNotExist.class
+END

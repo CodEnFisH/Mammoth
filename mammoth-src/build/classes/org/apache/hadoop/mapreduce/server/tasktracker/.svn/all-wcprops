@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/server/tasktracker
+END
+Localizer$PermissionsHandler$PermissionsInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/server/tasktracker/Localizer$PermissionsHandler$PermissionsInfo.class
+END
+Localizer$PermissionsHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/server/tasktracker/Localizer$PermissionsHandler.class
+END
+Localizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/server/tasktracker/Localizer.class
+END
+JVMInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/server/tasktracker/JVMInfo.class
+END

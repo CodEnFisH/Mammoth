@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use
+END
+DeleteJobEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/DeleteJobEvent.html
+END
+UserLogEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/UserLogEvent.html
+END
+JobStartedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/JobStartedEvent.html
+END
+UserLogEvent.EventType.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/UserLogEvent.EventType.html
+END
+JvmFinishedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/JvmFinishedEvent.html
+END
+JobCompletedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/JobCompletedEvent.html
+END
+UserLogManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/UserLogManager.html
+END

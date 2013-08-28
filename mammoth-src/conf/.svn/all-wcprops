@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/2/trunk/conf
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/conf/hdfs-site.xml
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/conf/core-site.xml
+END
+hadoop-metrics2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/conf/hadoop-metrics2.properties
+END
+slaves
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/conf/slaves
+END
+ssl-server.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/conf/ssl-server.xml.example
+END
+taskcontroller.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/conf/taskcontroller.cfg
+END
+ssl-client.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/conf/ssl-client.xml.example
+END
+hadoop-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/conf/hadoop-policy.xml
+END
+capacity-scheduler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/conf/capacity-scheduler.xml
+END
+hadoop-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/conf/hadoop-env.sh
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/conf/mapred-site.xml
+END
+mapred-queue-acls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/conf/mapred-queue-acls.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/conf/log4j.properties
+END
+configuration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/conf/configuration.xsl
+END
+masters
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/conf/masters
+END

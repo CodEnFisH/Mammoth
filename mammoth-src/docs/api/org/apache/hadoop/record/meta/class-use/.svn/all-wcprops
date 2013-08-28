@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use
+END
+RecordTypeInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/RecordTypeInfo.html
+END
+MapTypeID.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/MapTypeID.html
+END
+TypeID.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/TypeID.html
+END
+Utils.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/Utils.html
+END
+VectorTypeID.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/VectorTypeID.html
+END
+FieldTypeInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/FieldTypeInfo.html
+END
+StructTypeID.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/StructTypeID.html
+END
+TypeID.RIOType.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/record/meta/class-use/TypeID.RIOType.html
+END

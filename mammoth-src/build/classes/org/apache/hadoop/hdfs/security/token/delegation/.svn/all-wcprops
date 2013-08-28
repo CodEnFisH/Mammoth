@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/delegation
+END
+DelegationTokenSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/delegation/DelegationTokenSelector.class
+END
+DelegationTokenSecretManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/delegation/DelegationTokenSecretManager.class
+END
+DelegationTokenIdentifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/delegation/DelegationTokenIdentifier.class
+END

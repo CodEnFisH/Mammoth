@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common
+END
+jackson-mapper-asl-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/jackson-mapper-asl-1.0.1.jar
+END
+commons-configuration-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-configuration-1.6.jar
+END
+commons-digester-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-digester-1.8.jar
+END
+commons-httpclient-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-httpclient-3.0.1.jar
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-codec-1.4.jar
+END
+jackson-core-asl-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/jackson-core-asl-1.0.1.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-collections-3.2.1.jar
+END
+commons-beanutils-core-1.8.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-beanutils-core-1.8.0.jar
+END
+jetty-6.1.26.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/jetty-6.1.26.jar
+END
+servlet-api-2.5-20081211.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/servlet-api-2.5-20081211.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-lang-2.4.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-logging-1.1.1.jar
+END
+junit-4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/junit-4.5.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-beanutils-1.7.0.jar
+END
+commons-math-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/commons-math-2.1.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/log4j-1.2.15.jar
+END
+jetty-util-6.1.26.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/ivy/lib/capacity-scheduler/common/jetty-util-6.1.26.jar
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/c++/Linux-amd64-64/include/hadoop
+END
+TemplateFactory.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/c++/Linux-amd64-64/include/hadoop/TemplateFactory.hh
+END
+StringUtils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/c++/Linux-amd64-64/include/hadoop/StringUtils.hh
+END
+SerialUtils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/c++/Linux-amd64-64/include/hadoop/SerialUtils.hh
+END
+Pipes.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/c++/Linux-amd64-64/include/hadoop/Pipes.hh
+END

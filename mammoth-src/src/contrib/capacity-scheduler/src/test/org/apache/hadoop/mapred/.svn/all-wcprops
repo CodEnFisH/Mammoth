@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred
+END
+TestCapacitySchedulerWithJobTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/trunk/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacitySchedulerWithJobTracker.java
+END
+TestCapacitySchedulerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacitySchedulerServlet.java
+END
+TestCapacitySchedulerConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacitySchedulerConf.java
+END
+ClusterWithCapacityScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/ClusterWithCapacityScheduler.java
+END
+TestCapacityScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacityScheduler.java
+END
+TestJobTrackerRestartWithCS.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestJobTrackerRestartWithCS.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/filter
+END
+RegexFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/filter/RegexFilter.class
+END
+AbstractPatternFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/filter/AbstractPatternFilter.class
+END
+GlobFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/filter/GlobFilter.class
+END

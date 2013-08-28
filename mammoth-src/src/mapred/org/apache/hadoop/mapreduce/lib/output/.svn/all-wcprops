@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/output
+END
+SequenceFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/output/SequenceFileOutputFormat.java
+END
+FileOutputFormat_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat_Counter.properties
+END
+NullOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/output/NullOutputFormat.java
+END
+FileOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputCommitter.java
+END
+FileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.java
+END
+TextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/output/TextOutputFormat.java
+END

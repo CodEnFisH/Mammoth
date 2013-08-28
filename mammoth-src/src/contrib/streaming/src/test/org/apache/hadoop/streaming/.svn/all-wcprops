@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming
+END
+TestStreamingEmptyInpNonemptyOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingEmptyInpNonemptyOut.java
+END
+TestMultipleCachefiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestMultipleCachefiles.java
+END
+TestStreamReduceNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamReduceNone.java
+END
+CatApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/CatApp.java
+END
+TestStreamingCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingCombiner.java
+END
+TestStreamingSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingSeparator.java
+END
+ValueCountReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/ValueCountReduce.java
+END
+TestStreamingStderr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingStderr.java
+END
+TrAppReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TrAppReduce.java
+END
+TestSymLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestSymLink.java
+END
+TrApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TrApp.java
+END
+TestGzipInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestGzipInput.java
+END
+TestStreamingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingStatus.java
+END
+TestStreamingKeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingKeyValue.java
+END
+TestStreamingFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingFailure.java
+END
+StreamAggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/StreamAggregate.java
+END
+TestStreamAggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamAggregate.java
+END
+TestStreamingAsDifferentUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingAsDifferentUser.java
+END
+TestUlimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestUlimit.java
+END
+UlimitApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/UlimitApp.java
+END
+StderrApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/StderrApp.java
+END
+TestStreamDataProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamDataProtocol.java
+END
+FailApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/FailApp.java
+END
+TestStreamingCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingCounters.java
+END
+UtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/UtilTest.java
+END
+UniqApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/UniqApp.java
+END
+TestStreamingTaskLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingTaskLog.java
+END
+TestMultipleArchiveFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestMultipleArchiveFiles.java
+END
+TestStreamingBadRecords.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingBadRecords.java
+END
+TestStreamingExitStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingExitStatus.java
+END
+TestStreaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreaming.java
+END
+TestStreamXmlRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamXmlRecordReader.java
+END

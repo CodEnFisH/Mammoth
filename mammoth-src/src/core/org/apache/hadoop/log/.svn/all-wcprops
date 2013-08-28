@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/log
+END
+EventCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/log/EventCounter.java
+END
+LogLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/log/LogLevel.java
+END

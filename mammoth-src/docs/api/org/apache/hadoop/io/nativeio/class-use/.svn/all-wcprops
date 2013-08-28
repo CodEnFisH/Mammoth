@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/nativeio/class-use
+END
+NativeIOException.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/nativeio/class-use/NativeIOException.html
+END
+NativeIO.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/nativeio/class-use/NativeIO.html
+END
+Errno.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/nativeio/class-use/Errno.html
+END
+NativeIO.Stat.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/nativeio/class-use/NativeIO.Stat.html
+END

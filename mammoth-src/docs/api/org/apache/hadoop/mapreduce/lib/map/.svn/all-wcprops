@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map
+END
+InverseMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map/InverseMapper.html
+END
+MultithreadedMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map/package-use.html
+END
+TokenCounterMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map/TokenCounterMapper.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/map/package-tree.html
+END

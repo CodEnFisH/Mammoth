@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/test/system/c++/runAs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/test/system/c++/runAs/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/test/system/c++/runAs/Makefile.in
+END
+runAs.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/test/system/c++/runAs/runAs.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/test/system/c++/runAs/configure.ac
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/test/system/c++/runAs/main.c
+END
+runAs.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/test/system/c++/runAs/runAs.c
+END

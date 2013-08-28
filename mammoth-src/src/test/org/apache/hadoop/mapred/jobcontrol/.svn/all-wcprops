@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapred/jobcontrol
+END
+TestLocalJobControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapred/jobcontrol/TestLocalJobControl.java
+END
+TestJobControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapred/jobcontrol/TestJobControl.java
+END
+JobControlTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapred/jobcontrol/JobControlTestUtils.java
+END

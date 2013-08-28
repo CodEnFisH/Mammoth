@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/webapps/job
+END
+jobqueue_details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/webapps/job/jobqueue_details.jsp
+END
+jobtracker.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/webapps/job/jobtracker.jsp
+END
+machines.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/webapps/job/machines.jsp
+END
+taskdetailshistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/webapps/job/taskdetailshistory.jsp
+END
+jobhistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/webapps/job/jobhistory.jsp
+END
+loadhistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/webapps/job/loadhistory.jsp
+END
+gethistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/webapps/job/gethistory.jsp
+END
+jobconf_history.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/webapps/job/jobconf_history.jsp
+END
+jobdetailshistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/webapps/job/jobdetailshistory.jsp
+END
+jobtaskshistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/webapps/job/jobtaskshistory.jsp
+END
+taskstatshistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/webapps/job/taskstatshistory.jsp
+END
+job_authorization_error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/webapps/job/job_authorization_error.jsp
+END
+jobfailures.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/webapps/job/jobfailures.jsp
+END
+jobhistoryhome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/webapps/job/jobhistoryhome.jsp
+END
+taskdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/webapps/job/taskdetails.jsp
+END
+analysejobhistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/webapps/job/analysejobhistory.jsp
+END
+jobblacklistedtrackers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/webapps/job/jobblacklistedtrackers.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/webapps/job/index.html
+END
+jobconf.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/webapps/job/jobconf.jsp
+END
+jobdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/webapps/job/jobdetails.jsp
+END
+jobtasks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/webapps/job/jobtasks.jsp
+END
+legacyjobhistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/webapps/job/legacyjobhistory.jsp
+END
+taskstats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/webapps/job/taskstats.jsp
+END

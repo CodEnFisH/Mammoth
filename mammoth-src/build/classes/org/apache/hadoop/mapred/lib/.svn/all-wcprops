@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib
+END
+KeyFieldBasedPartitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/KeyFieldBasedPartitioner.class
+END
+InputSampler$RandomSampler.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/InputSampler$RandomSampler.class
+END
+KeyFieldHelper$KeyDescription.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/KeyFieldHelper$KeyDescription.class
+END
+MultipleSequenceFileOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleSequenceFileOutputFormat.class
+END
+RegexMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/RegexMapper.class
+END
+InputSampler$IntervalSampler.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/InputSampler$IntervalSampler.class
+END
+MultithreadedMapRunner$MapperInvokeRunable.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultithreadedMapRunner$MapperInvokeRunable.class
+END
+Chain$ChainOutputCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/Chain$ChainOutputCollector.class
+END
+KeyFieldBasedComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/KeyFieldBasedComparator.class
+END
+MultipleOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleOutputFormat.class
+END
+TotalOrderPartitioner$LeafTrieNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TotalOrderPartitioner$LeafTrieNode.class
+END
+InputSampler$SplitSampler.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/InputSampler$SplitSampler.class
+END
+CombineFileInputFormat$OneFileInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/CombineFileInputFormat$OneFileInfo.class
+END
+ChainMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/ChainMapper.class
+END
+TaggedInputSplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TaggedInputSplit.class
+END
+CombineFileSplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/CombineFileSplit.class
+END
+MultipleOutputs$InternalFileOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleOutputs$InternalFileOutputFormat.class
+END
+KeyFieldHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/KeyFieldHelper.class
+END
+CombineFileRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/CombineFileRecordReader.class
+END
+LongSumReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/LongSumReducer.class
+END
+MultipleInputs.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleInputs.class
+END
+IdentityMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/IdentityMapper.class
+END
+TokenCountMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TokenCountMapper.class
+END
+MultipleOutputs.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleOutputs.class
+END
+CombineFileInputFormat$OneBlockInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/CombineFileInputFormat$OneBlockInfo.class
+END
+IdentityReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/IdentityReducer.class
+END
+NullOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/NullOutputFormat.class
+END
+TotalOrderPartitioner$BinarySearchNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TotalOrderPartitioner$BinarySearchNode.class
+END
+CombineFileInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/CombineFileInputFormat.class
+END
+DelegatingMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/DelegatingMapper.class
+END
+MultipleOutputFormat$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleOutputFormat$1.class
+END
+InputSampler$Sampler.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/InputSampler$Sampler.class
+END
+FieldSelectionMapReduce.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/FieldSelectionMapReduce.class
+END
+InverseMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/InverseMapper.class
+END
+Chain.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/Chain.class
+END
+MultithreadedMapRunner.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultithreadedMapRunner.class
+END
+InputSampler.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/InputSampler.class
+END
+MultipleOutputs$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleOutputs$1.class
+END
+NullOutputFormat$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/NullOutputFormat$1.class
+END
+MultipleTextOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleTextOutputFormat.class
+END
+TotalOrderPartitioner$InnerTrieNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TotalOrderPartitioner$InnerTrieNode.class
+END
+MultipleOutputs$RecordWriterWithCounter.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultipleOutputs$RecordWriterWithCounter.class
+END
+ChainReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/ChainReducer.class
+END
+DelegatingInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/DelegatingInputFormat.class
+END
+NLineInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/NLineInputFormat.class
+END
+TotalOrderPartitioner$TrieNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TotalOrderPartitioner$TrieNode.class
+END
+TotalOrderPartitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TotalOrderPartitioner.class
+END
+MultithreadedMapRunner$BlockingArrayQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/MultithreadedMapRunner$BlockingArrayQueue.class
+END
+HashPartitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/HashPartitioner.class
+END
+Chain$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/Chain$1.class
+END
+CombineFileInputFormat$MultiPathFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/CombineFileInputFormat$MultiPathFilter.class
+END
+TotalOrderPartitioner$Node.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/TotalOrderPartitioner$Node.class
+END

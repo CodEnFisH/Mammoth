@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics
+END
+MetricsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/MetricsUtil.java
+END
+Updater.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/Updater.java
+END
+MetricsRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/MetricsRecord.java
+END
+MetricsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/MetricsException.java
+END
+MetricsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/MetricsServlet.java
+END
+MetricsContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/MetricsContext.java
+END
+ContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/ContextFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/metrics/package.html
+END

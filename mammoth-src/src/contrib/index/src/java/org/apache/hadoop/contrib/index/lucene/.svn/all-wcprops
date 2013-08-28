@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene
+END
+RAMDirectoryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/RAMDirectoryUtil.java
+END
+LuceneUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/LuceneUtil.java
+END
+FileSystemDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/FileSystemDirectory.java
+END
+LuceneIndexFileNameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/LuceneIndexFileNameFilter.java
+END
+MixedDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/MixedDeletionPolicy.java
+END
+MixedDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/MixedDirectory.java
+END
+ShardWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/ShardWriter.java
+END

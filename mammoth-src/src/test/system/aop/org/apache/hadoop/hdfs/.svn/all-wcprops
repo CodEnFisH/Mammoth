@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/test/system/aop/org/apache/hadoop/hdfs
+END
+HDFSPolicyProviderAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/test/system/aop/org/apache/hadoop/hdfs/HDFSPolicyProviderAspect.aj
+END

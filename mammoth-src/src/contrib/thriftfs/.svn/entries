@@ -1,0 +1,172 @@
+10
+
+dir
+2
+https://s3-mammoth.googlecode.com/svn/trunk/src/contrib/thriftfs
+https://s3-mammoth.googlecode.com/svn
+
+
+
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222d3e4f-9f86-7226-70a5-1e99113e8334
+
+test
+dir
+
+src
+dir
+
+scripts
+dir
+
+gen-java
+dir
+
+gen-cpp
+dir
+
+gen-cocoa
+dir
+
+README
+file
+
+
+
+
+2012-09-20T17:42:07.285039Z
+d604242011ccab10edff05f9d9bae85d
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1551
+
+gen-st
+dir
+
+if
+dir
+
+gen-php
+dir
+
+build.xml
+file
+
+
+
+
+2012-09-20T17:42:07.285039Z
+fdef5ffb2ef011dfc0e18d0f365cbe41
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2073
+
+gen-py
+dir
+
+lib
+dir
+
+ivy.xml
+file
+
+
+
+
+2012-09-20T17:42:07.285039Z
+04d9c38f2c4b8e0a4d275e3bdc697757
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1521
+
+ivy
+dir
+
+gen-perl
+dir
+
+gen-rb
+dir
+

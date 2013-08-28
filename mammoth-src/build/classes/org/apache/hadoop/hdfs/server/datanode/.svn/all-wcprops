@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode
+END
+BlockAlreadyExistsException.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/BlockAlreadyExistsException.class
+END
+BlockReceiver$Packet.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/BlockReceiver$Packet.class
+END
+FSDataset.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDataset.class
+END
+FSDataset$ActiveFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDataset$ActiveFile.class
+END
+BlockReceiver.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/BlockReceiver.class
+END
+FSDataset$FSVolumeSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDataset$FSVolumeSet.class
+END
+DataXceiverServer$BlockBalanceThrottler.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataXceiverServer$BlockBalanceThrottler.class
+END
+DataXceiverServer.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataXceiverServer.class
+END
+FSDataset$VolumeInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDataset$VolumeInfo.class
+END
+BlockSender.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/BlockSender.class
+END
+DataNode$BlockRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataNode$BlockRecord.class
+END
+DataStorage.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataStorage.class
+END
+DataBlockScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner.class
+END
+DataXceiver.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataXceiver.class
+END
+DataBlockScanner$LogFileHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner$LogFileHandler.class
+END
+browseDirectory_jsp.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/browseDirectory_jsp.class
+END
+FSDataset$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDataset$1.class
+END
+tail_jsp.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/tail_jsp.class
+END
+BlockTransferThrottler.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/BlockTransferThrottler.class
+END
+DataBlockScanner$Servlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner$Servlet.class
+END
+FSDataset$FSDir.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDataset$FSDir.class
+END
+DataXceiverServer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataXceiverServer$1.class
+END
+UpgradeObjectDatanode.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/UpgradeObjectDatanode.class
+END
+DataNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataNode.class
+END
+DataNode$DataTransfer.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataNode$DataTransfer.class
+END
+UpgradeManagerDatanode.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/UpgradeManagerDatanode.class
+END
+DataBlockScanner$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner$1.class
+END
+DataStorage$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataStorage$1.class
+END
+DataStorage$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataStorage$2.class
+END
+DataStorage$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataStorage$3.class
+END
+DataStorage$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataStorage$4.class
+END
+DataBlockScanner$LogEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner$LogEntry.class
+END
+DataStorage$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataStorage$5.class
+END
+FSDatasetInterface$BlockWriteStreams.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDatasetInterface$BlockWriteStreams.class
+END
+browseBlock_jsp.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/browseBlock_jsp.class
+END
+DataBlockScanner$LogFileHandler$Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner$LogFileHandler$Reader.class
+END
+SecureDataNodeStarter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/SecureDataNodeStarter.class
+END
+BlockReceiver$PacketResponder.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/BlockReceiver$PacketResponder.class
+END
+FSDatasetInterface$BlockInputStreams.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDatasetInterface$BlockInputStreams.class
+END
+DataBlockScanner$BlockScanInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner$BlockScanInfo.class
+END
+FSDatasetInterface.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDatasetInterface.class
+END
+FSDatasetInterface$MetaDataInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDatasetInterface$MetaDataInputStream.class
+END
+SecureDataNodeStarter$SecureResources.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/SecureDataNodeStarter$SecureResources.class
+END
+FSDataset$FSVolume.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/FSDataset$FSVolume.class
+END
+BlockMetadataHeader.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/BlockMetadataHeader.class
+END
+DataNode$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataNode$1.class
+END
+DataNode$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataNode$2.class
+END
+DatanodeBlockInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DatanodeBlockInfo.class
+END
+DataBlockScanner$ScanType.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner$ScanType.class
+END
+DataNodeMXBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/DataNodeMXBean.class
+END

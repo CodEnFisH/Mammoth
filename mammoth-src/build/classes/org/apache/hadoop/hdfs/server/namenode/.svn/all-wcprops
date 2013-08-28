@@ -1,0 +1,713 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode
+END
+FSImage.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSImage.class
+END
+FSImage$CheckpointStates.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSImage$CheckpointStates.class
+END
+PermissionChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/PermissionChecker.class
+END
+FileDataServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FileDataServlet.class
+END
+FSNamesystem$NumberReplicas.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$NumberReplicas.class
+END
+nn_005fbrowsedfscontent_jsp$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/nn_005fbrowsedfscontent_jsp$1.class
+END
+JspHelper$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/JspHelper$1.class
+END
+DfsServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DfsServlet.class
+END
+ContentSummaryServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/ContentSummaryServlet$1.class
+END
+SecondaryNameNode$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode$1.class
+END
+INodeDirectory.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/INodeDirectory.class
+END
+DecommissionManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DecommissionManager.class
+END
+UpgradeObjectNamenode.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/UpgradeObjectNamenode.class
+END
+SecondaryNameNode$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode$3.class
+END
+NameNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NameNode.class
+END
+FSImage$NameNodeFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSImage$NameNodeFile.class
+END
+FSImage$NameNodeDirType.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSImage$NameNodeDirType.class
+END
+FSEditLog$EditLogFileInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSEditLog$EditLogFileInputStream.class
+END
+FileChecksumServlets.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FileChecksumServlets.class
+END
+dfsnodelist_jsp.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/dfsnodelist_jsp.class
+END
+StreamFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/StreamFile.class
+END
+INode$DirCounts.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/INode$DirCounts.class
+END
+NotReplicatedYetException.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NotReplicatedYetException.class
+END
+FSImage$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSImage$1.class
+END
+NamenodeFsck$Result.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NamenodeFsck$Result.class
+END
+FSNamesystem$SafeModeInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$SafeModeInfo.class
+END
+NameCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NameCache.class
+END
+DatanodeDescriptor$BlockIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DatanodeDescriptor$BlockIterator.class
+END
+INodeFileUnderConstruction.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/INodeFileUnderConstruction.class
+END
+NameNode$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NameNode$2.class
+END
+SecondaryNameNode$ErrorSimulator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode$ErrorSimulator.class
+END
+PendingReplicationBlocks.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/PendingReplicationBlocks.class
+END
+PendingReplicationBlocks$PendingBlockInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/PendingReplicationBlocks$PendingBlockInfo.class
+END
+FSNamesystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.class
+END
+dfshealth_jsp.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/dfshealth_jsp.class
+END
+ListPathsServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/ListPathsServlet.class
+END
+FSImage$DatanodeImage.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSImage$DatanodeImage.class
+END
+Host2NodesMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/Host2NodesMap.class
+END
+CancelDelegationTokenServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/CancelDelegationTokenServlet.class
+END
+INode$PermissionStatusFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/INode$PermissionStatusFormat.class
+END
+INodeDirectoryWithQuota.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/INodeDirectoryWithQuota.class
+END
+FSEditLog$BlockTwo.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSEditLog$BlockTwo.class
+END
+JspHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/JspHelper.class
+END
+INode.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/INode.class
+END
+INodeFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/INodeFile.class
+END
+SerialNumberManager$SerialNumberMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SerialNumberManager$SerialNumberMap.class
+END
+DatanodeDescriptor$DecommissioningStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DatanodeDescriptor$DecommissioningStatus.class
+END
+SecondaryNameNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode.class
+END
+JspHelper$1NodeComapare.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/JspHelper$1NodeComapare.class
+END
+GetImageServlet$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/GetImageServlet$1$1.class
+END
+LeaseManager$Lease.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/LeaseManager$Lease.class
+END
+FileChecksumServlets$GetServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FileChecksumServlets$GetServlet.class
+END
+DatanodeDescriptor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DatanodeDescriptor$1.class
+END
+FSNamesystem$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$2.class
+END
+FSEditLog$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSEditLog$1.class
+END
+ListPathsServlet$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/ListPathsServlet$2.class
+END
+FSPermissionChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSPermissionChecker.class
+END
+RenewDelegationTokenServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/RenewDelegationTokenServlet$1.class
+END
+UnderReplicatedBlocks.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/UnderReplicatedBlocks.class
+END
+CheckpointSignature.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/CheckpointSignature.class
+END
+LeaseManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/LeaseManager$1.class
+END
+BlocksMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/BlocksMap.class
+END
+CancelDelegationTokenServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/CancelDelegationTokenServlet$1.class
+END
+FSEditLog$BlockTwo$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSEditLog$BlockTwo$1.class
+END
+FSNamesystem$CompleteFileStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$CompleteFileStatus.class
+END
+DatanodeDescriptor$BlockTargetPair.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DatanodeDescriptor$BlockTargetPair.class
+END
+EditLogInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/EditLogInputStream.class
+END
+SecondaryNameNode$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode$2.class
+END
+FSNamesystem$ReplicationMonitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$ReplicationMonitor.class
+END
+SecondaryNameNode$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode$4.class
+END
+PendingReplicationBlocks$PendingReplicationMonitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/PendingReplicationBlocks$PendingReplicationMonitor.class
+END
+GetImageServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/GetImageServlet.class
+END
+FileChecksumServlets$GetServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FileChecksumServlets$GetServlet$1.class
+END
+UpgradeManagerNamenode.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/UpgradeManagerNamenode.class
+END
+FSEditLog$EditLogFileOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSEditLog$EditLogFileOutputStream.class
+END
+FsckServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FsckServlet.class
+END
+FSDirectory.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSDirectory.class
+END
+NamenodeFsck.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NamenodeFsck.class
+END
+FSNamesystem$SafeModeMonitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$SafeModeMonitor.class
+END
+SecondaryNameNode$CheckpointStorage.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode$CheckpointStorage.class
+END
+LeaseManager$Monitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/LeaseManager$Monitor.class
+END
+ReplicationTargetChooser$NotEnoughReplicasException.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/ReplicationTargetChooser$NotEnoughReplicasException.class
+END
+SafeModeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SafeModeException.class
+END
+FSNamesystem$ReplicationMonitor$ReplicateQueueProcessingStats.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$ReplicationMonitor$ReplicateQueueProcessingStats.class
+END
+DatanodeDescriptor$BlockQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DatanodeDescriptor$BlockQueue.class
+END
+FileDataServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FileDataServlet$1.class
+END
+BlocksMap$BlockInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/BlocksMap$BlockInfo.class
+END
+FSEditLog$TransactionId.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSEditLog$TransactionId.class
+END
+NameNode$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NameNode$1.class
+END
+GetImageServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/GetImageServlet$1.class
+END
+DatanodeDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DatanodeDescriptor.class
+END
+UpgradeManagerNamenode$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/UpgradeManagerNamenode$1.class
+END
+CorruptReplicasMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/CorruptReplicasMap.class
+END
+FsckServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FsckServlet$1.class
+END
+TransferFsImage.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/TransferFsImage.class
+END
+FSEditLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSEditLog.class
+END
+NameNodeMXBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NameNodeMXBean.class
+END
+GetDelegationTokenServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/GetDelegationTokenServlet.class
+END
+RenewDelegationTokenServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/RenewDelegationTokenServlet.class
+END
+NamenodeFsck$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NamenodeFsck$1.class
+END
+SerialNumberManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SerialNumberManager.class
+END
+LeaseManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/LeaseManager.class
+END
+EditLogOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/EditLogOutputStream.class
+END
+FileChecksumServlets$RedirectServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FileChecksumServlets$RedirectServlet.class
+END
+LeaseExpiredException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/LeaseExpiredException.class
+END
+nn_005fbrowsedfscontent_jsp.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/nn_005fbrowsedfscontent_jsp.class
+END
+ContentSummaryServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/ContentSummaryServlet.class
+END
+NameCache$UseCount.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/NameCache$UseCount.class
+END
+BlocksMap$NodeIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/BlocksMap$NodeIterator.class
+END
+DecommissionManager$Monitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/DecommissionManager$Monitor.class
+END
+UnderReplicatedBlocks$BlockIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/UnderReplicatedBlocks$BlockIterator.class
+END
+ReplicationTargetChooser.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/ReplicationTargetChooser.class
+END
+FSNamesystem$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$1.class
+END
+ListPathsServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/ListPathsServlet$1.class
+END
+GetDelegationTokenServlet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/GetDelegationTokenServlet$1.class
+END
+SerialNumberManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/SerialNumberManager$1.class
+END
+FSNamesystem$ReplicationMonitor$InvalidateQueueProcessingStats.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$ReplicationMonitor$InvalidateQueueProcessingStats.class
+END
+FSNamesystem$HeartbeatMonitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/namenode/FSNamesystem$HeartbeatMonitor.class
+END

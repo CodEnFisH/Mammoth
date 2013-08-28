@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example
+END
+LineDocRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example/LineDocRecordReader.java
+END
+HashingDistributionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example/HashingDistributionPolicy.java
+END
+RoundRobinDistributionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example/RoundRobinDistributionPolicy.java
+END
+LineDocTextAndOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example/LineDocTextAndOp.java
+END
+LineDocInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example/LineDocInputFormat.java
+END
+IdentityLocalAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example/IdentityLocalAnalysis.java
+END
+LineDocLocalAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example/LineDocLocalAnalysis.java
+END

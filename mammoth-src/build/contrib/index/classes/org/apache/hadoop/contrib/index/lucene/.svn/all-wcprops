@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene
+END
+MixedDirectory.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/MixedDirectory.class
+END
+FileSystemDirectory$FileSystemIndexOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/FileSystemDirectory$FileSystemIndexOutput.class
+END
+FileSystemDirectory$FileSystemIndexInput$Descriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/FileSystemDirectory$FileSystemIndexInput$Descriptor.class
+END
+ShardWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/ShardWriter.class
+END
+FileSystemDirectory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/FileSystemDirectory$1.class
+END
+RAMDirectoryUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/RAMDirectoryUtil.class
+END
+ShardWriter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/ShardWriter$1.class
+END
+LuceneUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/LuceneUtil.class
+END
+FileSystemDirectory.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/FileSystemDirectory.class
+END
+LuceneUtil$IndexFileNames.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/LuceneUtil$IndexFileNames.class
+END
+LuceneIndexFileNameFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/LuceneIndexFileNameFilter.class
+END
+FileSystemDirectory$FileSystemIndexInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/FileSystemDirectory$FileSystemIndexInput.class
+END
+MixedDeletionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/lucene/MixedDeletionPolicy.class
+END

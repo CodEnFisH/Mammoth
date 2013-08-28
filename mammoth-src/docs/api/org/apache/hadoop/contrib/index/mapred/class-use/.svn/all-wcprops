@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use
+END
+DocumentAndOp.Op.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/DocumentAndOp.Op.html
+END
+IndexUpdateMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IndexUpdateMapper.html
+END
+IndexUpdateReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IndexUpdateReducer.html
+END
+IndexUpdateCombiner.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IndexUpdateCombiner.html
+END
+DocumentID.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/DocumentID.html
+END
+IndexUpdatePartitioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IndexUpdatePartitioner.html
+END
+IndexUpdater.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IndexUpdater.html
+END
+IntermediateForm.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IntermediateForm.html
+END
+DocumentAndOp.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/DocumentAndOp.html
+END
+Shard.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/Shard.html
+END
+IndexUpdateConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IndexUpdateConfiguration.html
+END
+IndexUpdateOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IndexUpdateOutputFormat.html
+END
+IIndexUpdater.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IIndexUpdater.html
+END
+ILocalAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/ILocalAnalysis.html
+END
+IDistributionPolicy.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/mapred/class-use/IDistributionPolicy.html
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/ipc/metrics
+END
+RpcInstrumentation.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/ipc/metrics/RpcInstrumentation.class
+END
+RpcInstrumentation$Detailed.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/ipc/metrics/RpcInstrumentation$Detailed.class
+END

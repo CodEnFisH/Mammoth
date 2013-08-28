@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/bin
+END
+stop-jobhistoryserver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bin/stop-jobhistoryserver.sh
+END
+start-dfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/bin/start-dfs.sh
+END
+hadoop-daemon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/bin/hadoop-daemon.sh
+END
+hadoop-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/bin/hadoop-config.sh
+END
+start-jobhistoryserver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/bin/start-jobhistoryserver.sh
+END
+stop-balancer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/bin/stop-balancer.sh
+END
+stop-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/bin/stop-all.sh
+END
+stop-mapred.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/bin/stop-mapred.sh
+END
+jsvc
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/bin/jsvc
+END
+slaves.sh
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/bin/slaves.sh
+END
+rcc
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/bin/rcc
+END
+hadoop-daemons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/bin/hadoop-daemons.sh
+END
+stop-dfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/bin/stop-dfs.sh
+END
+hadoop
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/bin/hadoop
+END
+start-balancer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/bin/start-balancer.sh
+END
+start-mapred.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bin/start-mapred.sh
+END
+start-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/bin/start-all.sh
+END

@@ -1,0 +1,1285 @@
+2012-05-24 16:47:32,612 INFO org.apache.hadoop.mapred.TaskTracker: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting TaskTracker
+STARTUP_MSG:   host = node005/10.118.166.169
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Thu May 24 16:47:11 UTC 2012
+************************************************************/
+2012-05-24 16:47:32,874 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2012-05-24 16:47:32,880 DEBUG org.apache.hadoop.metrics2.impl.MetricsConfig: poking parent PropertiesConfiguration for period
+2012-05-24 16:47:32,999 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:33,000 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=18
+2012-05-24 16:47:33,000 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:33,001 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:33,001 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2012-05-24 16:47:33,001 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:33,002 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2012-05-24 16:47:33,002 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: TaskTracker metrics system started
+2012-05-24 16:47:33,501 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:33,501 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=6
+2012-05-24 16:47:33,501 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:33,501 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:33,502 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2012-05-24 16:47:33,502 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:33,502 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ugi
+2012-05-24 16:47:33,507 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-05-24 16:47:33,746 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2012-05-24 16:47:33,919 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2012-05-24 16:47:33,959 INFO org.apache.hadoop.mapred.TaskLogsTruncater: Initializing logs' truncater with mapRetainSize=-1 and reduceRetainSize=-1
+2012-05-24 16:47:34,002 INFO org.apache.hadoop.mapred.TaskTracker: Starting tasktracker with owner as s3gator
+2012-05-24 16:47:34,123 DEBUG org.apache.hadoop.mapred.TaskTracker: instrumentation class=null
+2012-05-24 16:47:34,161 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:34,161 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=20
+2012-05-24 16:47:34,161 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:34,161 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:34,162 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source jvm registered.
+2012-05-24 16:47:34,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:34,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source jvm
+2012-05-24 16:47:34,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:34,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=10
+2012-05-24 16:47:34,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:34,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:34,163 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source TaskTrackerMetrics registered.
+2012-05-24 16:47:34,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:34,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source TaskTrackerMetrics
+2012-05-24 16:47:34,190 INFO org.apache.hadoop.ipc.Server: Starting SocketReader
+2012-05-24 16:47:34,194 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:34,194 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=3
+2012-05-24 16:47:34,194 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:34,194 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:34,194 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcDetailedActivityForPort59129 registered.
+2012-05-24 16:47:34,194 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:34,194 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcDetailedActivityForPort59129
+2012-05-24 16:47:34,194 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:34,195 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=15
+2012-05-24 16:47:34,195 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:34,195 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:34,195 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcActivityForPort59129 registered.
+2012-05-24 16:47:34,195 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:34,195 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcActivityForPort59129
+2012-05-24 16:47:34,199 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-05-24 16:47:34,200 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 59129: starting
+2012-05-24 16:47:34,201 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 59129: starting
+2012-05-24 16:47:34,214 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 59129: starting
+2012-05-24 16:47:34,215 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 59129: starting
+2012-05-24 16:47:34,215 INFO org.apache.hadoop.mapred.TaskTracker: TaskTracker up at: ubuntu/127.0.0.1:59129
+2012-05-24 16:47:34,215 INFO org.apache.hadoop.mapred.TaskTracker: Starting tracker tracker_node005:ubuntu/127.0.0.1:59129
+2012-05-24 16:47:34,216 INFO org.apache.hadoop.ipc.Server: IPC Server handler 3 on 59129: starting
+2012-05-24 16:47:35,324 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.114.114.76:9001. Already tried 0 time(s).
+2012-05-24 16:47:36,364 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.114.114.76:9001. Already tried 1 time(s).
+2012-05-24 16:48:07,432 INFO org.apache.hadoop.mapred.TaskTracker: Starting thread: Map-events fetcher for all reduce tasks on tracker_node005:ubuntu/127.0.0.1:59129
+2012-05-24 16:48:07,436 INFO org.apache.hadoop.mapred.TaskTracker:  Using MemoryCalculatorPlugin : org.apache.hadoop.util.LinuxMemoryCalculatorPlugin@2bd9e282
+2012-05-24 16:48:07,450 INFO org.apache.hadoop.util.ProcessTree: setsid exited with exit code 0
+2012-05-24 16:48:07,450 WARN org.apache.hadoop.mapred.TaskTracker: TaskTracker's totalMemoryAllottedForTasks is -1. TaskMemoryManager is disabled.
+2012-05-24 16:48:07,461 INFO org.apache.hadoop.mapred.IndexCache: IndexCache created with max memory = 10485760
+2012-05-24 16:48:07,475 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:48:07,476 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=7
+2012-05-24 16:48:07,476 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:48:07,476 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:48:07,476 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ShuffleServerMetrics registered.
+2012-05-24 16:48:07,476 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:48:07,476 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ShuffleServerMetrics
+2012-05-24 16:48:07,480 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50060
+2012-05-24 16:48:07,480 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50060 webServer.getConnectors()[0].getLocalPort() returned 50060
+2012-05-24 16:48:07,480 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50060
+2012-05-24 16:48:07,480 INFO org.mortbay.log: jetty-6.1.26
+2012-05-24 16:48:07,983 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50060
+2012-05-24 16:48:07,989 INFO org.apache.hadoop.mapred.TaskTracker: FILE_CACHE_SIZE for mapOutputServlet set to : 2000
+2012-05-24 16:48:11,182 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 0 and 0 actions
+2012-05-24 16:48:14,185 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 1 and 0 actions
+2012-05-24 16:48:17,190 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 2 and 0 actions
+2012-05-24 16:48:20,192 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 3 and 0 actions
+2012-05-24 16:48:23,194 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 4 and 0 actions
+2012-05-24 16:48:26,196 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 5 and 0 actions
+2012-05-24 16:48:29,198 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 6 and 0 actions
+2012-05-24 16:48:32,200 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 7 and 0 actions
+2012-05-24 16:48:35,388 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 8 and 2 actions
+2012-05-24 16:48:35,389 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000013_0 task's state:UNASSIGNED
+2012-05-24 16:48:35,395 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000018_0 task's state:UNASSIGNED
+2012-05-24 16:48:35,396 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000013_0 which needs 1 slots
+2012-05-24 16:48:35,396 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 2 and trying to launch attempt_201205241647_0001_m_000013_0 which needs 1 slots
+2012-05-24 16:48:35,406 DEBUG org.apache.hadoop.mapred.TaskTracker: localizingJobTokenFile from sd=/mnt/s3gator/mapred/system/job_201205241647_0001/jobToken to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/jobToken
+2012-05-24 16:48:35,881 INFO org.apache.hadoop.mapred.JobLocalizer: Initializing user s3gator on this TT.
+2012-05-24 16:48:36,378 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000018_0 which needs 1 slots
+2012-05-24 16:48:36,378 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_m_000018_0 which needs 1 slots
+2012-05-24 16:48:36,551 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_-377778289
+2012-05-24 16:48:36,551 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_-377778289 spawned.
+2012-05-24 16:48:36,552 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_-2131157960
+2012-05-24 16:48:36,552 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_-2131157960 spawned.
+2012-05-24 16:48:36,558 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000018_0/taskjvm.sh
+2012-05-24 16:48:36,558 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000013_0/taskjvm.sh
+2012-05-24 16:48:38,482 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 9 and 0 actions
+2012-05-24 16:48:39,461 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_-2131157960 asked for a task
+2012-05-24 16:48:39,461 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_-2131157960 given task: attempt_201205241647_0001_m_000018_0
+2012-05-24 16:48:39,463 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_-377778289 asked for a task
+2012-05-24 16:48:39,464 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_-377778289 given task: attempt_201205241647_0001_m_000013_0
+2012-05-24 16:48:41,570 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 10 and 0 actions
+2012-05-24 16:48:44,645 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 11 and 0 actions
+2012-05-24 16:48:47,704 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 12 and 0 actions
+2012-05-24 16:48:50,755 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 13 and 0 actions
+2012-05-24 16:48:53,757 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 14 and 0 actions
+2012-05-24 16:48:56,760 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 15 and 0 actions
+2012-05-24 16:48:57,058 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000018_0 1.0% 
+2012-05-24 16:48:57,157 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000013_0 1.0% 
+2012-05-24 16:48:59,788 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 16 and 0 actions
+2012-05-24 16:49:00,062 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000018_0 1.0% 
+2012-05-24 16:49:00,161 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000013_0 1.0% 
+2012-05-24 16:49:02,791 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 17 and 0 actions
+2012-05-24 16:49:03,064 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000018_0 1.0% 
+2012-05-24 16:49:03,164 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000013_0 1.0% 
+2012-05-24 16:49:05,793 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 18 and 0 actions
+2012-05-24 16:49:06,088 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000018_0 1.0% 
+2012-05-24 16:49:06,167 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000013_0 1.0% 
+2012-05-24 16:49:08,832 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 19 and 0 actions
+2012-05-24 16:49:09,092 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000018_0 1.0% 
+2012-05-24 16:49:09,209 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000013_0 1.0% 
+2012-05-24 16:49:11,892 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 20 and 0 actions
+2012-05-24 16:49:12,099 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000018_0 1.0% 
+2012-05-24 16:49:12,103 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000018_0 1.0% 
+2012-05-24 16:49:12,105 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000018_0 is done.
+2012-05-24 16:49:12,105 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000018_0  was 81405528
+2012-05-24 16:49:12,105 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000018_0
+2012-05-24 16:49:12,107 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:49:12,224 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000013_0 1.0% 
+2012-05-24 16:49:12,228 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000013_0 1.0% 
+2012-05-24 16:49:12,229 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000013_0 is done.
+2012-05-24 16:49:12,229 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000013_0  was 81405528
+2012-05-24 16:49:12,230 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000013_0
+2012-05-24 16:49:12,230 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 2
+2012-05-24 16:49:12,328 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_-2131157960 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:49:12,393 INFO org.apache.hadoop.util.NativeCodeLoader: Loaded the native-hadoop library
+2012-05-24 16:49:12,575 INFO org.apache.hadoop.io.nativeio.NativeIO: Initialized cache for UID to User mapping with a cache timeout of 14400 seconds.
+2012-05-24 16:49:12,576 INFO org.apache.hadoop.io.nativeio.NativeIO: Got UserName s3gator for UID 1001 from the native implementation
+2012-05-24 16:49:12,595 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_-377778289 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:49:14,958 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 21 and 3 actions
+2012-05-24 16:49:14,959 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000029_0 task's state:UNASSIGNED
+2012-05-24 16:49:14,959 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000031_0 task's state:UNASSIGNED
+2012-05-24 16:49:14,959 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000029_0 which needs 1 slots
+2012-05-24 16:49:14,959 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 2 and trying to launch attempt_201205241647_0001_m_000029_0 which needs 1 slots
+2012-05-24 16:49:14,961 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000013_0 task's state:UNASSIGNED
+2012-05-24 16:49:14,961 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000031_0 which needs 1 slots
+2012-05-24 16:49:14,961 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000013_0 which needs 1 slots
+2012-05-24 16:49:14,961 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_m_000031_0 which needs 1 slots
+2012-05-24 16:49:14,962 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 2 and trying to launch attempt_201205241647_0001_r_000013_0 which needs 1 slots
+2012-05-24 16:49:14,971 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_-73362549
+2012-05-24 16:49:14,972 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_-73362549 spawned.
+2012-05-24 16:49:14,975 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_1771707065
+2012-05-24 16:49:14,975 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_1771707065 spawned.
+2012-05-24 16:49:14,977 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000029_0/taskjvm.sh
+2012-05-24 16:49:14,977 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_-377778289
+2012-05-24 16:49:14,982 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_-377778289 spawned.
+2012-05-24 16:49:14,986 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000031_0/taskjvm.sh
+2012-05-24 16:49:14,990 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000013_0/taskjvm.sh
+2012-05-24 16:49:17,645 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_-377778289 asked for a task
+2012-05-24 16:49:17,645 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_-377778289 given task: attempt_201205241647_0001_r_000013_0
+2012-05-24 16:49:17,951 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_-73362549 asked for a task
+2012-05-24 16:49:17,951 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_-73362549 given task: attempt_201205241647_0001_m_000029_0
+2012-05-24 16:49:17,956 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_1771707065 asked for a task
+2012-05-24 16:49:17,956 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_1771707065 given task: attempt_201205241647_0001_m_000031_0
+2012-05-24 16:49:17,978 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 22 and 0 actions
+2012-05-24 16:49:21,046 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 23 and 0 actions
+2012-05-24 16:49:24,081 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 24 and 0 actions
+2012-05-24 16:49:25,894 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=8; hash=...vzRPGhkYFXm4Y
+2012-05-24 16:49:25,984 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=8;reply=TeK5sssvRtsDQ
+2012-05-24 16:49:26,036 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 8 from map: attempt_201205241647_0001_m_000018_0 given 6/2
+2012-05-24 16:49:26,037 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.114.114.76:39378, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000018_0, duration: 52627133
+2012-05-24 16:49:26,081 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=23; hash=...N//1zxYphOs/I
+2012-05-24 16:49:26,081 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=23;reply=CRZ6OqJuQCPZU
+2012-05-24 16:49:26,083 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 23 from map: attempt_201205241647_0001_m_000013_0 given 6/2
+2012-05-24 16:49:26,083 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.101.53.89:41087, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000013_0, duration: 1420158
+2012-05-24 16:49:27,115 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 25 and 0 actions
+2012-05-24 16:49:27,759 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.0% reduce > copy > 
+2012-05-24 16:49:29,199 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=13; hash=...hKjBQIajHx4F4
+2012-05-24 16:49:29,199 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=13;reply=P2QmMMIm0mz5g
+2012-05-24 16:49:30,187 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 26 and 0 actions
+2012-05-24 16:49:32,772 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=3; hash=...gQw9pK/0hxPIo
+2012-05-24 16:49:32,773 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=3;reply=6GmC0zx2ZuyT0
+2012-05-24 16:49:32,773 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 3 from map: attempt_201205241647_0001_m_000013_0 given 6/2
+2012-05-24 16:49:32,773 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.77.39.184:41026, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000013_0, duration: 587363
+2012-05-24 16:49:33,223 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 27 and 0 actions
+2012-05-24 16:49:33,813 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.0033333334% reduce > copy (1 of 100 at 0.00 MB/s) > 
+2012-05-24 16:49:36,188 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 13 from map: attempt_201205241647_0001_m_000013_0 given 81404934/81404930
+2012-05-24 16:49:36,188 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55371, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000013_0, duration: 6983262341
+2012-05-24 16:49:36,254 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 28 and 1 actions
+2012-05-24 16:49:36,257 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000018_0 task's state:UNASSIGNED
+2012-05-24 16:49:36,257 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000018_0 which needs 1 slots
+2012-05-24 16:49:36,257 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000018_0 which needs 1 slots
+2012-05-24 16:49:36,266 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_-2131157960
+2012-05-24 16:49:36,267 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_-2131157960 spawned.
+2012-05-24 16:49:36,340 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000018_0/taskjvm.sh
+2012-05-24 16:49:36,819 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.006666667% reduce > copy (2 of 100 at 5.18 MB/s) > 
+2012-05-24 16:49:37,978 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_-2131157960 asked for a task
+2012-05-24 16:49:37,978 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_-2131157960 given task: attempt_201205241647_0001_r_000018_0
+2012-05-24 16:49:39,261 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 29 and 0 actions
+2012-05-24 16:49:39,431 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:39,555 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:39,821 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.006666667% reduce > copy (2 of 100 at 5.18 MB/s) > 
+2012-05-24 16:49:42,287 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 30 and 0 actions
+2012-05-24 16:49:42,437 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:42,558 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:45,290 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 31 and 0 actions
+2012-05-24 16:49:45,455 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:45,460 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.0% reduce > copy > 
+2012-05-24 16:49:45,462 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=18; hash=...fmf4My4fApwjw
+2012-05-24 16:49:45,462 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=18;reply=2np+eUYSjZETM
+2012-05-24 16:49:45,607 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:45,830 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.01% reduce > copy (3 of 100 at 3.88 MB/s) > 
+2012-05-24 16:49:48,023 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 18 from map: attempt_201205241647_0001_m_000018_0 given 81404934/81404930
+2012-05-24 16:49:48,024 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55379, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000018_0, duration: 2561229652
+2012-05-24 16:49:48,292 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 32 and 0 actions
+2012-05-24 16:49:48,459 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:48,610 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:51,294 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 33 and 0 actions
+2012-05-24 16:49:51,461 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:51,466 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.01% reduce > copy (3 of 100 at 8.63 MB/s) > 
+2012-05-24 16:49:51,613 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:51,834 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.01% reduce > copy (3 of 100 at 3.88 MB/s) > 
+2012-05-24 16:49:54,310 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 34 and 0 actions
+2012-05-24 16:49:54,517 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:54,737 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:54,878 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.01% reduce > copy (3 of 100 at 3.88 MB/s) > 
+2012-05-24 16:49:56,740 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.01% reduce > copy (3 of 100 at 3.88 MB/s) > 
+2012-05-24 16:49:57,322 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 35 and 0 actions
+2012-05-24 16:49:57,522 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:57,523 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.01% reduce > copy (3 of 100 at 8.63 MB/s) > 
+2012-05-24 16:49:57,533 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000029_0 1.0% 
+2012-05-24 16:49:57,534 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000029_0 is done.
+2012-05-24 16:49:57,534 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000029_0  was 81405528
+2012-05-24 16:49:57,534 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000029_0
+2012-05-24 16:49:57,535 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:49:57,740 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:57,744 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000031_0 1.0% 
+2012-05-24 16:49:57,750 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000031_0 is done.
+2012-05-24 16:49:57,750 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000031_0  was 81405528
+2012-05-24 16:49:57,750 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000031_0
+2012-05-24 16:49:57,750 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 2
+2012-05-24 16:49:57,956 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_-73362549 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:49:58,049 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.01% reduce > copy (3 of 100 at 3.88 MB/s) > 
+2012-05-24 16:49:58,309 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_1771707065 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:50:00,360 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 36 and 2 actions
+2012-05-24 16:50:00,361 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000037_0 task's state:UNASSIGNED
+2012-05-24 16:50:00,361 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000039_0 task's state:UNASSIGNED
+2012-05-24 16:50:00,361 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000037_0 which needs 1 slots
+2012-05-24 16:50:00,361 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 2 and trying to launch attempt_201205241647_0001_m_000037_0 which needs 1 slots
+2012-05-24 16:50:00,362 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000039_0 which needs 1 slots
+2012-05-24 16:50:00,362 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_m_000039_0 which needs 1 slots
+2012-05-24 16:50:00,368 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_-1981134865
+2012-05-24 16:50:00,369 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_-1981134865 spawned.
+2012-05-24 16:50:00,369 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_1025452334
+2012-05-24 16:50:00,369 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_1025452334 spawned.
+2012-05-24 16:50:00,374 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000037_0/taskjvm.sh
+2012-05-24 16:50:00,376 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000039_0/taskjvm.sh
+2012-05-24 16:50:00,944 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.6699022% reduce > reduce
+2012-05-24 16:50:02,531 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_1025452334 asked for a task
+2012-05-24 16:50:02,531 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_1025452334 given task: attempt_201205241647_0001_m_000039_0
+2012-05-24 16:50:02,532 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_-1981134865 asked for a task
+2012-05-24 16:50:02,532 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_-1981134865 given task: attempt_201205241647_0001_m_000037_0
+2012-05-24 16:50:03,366 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 37 and 0 actions
+2012-05-24 16:50:03,526 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.01% reduce > copy (3 of 100 at 8.63 MB/s) > 
+2012-05-24 16:50:04,001 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.6732428% reduce > reduce
+2012-05-24 16:50:06,443 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 38 and 0 actions
+2012-05-24 16:50:06,533 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.01% reduce > copy (3 of 100 at 8.63 MB/s) > 
+2012-05-24 16:50:07,004 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.6763731% reduce > reduce
+2012-05-24 16:50:08,721 INFO org.mortbay.log: org.mortbay.io.nio.SelectorManager$SelectSet@4c842d9a JVM BUG(s) - injecting delay2 times
+2012-05-24 16:50:08,721 INFO org.mortbay.log: org.mortbay.io.nio.SelectorManager$SelectSet@4c842d9a JVM BUG(s) - recreating selector 2 times, canceled keys 72 times
+2012-05-24 16:50:09,505 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 39 and 0 actions
+2012-05-24 16:50:10,009 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.6792929% reduce > reduce
+2012-05-24 16:50:12,537 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.013333334% reduce > copy (4 of 100 at 2.68 MB/s) > 
+2012-05-24 16:50:12,671 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 40 and 0 actions
+2012-05-24 16:50:13,012 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.68216014% reduce > reduce
+2012-05-24 16:50:13,779 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.013333334% reduce > copy (4 of 100 at 2.68 MB/s) > 
+2012-05-24 16:50:15,683 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 41 and 0 actions
+2012-05-24 16:50:16,019 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.6851063% reduce > reduce
+2012-05-24 16:50:16,148 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.013333334% reduce > copy (4 of 100 at 2.68 MB/s) > 
+2012-05-24 16:50:18,687 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 42 and 0 actions
+2012-05-24 16:50:18,737 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.6689552% reduce > reduce
+2012-05-24 16:50:19,093 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.68842065% reduce > reduce
+2012-05-24 16:50:21,715 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 43 and 0 actions
+2012-05-24 16:50:21,739 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.67279565% reduce > reduce
+2012-05-24 16:50:22,096 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.69215596% reduce > reduce
+2012-05-24 16:50:22,858 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000037_0 1.0% 
+2012-05-24 16:50:23,072 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000039_0 1.0% 
+2012-05-24 16:50:24,718 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 44 and 0 actions
+2012-05-24 16:50:24,742 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.67655724% reduce > reduce
+2012-05-24 16:50:25,098 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.69599646% reduce > reduce
+2012-05-24 16:50:25,861 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000037_0 1.0% 
+2012-05-24 16:50:26,075 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000039_0 1.0% 
+2012-05-24 16:50:27,720 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 45 and 0 actions
+2012-05-24 16:50:27,744 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.6803452% reduce > reduce
+2012-05-24 16:50:28,101 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.6998369% reduce > reduce
+2012-05-24 16:50:28,864 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000037_0 1.0% 
+2012-05-24 16:50:29,078 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000039_0 1.0% 
+2012-05-24 16:50:30,723 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 46 and 0 actions
+2012-05-24 16:50:30,747 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.6841856% reduce > reduce
+2012-05-24 16:50:31,103 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7036774% reduce > reduce
+2012-05-24 16:50:31,867 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000037_0 1.0% 
+2012-05-24 16:50:32,081 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000039_0 1.0% 
+2012-05-24 16:50:33,749 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.6874474% reduce > reduce
+2012-05-24 16:50:33,754 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 47 and 0 actions
+2012-05-24 16:50:34,159 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.70693916% reduce > reduce
+2012-05-24 16:50:34,870 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000037_0 1.0% 
+2012-05-24 16:50:35,084 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000039_0 1.0% 
+2012-05-24 16:50:36,751 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.69052505% reduce > reduce
+2012-05-24 16:50:36,756 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 48 and 0 actions
+2012-05-24 16:50:37,161 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.71009576% reduce > reduce
+2012-05-24 16:50:37,875 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000037_0 1.0% 
+2012-05-24 16:50:37,878 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000037_0 1.0% 
+2012-05-24 16:50:37,879 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000037_0 is done.
+2012-05-24 16:50:37,879 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000037_0  was 81405528
+2012-05-24 16:50:37,879 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000037_0
+2012-05-24 16:50:37,879 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:50:38,148 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000039_0 1.0% 
+2012-05-24 16:50:38,151 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000039_0 1.0% 
+2012-05-24 16:50:38,152 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000039_0 is done.
+2012-05-24 16:50:38,152 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000039_0  was 81405528
+2012-05-24 16:50:38,152 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000039_0
+2012-05-24 16:50:38,152 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 2
+2012-05-24 16:50:38,380 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_1025452334 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:50:38,382 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_-1981134865 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:50:39,754 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.694234% reduce > reduce
+2012-05-24 16:50:39,857 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 49 and 2 actions
+2012-05-24 16:50:39,858 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000060_0 task's state:UNASSIGNED
+2012-05-24 16:50:39,858 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000064_0 task's state:UNASSIGNED
+2012-05-24 16:50:39,858 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000060_0 which needs 1 slots
+2012-05-24 16:50:39,858 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 2 and trying to launch attempt_201205241647_0001_m_000060_0 which needs 1 slots
+2012-05-24 16:50:39,859 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000064_0 which needs 1 slots
+2012-05-24 16:50:39,859 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_m_000064_0 which needs 1 slots
+2012-05-24 16:50:39,891 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_-1389694026
+2012-05-24 16:50:39,892 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_-1389694026 spawned.
+2012-05-24 16:50:39,892 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_1043124565
+2012-05-24 16:50:39,892 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_1043124565 spawned.
+2012-05-24 16:50:39,897 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000064_0/taskjvm.sh
+2012-05-24 16:50:39,898 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000060_0/taskjvm.sh
+2012-05-24 16:50:40,163 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7138047% reduce > reduce
+2012-05-24 16:50:41,780 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_1043124565 asked for a task
+2012-05-24 16:50:41,780 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_1043124565 given task: attempt_201205241647_0001_m_000060_0
+2012-05-24 16:50:41,938 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_-1389694026 asked for a task
+2012-05-24 16:50:41,938 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_-1389694026 given task: attempt_201205241647_0001_m_000064_0
+2012-05-24 16:50:42,756 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.69767994% reduce > reduce
+2012-05-24 16:50:42,860 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 50 and 0 actions
+2012-05-24 16:50:43,188 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7172506% reduce > reduce
+2012-05-24 16:50:45,802 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.70094174% reduce > reduce
+2012-05-24 16:50:45,871 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 51 and 0 actions
+2012-05-24 16:50:46,251 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.72053874% reduce > reduce
+2012-05-24 16:50:48,807 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7039404% reduce > reduce
+2012-05-24 16:50:48,892 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 52 and 0 actions
+2012-05-24 16:50:49,280 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7234585% reduce > reduce
+2012-05-24 16:50:51,892 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.70696545% reduce > reduce
+2012-05-24 16:50:51,902 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 53 and 0 actions
+2012-05-24 16:50:52,282 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7264836% reduce > reduce
+2012-05-24 16:50:54,894 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.709859% reduce > reduce
+2012-05-24 16:50:54,905 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 54 and 0 actions
+2012-05-24 16:50:55,284 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.72937715% reduce > reduce
+2012-05-24 16:50:57,896 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.71330494% reduce > reduce
+2012-05-24 16:50:57,907 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 55 and 0 actions
+2012-05-24 16:50:58,287 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.73308605% reduce > reduce
+2012-05-24 16:50:59,372 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000064_0 1.0% 
+2012-05-24 16:51:00,899 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7171191% reduce > reduce
+2012-05-24 16:51:00,926 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 56 and 0 actions
+2012-05-24 16:51:01,289 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.73679507% reduce > reduce
+2012-05-24 16:51:02,375 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000064_0 1.0% 
+2012-05-24 16:51:02,379 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000060_0 1.0% 
+2012-05-24 16:51:03,902 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7209333% reduce > reduce
+2012-05-24 16:51:03,937 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 57 and 0 actions
+2012-05-24 16:51:04,291 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7406355% reduce > reduce
+2012-05-24 16:51:05,377 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000064_0 1.0% 
+2012-05-24 16:51:05,381 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000060_0 1.0% 
+2012-05-24 16:51:06,904 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.72474754% reduce > reduce
+2012-05-24 16:51:06,939 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 58 and 0 actions
+2012-05-24 16:51:07,293 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.744476% reduce > reduce
+2012-05-24 16:51:08,379 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000064_0 1.0% 
+2012-05-24 16:51:08,383 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000060_0 1.0% 
+2012-05-24 16:51:09,957 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.72856164% reduce > reduce
+2012-05-24 16:51:09,958 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 59 and 0 actions
+2012-05-24 16:51:10,316 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.74826384% reduce > reduce
+2012-05-24 16:51:11,398 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000060_0 1.0% 
+2012-05-24 16:51:11,457 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000064_0 1.0% 
+2012-05-24 16:51:12,960 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.73171824% reduce > reduce
+2012-05-24 16:51:12,993 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 60 and 0 actions
+2012-05-24 16:51:13,378 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7514467% reduce > reduce
+2012-05-24 16:51:14,401 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000060_0 1.0% 
+2012-05-24 16:51:14,460 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000064_0 1.0% 
+2012-05-24 16:51:14,463 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000064_0 1.0% 
+2012-05-24 16:51:14,465 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000064_0 is done.
+2012-05-24 16:51:14,465 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000064_0  was 81405528
+2012-05-24 16:51:14,465 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000064_0
+2012-05-24 16:51:14,465 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:51:14,828 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_-1389694026 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:51:15,962 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.73516417% reduce > reduce
+2012-05-24 16:51:16,011 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 61 and 1 actions
+2012-05-24 16:51:16,011 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000073_0 task's state:UNASSIGNED
+2012-05-24 16:51:16,011 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000073_0 which needs 1 slots
+2012-05-24 16:51:16,011 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_m_000073_0 which needs 1 slots
+2012-05-24 16:51:16,017 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_1184708241
+2012-05-24 16:51:16,018 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_1184708241 spawned.
+2012-05-24 16:51:16,052 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000073_0/taskjvm.sh
+2012-05-24 16:51:16,380 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.754919% reduce > reduce
+2012-05-24 16:51:17,403 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000060_0 1.0% 
+2012-05-24 16:51:17,407 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000060_0 1.0% 
+2012-05-24 16:51:17,408 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000060_0 is done.
+2012-05-24 16:51:17,408 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000060_0  was 81405528
+2012-05-24 16:51:17,408 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000060_0
+2012-05-24 16:51:17,408 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:51:17,651 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_1043124565 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:51:17,737 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_1184708241 asked for a task
+2012-05-24 16:51:17,737 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_1184708241 given task: attempt_201205241647_0001_m_000073_0
+2012-05-24 16:51:18,965 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.73876786% reduce > reduce
+2012-05-24 16:51:19,021 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 62 and 1 actions
+2012-05-24 16:51:19,021 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_m_000076_0 task's state:UNASSIGNED
+2012-05-24 16:51:19,021 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_m_000076_0 which needs 1 slots
+2012-05-24 16:51:19,021 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_m_000076_0 which needs 1 slots
+2012-05-24 16:51:19,027 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_m_-1902324439
+2012-05-24 16:51:19,028 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_m_-1902324439 spawned.
+2012-05-24 16:51:19,032 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_m_000076_0/taskjvm.sh
+2012-05-24 16:51:19,382 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.758286% reduce > reduce
+2012-05-24 16:51:21,644 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_m_-1902324439 asked for a task
+2012-05-24 16:51:21,644 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_m_-1902324439 given task: attempt_201205241647_0001_m_000076_0
+2012-05-24 16:51:21,968 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7420034% reduce > reduce
+2012-05-24 16:51:22,024 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 63 and 0 actions
+2012-05-24 16:51:22,385 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.76144254% reduce > reduce
+2012-05-24 16:51:25,019 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.74508107% reduce > reduce
+2012-05-24 16:51:25,062 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 64 and 0 actions
+2012-05-24 16:51:25,391 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.76462543% reduce > reduce
+2012-05-24 16:51:28,022 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7481324% reduce > reduce
+2012-05-24 16:51:28,065 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 65 and 0 actions
+2012-05-24 16:51:28,394 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7674663% reduce > reduce
+2012-05-24 16:51:31,025 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7511837% reduce > reduce
+2012-05-24 16:51:31,067 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 66 and 0 actions
+2012-05-24 16:51:31,424 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7704388% reduce > reduce
+2012-05-24 16:51:34,027 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7548138% reduce > reduce
+2012-05-24 16:51:34,074 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 67 and 0 actions
+2012-05-24 16:51:34,426 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7742003% reduce > reduce
+2012-05-24 16:51:36,946 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:37,029 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.75860167% reduce > reduce
+2012-05-24 16:51:37,097 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 68 and 0 actions
+2012-05-24 16:51:37,428 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7779882% reduce > reduce
+2012-05-24 16:51:39,633 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:51:39,948 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:40,031 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7624421% reduce > reduce
+2012-05-24 16:51:40,108 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 69 and 0 actions
+2012-05-24 16:51:40,430 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.78182876% reduce > reduce
+2012-05-24 16:51:42,635 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:51:42,950 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:43,034 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.76630896% reduce > reduce
+2012-05-24 16:51:43,132 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 70 and 0 actions
+2012-05-24 16:51:43,432 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.78564286% reduce > reduce
+2012-05-24 16:51:45,637 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:51:45,953 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:46,036 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7701231% reduce > reduce
+2012-05-24 16:51:46,160 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 71 and 0 actions
+2012-05-24 16:51:46,434 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7894834% reduce > reduce
+2012-05-24 16:51:48,639 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:51:48,955 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:49,038 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7739899% reduce > reduce
+2012-05-24 16:51:49,173 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 72 and 0 actions
+2012-05-24 16:51:49,436 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7933239% reduce > reduce
+2012-05-24 16:51:51,642 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:51:51,957 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:52,040 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.77783036% reduce > reduce
+2012-05-24 16:51:52,175 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 73 and 0 actions
+2012-05-24 16:51:52,438 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.7971644% reduce > reduce
+2012-05-24 16:51:54,644 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:51:54,959 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:55,042 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7816709% reduce > reduce
+2012-05-24 16:51:55,178 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 74 and 0 actions
+2012-05-24 16:51:55,440 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8010311% reduce > reduce
+2012-05-24 16:51:57,646 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:51:57,962 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:51:58,044 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.785485% reduce > reduce
+2012-05-24 16:51:58,180 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 75 and 0 actions
+2012-05-24 16:51:58,442 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8048717% reduce > reduce
+2012-05-24 16:52:00,648 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:00,964 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:01,046 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.78929925% reduce > reduce
+2012-05-24 16:52:01,182 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 76 and 0 actions
+2012-05-24 16:52:01,444 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8087121% reduce > reduce
+2012-05-24 16:52:03,651 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:03,966 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:04,048 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.7931134% reduce > reduce
+2012-05-24 16:52:04,185 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 77 and 0 actions
+2012-05-24 16:52:04,446 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.81255263% reduce > reduce
+2012-05-24 16:52:06,653 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:06,968 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:07,050 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.79692763% reduce > reduce
+2012-05-24 16:52:07,254 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 78 and 0 actions
+2012-05-24 16:52:07,448 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8163931% reduce > reduce
+2012-05-24 16:52:09,655 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:09,999 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:10,052 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.80068916% reduce > reduce
+2012-05-24 16:52:10,257 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 79 and 0 actions
+2012-05-24 16:52:10,450 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8202336% reduce > reduce
+2012-05-24 16:52:12,657 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:13,001 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:13,054 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.80452967% reduce > reduce
+2012-05-24 16:52:13,260 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 80 and 0 actions
+2012-05-24 16:52:13,452 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.82402146% reduce > reduce
+2012-05-24 16:52:15,661 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:16,003 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:16,056 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8082123% reduce > reduce
+2012-05-24 16:52:16,263 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 81 and 0 actions
+2012-05-24 16:52:16,454 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8277304% reduce > reduce
+2012-05-24 16:52:18,663 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:19,005 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:19,058 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8119739% reduce > reduce
+2012-05-24 16:52:19,266 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 82 and 0 actions
+2012-05-24 16:52:19,456 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.83149195% reduce > reduce
+2012-05-24 16:52:21,665 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:22,007 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:22,060 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.81576174% reduce > reduce
+2012-05-24 16:52:22,284 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 83 and 0 actions
+2012-05-24 16:52:22,458 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.83530617% reduce > reduce
+2012-05-24 16:52:24,667 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:25,010 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:25,062 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.81952333% reduce > reduce
+2012-05-24 16:52:25,289 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 84 and 0 actions
+2012-05-24 16:52:25,460 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8390414% reduce > reduce
+2012-05-24 16:52:27,720 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:28,012 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:28,064 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.82331127% reduce > reduce
+2012-05-24 16:52:28,291 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 85 and 0 actions
+2012-05-24 16:52:28,462 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8428819% reduce > reduce
+2012-05-24 16:52:30,722 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:31,014 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:31,066 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.827178% reduce > reduce
+2012-05-24 16:52:31,294 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 86 and 0 actions
+2012-05-24 16:52:31,465 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8467225% reduce > reduce
+2012-05-24 16:52:33,724 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:34,016 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:34,068 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.83101857% reduce > reduce
+2012-05-24 16:52:34,296 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 87 and 0 actions
+2012-05-24 16:52:34,467 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.85056293% reduce > reduce
+2012-05-24 16:52:36,726 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:37,018 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:37,070 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8348853% reduce > reduce
+2012-05-24 16:52:37,298 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 88 and 0 actions
+2012-05-24 16:52:37,468 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.85440344% reduce > reduce
+2012-05-24 16:52:39,728 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:40,020 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:40,072 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8387258% reduce > reduce
+2012-05-24 16:52:40,300 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 89 and 0 actions
+2012-05-24 16:52:40,470 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8582439% reduce > reduce
+2012-05-24 16:52:42,730 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:43,022 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:43,074 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.84256625% reduce > reduce
+2012-05-24 16:52:43,302 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 90 and 0 actions
+2012-05-24 16:52:43,472 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.86211073% reduce > reduce
+2012-05-24 16:52:45,738 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:46,024 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:46,076 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8464331% reduce > reduce
+2012-05-24 16:52:46,304 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 91 and 0 actions
+2012-05-24 16:52:46,474 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8659512% reduce > reduce
+2012-05-24 16:52:48,740 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:49,026 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:49,078 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.85027355% reduce > reduce
+2012-05-24 16:52:49,306 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 92 and 0 actions
+2012-05-24 16:52:49,476 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.869818% reduce > reduce
+2012-05-24 16:52:51,760 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:52,028 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:52,080 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8541404% reduce > reduce
+2012-05-24 16:52:52,308 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 93 and 0 actions
+2012-05-24 16:52:52,478 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8736584% reduce > reduce
+2012-05-24 16:52:54,762 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:55,030 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:55,082 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8579282% reduce > reduce
+2012-05-24 16:52:55,309 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 94 and 0 actions
+2012-05-24 16:52:55,480 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.87752527% reduce > reduce
+2012-05-24 16:52:57,764 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:52:58,032 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:52:58,084 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.86179507% reduce > reduce
+2012-05-24 16:52:58,318 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 95 and 0 actions
+2012-05-24 16:52:58,482 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8813658% reduce > reduce
+2012-05-24 16:53:00,766 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:53:01,034 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:01,086 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8656356% reduce > reduce
+2012-05-24 16:53:01,319 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 96 and 0 actions
+2012-05-24 16:53:01,484 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.88523257% reduce > reduce
+2012-05-24 16:53:03,769 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:53:04,036 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:04,088 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.86944973% reduce > reduce
+2012-05-24 16:53:04,328 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 97 and 0 actions
+2012-05-24 16:53:04,486 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.88894147% reduce > reduce
+2012-05-24 16:53:06,771 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:53:07,038 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:07,090 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.87329024% reduce > reduce
+2012-05-24 16:53:07,332 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 98 and 0 actions
+2012-05-24 16:53:07,488 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.892782% reduce > reduce
+2012-05-24 16:53:09,773 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:53:10,040 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:10,092 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.87694657% reduce > reduce
+2012-05-24 16:53:10,335 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 99 and 0 actions
+2012-05-24 16:53:10,490 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.8964121% reduce > reduce
+2012-05-24 16:53:12,778 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:53:13,042 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:13,135 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8805766% reduce > reduce
+2012-05-24 16:53:13,357 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 100 and 0 actions
+2012-05-24 16:53:13,492 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9000947% reduce > reduce
+2012-05-24 16:53:15,780 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:53:15,783 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000076_0 1.0% 
+2012-05-24 16:53:15,784 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000076_0 is done.
+2012-05-24 16:53:15,785 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000076_0  was 162964632
+2012-05-24 16:53:15,785 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000076_0
+2012-05-24 16:53:15,785 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:53:16,040 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_-1902324439 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:53:16,044 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:16,137 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.88441706% reduce > reduce
+2012-05-24 16:53:16,362 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 101 and 0 actions
+2012-05-24 16:53:16,494 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9038563% reduce > reduce
+2012-05-24 16:53:19,046 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:19,139 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.8882839% reduce > reduce
+2012-05-24 16:53:19,365 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 102 and 0 actions
+2012-05-24 16:53:19,496 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.90764415% reduce > reduce
+2012-05-24 16:53:22,049 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:22,166 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.89201915% reduce > reduce
+2012-05-24 16:53:22,377 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 103 and 0 actions
+2012-05-24 16:53:22,498 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9111427% reduce > reduce
+2012-05-24 16:53:25,051 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:25,054 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_m_000073_0 1.0% 
+2012-05-24 16:53:25,055 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_m_000073_0 is done.
+2012-05-24 16:53:25,055 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_m_000073_0  was 175452888
+2012-05-24 16:53:25,055 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000073_0
+2012-05-24 16:53:25,055 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 2
+2012-05-24 16:53:25,197 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.89578074% reduce > reduce
+2012-05-24 16:53:25,398 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 104 and 0 actions
+2012-05-24 16:53:25,493 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_m_1184708241 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:53:25,500 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9149305% reduce > reduce
+2012-05-24 16:53:28,199 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.89959496% reduce > reduce
+2012-05-24 16:53:28,401 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 105 and 0 actions
+2012-05-24 16:53:28,502 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.91874474% reduce > reduce
+2012-05-24 16:53:31,201 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9034091% reduce > reduce
+2012-05-24 16:53:31,403 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 106 and 0 actions
+2012-05-24 16:53:31,505 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9225852% reduce > reduce
+2012-05-24 16:53:34,203 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.907197% reduce > reduce
+2012-05-24 16:53:34,405 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 107 and 0 actions
+2012-05-24 16:53:34,507 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9264257% reduce > reduce
+2012-05-24 16:53:37,206 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.91101116% reduce > reduce
+2012-05-24 16:53:37,408 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 108 and 0 actions
+2012-05-24 16:53:37,509 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.93026626% reduce > reduce
+2012-05-24 16:53:40,208 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9148779% reduce > reduce
+2012-05-24 16:53:40,409 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 109 and 0 actions
+2012-05-24 16:53:40,511 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9340541% reduce > reduce
+2012-05-24 16:53:43,210 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.91871846% reduce > reduce
+2012-05-24 16:53:43,411 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 110 and 0 actions
+2012-05-24 16:53:43,513 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9378946% reduce > reduce
+2012-05-24 16:53:46,212 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9225852% reduce > reduce
+2012-05-24 16:53:46,413 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 111 and 0 actions
+2012-05-24 16:53:46,515 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9417614% reduce > reduce
+2012-05-24 16:53:49,215 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9264257% reduce > reduce
+2012-05-24 16:53:49,415 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 112 and 0 actions
+2012-05-24 16:53:49,517 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9455756% reduce > reduce
+2012-05-24 16:53:52,217 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9302925% reduce > reduce
+2012-05-24 16:53:52,417 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 113 and 0 actions
+2012-05-24 16:53:52,519 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.94941604% reduce > reduce
+2012-05-24 16:53:55,219 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9341593% reduce > reduce
+2012-05-24 16:53:55,420 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 114 and 0 actions
+2012-05-24 16:53:55,521 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9532565% reduce > reduce
+2012-05-24 16:53:58,221 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.93799984% reduce > reduce
+2012-05-24 16:53:58,422 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 115 and 0 actions
+2012-05-24 16:53:58,523 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9571233% reduce > reduce
+2012-05-24 16:54:00,339 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=12; hash=...Ef8tOymTpjwHE
+2012-05-24 16:54:00,339 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=12;reply=PeMo107Hpf4+I
+2012-05-24 16:54:00,340 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 12 from map: attempt_201205241647_0001_m_000013_0 given 6/2
+2012-05-24 16:54:00,340 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47027, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000013_0, duration: 727208
+2012-05-24 16:54:01,223 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9418666% reduce > reduce
+2012-05-24 16:54:01,464 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 116 and 0 actions
+2012-05-24 16:54:01,525 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.96096385% reduce > reduce
+2012-05-24 16:54:04,225 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9457071% reduce > reduce
+2012-05-24 16:54:04,466 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 117 and 0 actions
+2012-05-24 16:54:04,527 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.96477795% reduce > reduce
+2012-05-24 16:54:07,228 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9495739% reduce > reduce
+2012-05-24 16:54:07,468 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 118 and 0 actions
+2012-05-24 16:54:07,529 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9686448% reduce > reduce
+2012-05-24 16:54:10,230 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9534143% reduce > reduce
+2012-05-24 16:54:10,471 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 119 and 0 actions
+2012-05-24 16:54:10,531 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.97248524% reduce > reduce
+2012-05-24 16:54:13,232 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9572811% reduce > reduce
+2012-05-24 16:54:13,474 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 120 and 0 actions
+2012-05-24 16:54:13,533 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.97629946% reduce > reduce
+2012-05-24 16:54:16,234 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9611217% reduce > reduce
+2012-05-24 16:54:16,479 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 121 and 0 actions
+2012-05-24 16:54:16,535 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9801399% reduce > reduce
+2012-05-24 16:54:19,236 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9649884% reduce > reduce
+2012-05-24 16:54:19,484 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 122 and 0 actions
+2012-05-24 16:54:19,537 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.98400676% reduce > reduce
+2012-05-24 16:54:22,238 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.96882886% reduce > reduce
+2012-05-24 16:54:22,539 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.98784727% reduce > reduce
+2012-05-24 16:54:22,559 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 123 and 0 actions
+2012-05-24 16:54:23,231 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=19; hash=...WsA5WSFOpmRTE
+2012-05-24 16:54:23,231 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=19;reply=NQscWSfMfWZ8s
+2012-05-24 16:54:23,231 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=19; hash=...SmH/upeDmJW6A
+2012-05-24 16:54:23,231 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=19;reply=XjUChrF5uDpHM
+2012-05-24 16:54:23,232 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 19 from map: attempt_201205241647_0001_m_000018_0 given 6/2
+2012-05-24 16:54:23,232 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.114.114.76:39490, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000018_0, duration: 555128
+2012-05-24 16:54:23,232 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 19 from map: attempt_201205241647_0001_m_000029_0 given 6/2
+2012-05-24 16:54:23,233 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.114.114.76:39491, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000029_0, duration: 1111027
+2012-05-24 16:54:25,240 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9726957% reduce > reduce
+2012-05-24 16:54:25,541 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9916614% reduce > reduce
+2012-05-24 16:54:25,561 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 124 and 0 actions
+2012-05-24 16:54:28,242 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9765625% reduce > reduce
+2012-05-24 16:54:28,543 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.99547565% reduce > reduce
+2012-05-24 16:54:28,564 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 125 and 0 actions
+2012-05-24 16:54:31,289 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.980482% reduce > reduce
+2012-05-24 16:54:31,393 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=14; hash=...mtF2wWlt/GzyM
+2012-05-24 16:54:31,393 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000013_0&reduce=14;reply=NxbK5KyPWpask
+2012-05-24 16:54:31,394 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 14 from map: attempt_201205241647_0001_m_000013_0 given 6/2
+2012-05-24 16:54:31,394 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.100.222.164:47131, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000013_0, duration: 576020
+2012-05-24 16:54:31,545 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9993161% reduce > reduce
+2012-05-24 16:54:31,566 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 126 and 0 actions
+2012-05-24 16:54:32,155 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000013_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:54:32,155 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 0.9993161% reduce > reduce
+2012-05-24 16:54:32,252 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=17; hash=...pJwzl5Ge0Ap6g
+2012-05-24 16:54:32,252 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=17;reply=upOg0A9kVloFU
+2012-05-24 16:54:32,253 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 17 from map: attempt_201205241647_0001_m_000018_0 given 6/2
+2012-05-24 16:54:32,253 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47038, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000018_0, duration: 495178
+2012-05-24 16:54:34,291 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9843487% reduce > reduce
+2012-05-24 16:54:34,547 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 1.0% reduce > reduce
+2012-05-24 16:54:34,574 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 127 and 2 actions
+2012-05-24 16:54:34,575 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000029_0 task's state:UNASSIGNED
+2012-05-24 16:54:34,575 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000013_0
+2012-05-24 16:54:34,575 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000029_0 which needs 1 slots
+2012-05-24 16:54:34,575 INFO org.apache.hadoop.mapred.TaskTracker: TaskLauncher : Waiting for 1 to launch attempt_201205241647_0001_r_000029_0, currently we have 0 free slots
+2012-05-24 16:54:36,678 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=47; hash=...K8ytSi5gwJYXc
+2012-05-24 16:54:36,679 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=47;reply=1A7i3XUE9P+rA
+2012-05-24 16:54:36,680 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 47 from map: attempt_201205241647_0001_m_000037_0 given 6/2
+2012-05-24 16:54:36,680 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.77.39.184:41131, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000037_0, duration: 1193924
+2012-05-24 16:54:37,293 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.98818916% reduce > reduce
+2012-05-24 16:54:37,549 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 1.0% reduce > reduce
+2012-05-24 16:54:37,551 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000013_0 1.0% reduce > reduce
+2012-05-24 16:54:37,552 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000013_0 is done.
+2012-05-24 16:54:37,552 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000013_0  was -1
+2012-05-24 16:54:37,552 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000013_0
+2012-05-24 16:54:37,552 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:54:37,552 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000029_0 which needs 1 slots
+2012-05-24 16:54:37,565 INFO org.apache.hadoop.mapred.JvmManager: Killing JVM: jvm_201205241647_0001_r_-377778289
+2012-05-24 16:54:37,577 INFO org.apache.hadoop.util.ProcessTree: Killing process group7115 with signal TERM. Exit code 0
+2012-05-24 16:54:37,578 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_-73362549
+2012-05-24 16:54:37,578 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_-73362549 spawned.
+2012-05-24 16:54:37,580 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 128 and 1 actions
+2012-05-24 16:54:37,580 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000013_0
+2012-05-24 16:54:37,580 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000013_0
+2012-05-24 16:54:37,580 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000013_0
+2012-05-24 16:54:37,583 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000029_0/taskjvm.sh
+2012-05-24 16:54:37,625 WARN org.apache.hadoop.mapred.DefaultTaskController: Exit code from task is : 143
+2012-05-24 16:54:37,625 INFO org.apache.hadoop.mapred.DefaultTaskController: Output from DefaultTaskController's launchTask follows:
+2012-05-24 16:54:37,625 INFO org.apache.hadoop.mapred.TaskController: 
+2012-05-24 16:54:37,625 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_-377778289 exited with exit code 143. Number of tasks it ran: 1
+2012-05-24 16:54:39,060 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_-73362549 asked for a task
+2012-05-24 16:54:39,060 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_-73362549 given task: attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:40,295 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.992056% reduce > reduce
+2012-05-24 16:54:40,585 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 129 and 0 actions
+2012-05-24 16:54:43,297 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.99592274% reduce > reduce
+2012-05-24 16:54:43,301 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=28; hash=...8FnZ/sIG2ZuuM
+2012-05-24 16:54:43,302 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000018_0&reduce=28;reply=OFZ2dNNC9YbEE
+2012-05-24 16:54:43,302 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 28 from map: attempt_201205241647_0001_m_000018_0 given 6/2
+2012-05-24 16:54:43,302 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47044, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000018_0, duration: 533204
+2012-05-24 16:54:43,306 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=28; hash=.../j3mPoHIr2+c8
+2012-05-24 16:54:43,307 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=28;reply=Mdmu2o7Ev2N64
+2012-05-24 16:54:43,307 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 28 from map: attempt_201205241647_0001_m_000029_0 given 6/2
+2012-05-24 16:54:43,307 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47045, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000029_0, duration: 499664
+2012-05-24 16:54:43,587 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 130 and 0 actions
+2012-05-24 16:54:45,139 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=27; hash=...UHOhCz7295oXg
+2012-05-24 16:54:45,139 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=27;reply=ZlpMS2OUfK86M
+2012-05-24 16:54:45,140 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 27 from map: attempt_201205241647_0001_m_000037_0 given 6/2
+2012-05-24 16:54:45,140 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.101.53.89:41193, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000037_0, duration: 541938
+2012-05-24 16:54:46,141 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=21; hash=...A8nonAFMh7fhk
+2012-05-24 16:54:46,141 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=21;reply=SUBBcdHhJ/gQI
+2012-05-24 16:54:46,142 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 21 from map: attempt_201205241647_0001_m_000031_0 given 6/2
+2012-05-24 16:54:46,143 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.100.222.164:47140, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000031_0, duration: 1222168
+2012-05-24 16:54:46,151 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=41; hash=...TKp9vzf8TH154
+2012-05-24 16:54:46,152 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=41;reply=UsDBU14sqAFWM
+2012-05-24 16:54:46,152 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 41 from map: attempt_201205241647_0001_m_000031_0 given 6/2
+2012-05-24 16:54:46,152 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.114.114.76:39508, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000031_0, duration: 536434
+2012-05-24 16:54:46,299 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9995002% reduce > reduce
+2012-05-24 16:54:46,361 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=29; hash=...PXjWKfhxMoBqk
+2012-05-24 16:54:46,361 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=29;reply=vlrvFr6QWX+kk
+2012-05-24 16:54:46,363 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 29 from map: attempt_201205241647_0001_m_000039_0 given 6/2
+2012-05-24 16:54:46,363 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55464, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000039_0, duration: 1286783
+2012-05-24 16:54:46,365 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=29; hash=...mjWnTC58xNLBY
+2012-05-24 16:54:46,365 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=29;reply=bhsj7gdTOlt/g
+2012-05-24 16:54:46,556 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000029_0 0.0033333334% reduce > copy (1 of 100 at 0.00 MB/s) > 
+2012-05-24 16:54:46,557 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000029_0 0.0033333334% reduce > copy (1 of 100 at 0.00 MB/s) > 
+2012-05-24 16:54:46,590 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 131 and 0 actions
+2012-05-24 16:54:46,691 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000029_0 0.0033333334% reduce > copy (1 of 100 at 0.00 MB/s) > 
+2012-05-24 16:54:46,826 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000029_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:54:46,827 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000029_0 0.0033333334% reduce > copy (1 of 100 at 0.00 MB/s) > 
+2012-05-24 16:54:46,939 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000018_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:54:46,939 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 0.9995002% reduce > reduce
+2012-05-24 16:54:48,142 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 29 from map: attempt_201205241647_0001_m_000029_0 given 81404934/81404930
+2012-05-24 16:54:48,143 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55466, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000029_0, duration: 1777471504
+2012-05-24 16:54:49,301 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 1.0% reduce > reduce
+2012-05-24 16:54:49,562 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000029_0 1.0% reduce > reduce
+2012-05-24 16:54:49,597 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 132 and 3 actions
+2012-05-24 16:54:49,598 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000031_0 task's state:UNASSIGNED
+2012-05-24 16:54:49,598 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000018_0
+2012-05-24 16:54:49,598 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000031_0 which needs 1 slots
+2012-05-24 16:54:49,598 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:49,598 INFO org.apache.hadoop.mapred.TaskTracker: TaskLauncher : Waiting for 1 to launch attempt_201205241647_0001_r_000031_0, currently we have 0 free slots
+2012-05-24 16:54:50,815 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=49; hash=...dk6VaXiaRFD4I
+2012-05-24 16:54:50,815 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=49;reply=uUezxMvXuC2y4
+2012-05-24 16:54:50,815 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 49 from map: attempt_201205241647_0001_m_000039_0 given 6/2
+2012-05-24 16:54:50,816 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.77.39.184:41139, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000039_0, duration: 563461
+2012-05-24 16:54:51,326 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=30; hash=...a+kfI3RnxTg+s
+2012-05-24 16:54:51,326 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=30;reply=GLpuVrHvhxL6I
+2012-05-24 16:54:51,327 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 30 from map: attempt_201205241647_0001_m_000031_0 given 6/2
+2012-05-24 16:54:51,327 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.83.66.177:47630, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000031_0, duration: 549839
+2012-05-24 16:54:52,303 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 1.0% reduce > reduce
+2012-05-24 16:54:52,383 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 1.0% reduce > reduce
+2012-05-24 16:54:52,384 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000018_0 is done.
+2012-05-24 16:54:52,384 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000018_0  was -1
+2012-05-24 16:54:52,384 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000018_0
+2012-05-24 16:54:52,384 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:54:52,385 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000031_0 which needs 1 slots
+2012-05-24 16:54:52,391 INFO org.apache.hadoop.mapred.JvmManager: Killing JVM: jvm_201205241647_0001_r_-2131157960
+2012-05-24 16:54:52,401 INFO org.apache.hadoop.util.ProcessTree: Killing process group7207 with signal TERM. Exit code 0
+2012-05-24 16:54:52,401 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_1771707065
+2012-05-24 16:54:52,401 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_1771707065 spawned.
+2012-05-24 16:54:52,406 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000031_0/taskjvm.sh
+2012-05-24 16:54:52,409 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 1.0% reduce > reduce
+2012-05-24 16:54:52,409 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000018_0 Ignoring status-update since task is 'done'
+2012-05-24 16:54:52,495 WARN org.apache.hadoop.mapred.DefaultTaskController: Exit code from task is : 143
+2012-05-24 16:54:52,495 INFO org.apache.hadoop.mapred.DefaultTaskController: Output from DefaultTaskController's launchTask follows:
+2012-05-24 16:54:52,495 INFO org.apache.hadoop.mapred.TaskController: 
+2012-05-24 16:54:52,495 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_-2131157960 exited with exit code 143. Number of tasks it ran: 1
+2012-05-24 16:54:52,564 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000029_0 1.0% reduce > reduce
+2012-05-24 16:54:52,566 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000029_0 1.0% reduce > reduce
+2012-05-24 16:54:52,566 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000029_0 is done.
+2012-05-24 16:54:52,566 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000029_0  was -1
+2012-05-24 16:54:52,566 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:52,567 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:54:52,623 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 133 and 3 actions
+2012-05-24 16:54:52,624 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000037_0 task's state:UNASSIGNED
+2012-05-24 16:54:52,624 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000037_0 which needs 1 slots
+2012-05-24 16:54:52,624 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000018_0
+2012-05-24 16:54:52,624 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000037_0 which needs 1 slots
+2012-05-24 16:54:52,624 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000018_0
+2012-05-24 16:54:52,627 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000018_0
+2012-05-24 16:54:52,627 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:52,627 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:52,627 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:52,636 INFO org.apache.hadoop.mapred.JvmManager: Killing JVM: jvm_201205241647_0001_r_-73362549
+2012-05-24 16:54:52,648 INFO org.apache.hadoop.util.ProcessTree: Killing process group7643 with signal TERM. Exit code 0
+2012-05-24 16:54:52,648 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_-1981134865
+2012-05-24 16:54:52,655 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_-1981134865 spawned.
+2012-05-24 16:54:52,656 WARN org.apache.hadoop.mapred.TaskTracker: Progress from unknown child task: attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:52,660 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000037_0/taskjvm.sh
+2012-05-24 16:54:52,781 WARN org.apache.hadoop.mapred.DefaultTaskController: Exit code from task is : 143
+2012-05-24 16:54:52,781 INFO org.apache.hadoop.mapred.DefaultTaskController: Output from DefaultTaskController's launchTask follows:
+2012-05-24 16:54:52,781 INFO org.apache.hadoop.mapred.TaskController: 
+2012-05-24 16:54:52,781 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_-73362549 exited with exit code 143. Number of tasks it ran: 1
+2012-05-24 16:54:53,323 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=38; hash=...reZV0HqV8rK1I
+2012-05-24 16:54:53,323 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=38;reply=g4nwOzOprm2eA
+2012-05-24 16:54:53,324 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 38 from map: attempt_201205241647_0001_m_000039_0 given 6/2
+2012-05-24 16:54:53,324 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.35.94.55:55392, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000039_0, duration: 519938
+2012-05-24 16:54:53,324 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=38; hash=...C7hQjaGwsgJ2s
+2012-05-24 16:54:53,324 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=38;reply=Qco4cZP5acuQY
+2012-05-24 16:54:53,325 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 38 from map: attempt_201205241647_0001_m_000037_0 given 6/2
+2012-05-24 16:54:53,325 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.35.94.55:55391, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000037_0, duration: 392161
+2012-05-24 16:54:54,398 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_1771707065 asked for a task
+2012-05-24 16:54:54,398 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_1771707065 given task: attempt_201205241647_0001_r_000031_0
+2012-05-24 16:54:54,995 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_-1981134865 asked for a task
+2012-05-24 16:54:54,995 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_-1981134865 given task: attempt_201205241647_0001_r_000037_0
+2012-05-24 16:54:55,725 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 134 and 0 actions
+2012-05-24 16:54:56,925 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=32; hash=...sez/8luKXWHKQ
+2012-05-24 16:54:56,926 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=32;reply=4RNUqQTqbng6Y
+2012-05-24 16:54:56,926 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 32 from map: attempt_201205241647_0001_m_000031_0 given 6/2
+2012-05-24 16:54:56,927 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47052, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000031_0, duration: 607363
+2012-05-24 16:54:58,728 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 135 and 0 actions
+2012-05-24 16:54:59,089 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=36; hash=...rgfe1+2G9mxDQ
+2012-05-24 16:54:59,089 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=36;reply=3DHHqzBIQixzA
+2012-05-24 16:54:59,089 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 36 from map: attempt_201205241647_0001_m_000037_0 given 6/2
+2012-05-24 16:54:59,090 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.100.222.164:47159, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000037_0, duration: 553042
+2012-05-24 16:55:01,757 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 136 and 0 actions
+2012-05-24 16:55:02,657 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000031_0 0.0% reduce > copy > 
+2012-05-24 16:55:02,658 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=31; hash=...3+ZsQdcwicjKE
+2012-05-24 16:55:02,659 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000031_0&reduce=31;reply=B4Koj13qeAxHU
+2012-05-24 16:55:02,934 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000037_0 0.0% reduce > copy > 
+2012-05-24 16:55:03,940 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000031_0 0.0% reduce > copy > 
+2012-05-24 16:55:04,011 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=37; hash=...lb3tWAdr+Xpp4
+2012-05-24 16:55:04,011 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000037_0&reduce=37;reply=khnUjWmYPoUs0
+2012-05-24 16:55:04,218 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000031_0 0.0% reduce > copy > 
+2012-05-24 16:55:04,582 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000031_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:55:04,582 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000031_0 0.0% reduce > copy > 
+2012-05-24 16:55:04,808 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 137 and 2 actions
+2012-05-24 16:55:04,808 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000039_0 task's state:UNASSIGNED
+2012-05-24 16:55:04,808 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000031_0
+2012-05-24 16:55:04,809 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000039_0 which needs 1 slots
+2012-05-24 16:55:04,809 INFO org.apache.hadoop.mapred.TaskTracker: TaskLauncher : Waiting for 1 to launch attempt_201205241647_0001_r_000039_0, currently we have 0 free slots
+2012-05-24 16:55:05,022 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000037_0 0.0% reduce > copy > 
+2012-05-24 16:55:05,108 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000037_0 0.0% reduce > copy > 
+2012-05-24 16:55:05,271 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=54; hash=...4h+bCJAC8S/nY
+2012-05-24 16:55:05,271 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=54;reply=gaKapYExjPSYQ
+2012-05-24 16:55:05,273 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 54 from map: attempt_201205241647_0001_m_000064_0 given 6/2
+2012-05-24 16:55:05,273 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.77.39.184:41151, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000064_0, duration: 1456265
+2012-05-24 16:55:05,289 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000037_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:55:05,289 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000037_0 0.0% reduce > copy > 
+2012-05-24 16:55:06,170 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 31 from map: attempt_201205241647_0001_m_000031_0 given 81404934/81404930
+2012-05-24 16:55:06,170 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55476, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000031_0, duration: 3511169543
+2012-05-24 16:55:07,510 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 37 from map: attempt_201205241647_0001_m_000037_0 given 81404934/81404930
+2012-05-24 16:55:07,511 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55479, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000037_0, duration: 3499167054
+2012-05-24 16:55:07,815 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 138 and 3 actions
+2012-05-24 16:55:07,816 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000060_0 task's state:UNASSIGNED
+2012-05-24 16:55:07,816 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000037_0
+2012-05-24 16:55:08,710 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000031_0 1.0% reduce > reduce
+2012-05-24 16:55:08,712 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000031_0 1.0% reduce > reduce
+2012-05-24 16:55:08,712 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000031_0 is done.
+2012-05-24 16:55:08,712 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000031_0  was -1
+2012-05-24 16:55:08,713 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000031_0
+2012-05-24 16:55:08,713 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:55:08,713 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000039_0 which needs 1 slots
+2012-05-24 16:55:08,714 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000060_0 which needs 1 slots
+2012-05-24 16:55:08,714 INFO org.apache.hadoop.mapred.TaskTracker: TaskLauncher : Waiting for 1 to launch attempt_201205241647_0001_r_000060_0, currently we have 0 free slots
+2012-05-24 16:55:08,726 INFO org.apache.hadoop.mapred.JvmManager: Killing JVM: jvm_201205241647_0001_r_1771707065
+2012-05-24 16:55:08,736 INFO org.apache.hadoop.util.ProcessTree: Killing process group7700 with signal TERM. Exit code 0
+2012-05-24 16:55:08,736 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_1025452334
+2012-05-24 16:55:08,736 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_1025452334 spawned.
+2012-05-24 16:55:08,745 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000039_0/taskjvm.sh
+2012-05-24 16:55:08,802 WARN org.apache.hadoop.mapred.DefaultTaskController: Exit code from task is : 143
+2012-05-24 16:55:08,802 INFO org.apache.hadoop.mapred.DefaultTaskController: Output from DefaultTaskController's launchTask follows:
+2012-05-24 16:55:08,802 INFO org.apache.hadoop.mapred.TaskController: 
+2012-05-24 16:55:08,802 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_1771707065 exited with exit code 143. Number of tasks it ran: 1
+2012-05-24 16:55:08,938 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000037_0 1.0% reduce > reduce
+2012-05-24 16:55:08,940 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000037_0 1.0% reduce > reduce
+2012-05-24 16:55:08,941 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000037_0 is done.
+2012-05-24 16:55:08,941 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000037_0  was -1
+2012-05-24 16:55:08,941 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000037_0
+2012-05-24 16:55:08,941 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:55:08,942 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000060_0 which needs 1 slots
+2012-05-24 16:55:08,962 INFO org.apache.hadoop.mapred.JvmManager: Killing JVM: jvm_201205241647_0001_r_-1981134865
+2012-05-24 16:55:08,980 INFO org.apache.hadoop.util.ProcessTree: Killing process group7737 with signal TERM. Exit code 0
+2012-05-24 16:55:08,981 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_-1389694026
+2012-05-24 16:55:08,981 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_-1389694026 spawned.
+2012-05-24 16:55:08,994 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000060_0/taskjvm.sh
+2012-05-24 16:55:09,045 WARN org.apache.hadoop.mapred.DefaultTaskController: Exit code from task is : 143
+2012-05-24 16:55:09,045 INFO org.apache.hadoop.mapred.DefaultTaskController: Output from DefaultTaskController's launchTask follows:
+2012-05-24 16:55:09,045 INFO org.apache.hadoop.mapred.TaskController: 
+2012-05-24 16:55:09,046 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_-1981134865 exited with exit code 143. Number of tasks it ran: 1
+2012-05-24 16:55:10,059 INFO org.mortbay.log: org.mortbay.io.nio.SelectorManager$SelectSet@4c842d9a JVM BUG(s) - injecting delay5 times
+2012-05-24 16:55:10,059 INFO org.mortbay.log: org.mortbay.io.nio.SelectorManager$SelectSet@4c842d9a JVM BUG(s) - recreating selector 5 times, canceled keys 113 times
+2012-05-24 16:55:10,713 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_1025452334 asked for a task
+2012-05-24 16:55:10,714 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_1025452334 given task: attempt_201205241647_0001_r_000039_0
+2012-05-24 16:55:10,822 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 139 and 2 actions
+2012-05-24 16:55:10,879 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000031_0
+2012-05-24 16:55:10,879 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000031_0
+2012-05-24 16:55:10,879 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000031_0
+2012-05-24 16:55:10,879 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000037_0
+2012-05-24 16:55:10,879 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000037_0
+2012-05-24 16:55:10,879 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000037_0
+2012-05-24 16:55:11,018 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_-1389694026 asked for a task
+2012-05-24 16:55:11,019 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_-1389694026 given task: attempt_201205241647_0001_r_000060_0
+2012-05-24 16:55:11,803 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=65; hash=...0sO66ys0OvQEU
+2012-05-24 16:55:11,804 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=65;reply=9vw/4//xMYOHU
+2012-05-24 16:55:11,804 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 65 from map: attempt_201205241647_0001_m_000064_0 given 6/2
+2012-05-24 16:55:11,804 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.100.222.164:47169, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000064_0, duration: 543250
+2012-05-24 16:55:13,825 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 140 and 0 actions
+2012-05-24 16:55:15,803 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=61; hash=...TvA5UqsZj+YVU
+2012-05-24 16:55:15,803 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=61;reply=q3VjDWRkz8qBo
+2012-05-24 16:55:15,805 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 61 from map: attempt_201205241647_0001_m_000060_0 given 6/2
+2012-05-24 16:55:15,805 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.114.114.76:39534, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000060_0, duration: 1223959
+2012-05-24 16:55:16,827 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 141 and 0 actions
+2012-05-24 16:55:19,062 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 0.0% reduce > copy > 
+2012-05-24 16:55:19,184 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000039_0 0.0% reduce > copy > 
+2012-05-24 16:55:19,881 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 142 and 0 actions
+2012-05-24 16:55:19,908 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=60; hash=...rJ4JAN+nyBM8c
+2012-05-24 16:55:19,908 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=60;reply=ZWDvedXpCRQzA
+2012-05-24 16:55:20,305 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 0.0% reduce > copy > 
+2012-05-24 16:55:20,518 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 0.0% reduce > copy > 
+2012-05-24 16:55:20,559 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=39; hash=...fPZ5AnoT6HiQU
+2012-05-24 16:55:20,559 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000039_0&reduce=39;reply=iAUfxZ294c6qg
+2012-05-24 16:55:20,567 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=39; hash=...7SeW3qHRhS81o
+2012-05-24 16:55:20,567 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000029_0&reduce=39;reply=8DjEJb7CU+vYc
+2012-05-24 16:55:20,568 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 39 from map: attempt_201205241647_0001_m_000029_0 given 6/2
+2012-05-24 16:55:20,568 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55495, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000029_0, duration: 547392
+2012-05-24 16:55:20,647 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000060_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:55:20,647 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 0.0% reduce > copy > 
+2012-05-24 16:55:21,028 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000039_0 0.0% reduce > copy > 
+2012-05-24 16:55:21,134 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000039_0 0.0% reduce > copy > 
+2012-05-24 16:55:21,443 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000039_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:55:21,443 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000039_0 0.0% reduce > copy > 
+2012-05-24 16:55:22,888 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 143 and 3 actions
+2012-05-24 16:55:22,888 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000064_0 task's state:UNASSIGNED
+2012-05-24 16:55:22,888 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000039_0
+2012-05-24 16:55:22,888 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000064_0 which needs 1 slots
+2012-05-24 16:55:22,888 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000060_0
+2012-05-24 16:55:22,888 INFO org.apache.hadoop.mapred.TaskTracker: TaskLauncher : Waiting for 1 to launch attempt_201205241647_0001_r_000064_0, currently we have 0 free slots
+2012-05-24 16:55:22,997 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 60 from map: attempt_201205241647_0001_m_000060_0 given 81404934/81404930
+2012-05-24 16:55:22,998 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55491, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000060_0, duration: 3089938437
+2012-05-24 16:55:24,155 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 39 from map: attempt_201205241647_0001_m_000039_0 given 81404934/81404930
+2012-05-24 16:55:24,155 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55494, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000039_0, duration: 3595925776
+2012-05-24 16:55:25,166 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 1.0% reduce > reduce
+2012-05-24 16:55:25,169 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 1.0% reduce > reduce
+2012-05-24 16:55:25,170 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000060_0 is done.
+2012-05-24 16:55:25,170 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000060_0  was -1
+2012-05-24 16:55:25,170 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000060_0
+2012-05-24 16:55:25,170 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:55:25,170 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000064_0 which needs 1 slots
+2012-05-24 16:55:25,177 INFO org.apache.hadoop.mapred.JvmManager: Killing JVM: jvm_201205241647_0001_r_-1389694026
+2012-05-24 16:55:25,188 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000039_0 1.0% reduce > reduce
+2012-05-24 16:55:25,189 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000039_0 1.0% reduce > reduce
+2012-05-24 16:55:25,197 INFO org.apache.hadoop.util.ProcessTree: Killing process group7850 with signal TERM. Exit code 0
+2012-05-24 16:55:25,198 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_1043124565
+2012-05-24 16:55:25,198 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_1043124565 spawned.
+2012-05-24 16:55:25,198 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000039_0 is done.
+2012-05-24 16:55:25,198 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000039_0  was -1
+2012-05-24 16:55:25,198 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000039_0
+2012-05-24 16:55:25,199 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:55:25,235 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 1.0% reduce > reduce
+2012-05-24 16:55:25,235 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000060_0 Ignoring status-update since task is 'done'
+2012-05-24 16:55:25,236 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000064_0/taskjvm.sh
+2012-05-24 16:55:25,328 WARN org.apache.hadoop.mapred.DefaultTaskController: Exit code from task is : 143
+2012-05-24 16:55:25,329 INFO org.apache.hadoop.mapred.DefaultTaskController: Output from DefaultTaskController's launchTask follows:
+2012-05-24 16:55:25,329 INFO org.apache.hadoop.mapred.TaskController: 
+2012-05-24 16:55:25,329 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_-1389694026 exited with exit code 143. Number of tasks it ran: 1
+2012-05-24 16:55:25,472 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_1025452334 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:55:25,902 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 144 and 3 actions
+2012-05-24 16:55:25,902 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000073_0 task's state:UNASSIGNED
+2012-05-24 16:55:25,902 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000073_0 which needs 1 slots
+2012-05-24 16:55:25,902 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000073_0 which needs 1 slots
+2012-05-24 16:55:25,902 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000039_0
+2012-05-24 16:55:25,902 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000039_0
+2012-05-24 16:55:25,903 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000039_0
+2012-05-24 16:55:25,903 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000060_0
+2012-05-24 16:55:25,903 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000060_0
+2012-05-24 16:55:25,903 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000060_0
+2012-05-24 16:55:25,909 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=50; hash=...VQuIFSuTklQNo
+2012-05-24 16:55:25,909 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=50;reply=9ZCUMUtKfNdqw
+2012-05-24 16:55:25,910 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 50 from map: attempt_201205241647_0001_m_000060_0 given 6/2
+2012-05-24 16:55:25,910 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.101.53.89:41215, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000060_0, duration: 571492
+2012-05-24 16:55:25,992 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_1184708241
+2012-05-24 16:55:25,992 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_1184708241 spawned.
+2012-05-24 16:55:25,996 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000073_0/taskjvm.sh
+2012-05-24 16:55:26,813 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=77; hash=...j99YSBnMuW+6E
+2012-05-24 16:55:26,813 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=77;reply=eyygMn7Qhlx1k
+2012-05-24 16:55:26,911 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 231270 bytes for reduce: 77 from map: attempt_201205241647_0001_m_000076_0 given 231270/231266
+2012-05-24 16:55:26,911 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.35.94.55:55430, bytes: 231270, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000076_0, duration: 97946787
+2012-05-24 16:55:27,160 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_1043124565 asked for a task
+2012-05-24 16:55:27,160 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_1043124565 given task: attempt_201205241647_0001_r_000064_0
+2012-05-24 16:55:27,972 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_1184708241 asked for a task
+2012-05-24 16:55:27,972 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_1184708241 given task: attempt_201205241647_0001_r_000073_0
+2012-05-24 16:55:28,905 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 145 and 0 actions
+2012-05-24 16:55:30,682 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=74; hash=...IKK9DyW+T3lD8
+2012-05-24 16:55:30,683 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=74;reply=6fDwy5cphzc3k
+2012-05-24 16:55:30,683 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 74 from map: attempt_201205241647_0001_m_000064_0 given 6/2
+2012-05-24 16:55:30,683 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.100.222.164:47189, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000064_0, duration: 549865
+2012-05-24 16:55:30,688 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=74; hash=...LhfIbkPB8ujjQ
+2012-05-24 16:55:30,689 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=74;reply=9sE6WsW0yqGi4
+2012-05-24 16:55:31,113 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 353326 bytes for reduce: 74 from map: attempt_201205241647_0001_m_000073_0 given 353326/353322
+2012-05-24 16:55:31,113 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.100.222.164:47190, bytes: 353326, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000073_0, duration: 424365983
+2012-05-24 16:55:31,962 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 146 and 0 actions
+2012-05-24 16:55:32,654 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=75; hash=...n5LjQkg5z84d0
+2012-05-24 16:55:32,654 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=75;reply=CFfMRCWLQrhGY
+2012-05-24 16:55:32,698 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 179878 bytes for reduce: 75 from map: attempt_201205241647_0001_m_000076_0 given 179878/179874
+2012-05-24 16:55:32,698 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.114.114.76:39552, bytes: 179878, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000076_0, duration: 43728084
+2012-05-24 16:55:34,039 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=86; hash=...Z8badGCsVzrU8
+2012-05-24 16:55:34,040 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=86;reply=503Zh608jGOj0
+2012-05-24 16:55:34,044 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 147758 bytes for reduce: 86 from map: attempt_201205241647_0001_m_000076_0 given 147758/147754
+2012-05-24 16:55:34,045 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.114.114.76:39554, bytes: 147758, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000076_0, duration: 4296872
+2012-05-24 16:55:34,820 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=64; hash=...HXn08vydYbCYc
+2012-05-24 16:55:34,821 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=64;reply=dcyvU14TPnFV8
+2012-05-24 16:55:35,006 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 147 and 0 actions
+2012-05-24 16:55:35,091 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000064_0 0.0% reduce > copy > 
+2012-05-24 16:55:35,320 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000064_0 0.0% reduce > copy > 
+2012-05-24 16:55:35,714 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000073_0 0.0% reduce > copy > 
+2012-05-24 16:55:35,822 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000064_0 0.0% reduce > copy > 
+2012-05-24 16:55:36,291 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000064_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:55:36,291 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000064_0 0.0% reduce > copy > 
+2012-05-24 16:55:37,188 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=73; hash=...z/3OJpnonXUi8
+2012-05-24 16:55:37,188 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=73;reply=Dxih/3HJ0mGDE
+2012-05-24 16:55:37,332 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 81404934 bytes for reduce: 64 from map: attempt_201205241647_0001_m_000064_0 given 81404934/81404930
+2012-05-24 16:55:37,332 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55506, bytes: 81404934, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000064_0, duration: 2511207539
+2012-05-24 16:55:37,965 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000073_0 0.0% reduce > copy > 
+2012-05-24 16:55:38,018 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 148 and 2 actions
+2012-05-24 16:55:38,019 INFO org.apache.hadoop.mapred.TaskTracker: LaunchTaskAction (registerTask): attempt_201205241647_0001_r_000076_0 task's state:UNASSIGNED
+2012-05-24 16:55:38,019 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000064_0
+2012-05-24 16:55:38,019 INFO org.apache.hadoop.mapred.TaskTracker: Trying to launch : attempt_201205241647_0001_r_000076_0 which needs 1 slots
+2012-05-24 16:55:38,019 INFO org.apache.hadoop.mapred.TaskTracker: TaskLauncher : Waiting for 1 to launch attempt_201205241647_0001_r_000076_0, currently we have 0 free slots
+2012-05-24 16:55:38,124 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000064_0 1.0% reduce > reduce
+2012-05-24 16:55:38,125 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000073_0 0.0% reduce > copy > 
+2012-05-24 16:55:39,032 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000073_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:55:39,032 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000073_0 0.0% reduce > copy > 
+2012-05-24 16:55:41,026 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 149 and 2 actions
+2012-05-24 16:55:41,027 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000073_0
+2012-05-24 16:55:41,127 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000064_0 1.0% reduce > reduce
+2012-05-24 16:55:41,128 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000064_0 1.0% reduce > reduce
+2012-05-24 16:55:41,129 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000064_0 is done.
+2012-05-24 16:55:41,129 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000064_0  was -1
+2012-05-24 16:55:41,129 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000064_0
+2012-05-24 16:55:41,130 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:55:41,130 INFO org.apache.hadoop.mapred.TaskTracker: In TaskLauncher, current free slots : 1 and trying to launch attempt_201205241647_0001_r_000076_0 which needs 1 slots
+2012-05-24 16:55:41,147 INFO org.apache.hadoop.mapred.JvmManager: Killing JVM: jvm_201205241647_0001_r_1043124565
+2012-05-24 16:55:41,163 INFO org.apache.hadoop.util.ProcessTree: Killing process group7933 with signal TERM. Exit code 0
+2012-05-24 16:55:41,163 INFO org.apache.hadoop.mapred.JvmManager: In JvmRunner constructed JVM ID: jvm_201205241647_0001_r_-1902324439
+2012-05-24 16:55:41,163 INFO org.apache.hadoop.mapred.JvmManager: JVM Runner jvm_201205241647_0001_r_-1902324439 spawned.
+2012-05-24 16:55:41,168 INFO org.apache.hadoop.mapred.TaskController: Writing commands to /mnt/s3gator/mapred/local/ttprivate/taskTracker/s3gator/jobcache/job_201205241647_0001/attempt_201205241647_0001_r_000076_0/taskjvm.sh
+2012-05-24 16:55:41,240 WARN org.apache.hadoop.mapred.DefaultTaskController: Exit code from task is : 143
+2012-05-24 16:55:41,240 INFO org.apache.hadoop.mapred.DefaultTaskController: Output from DefaultTaskController's launchTask follows:
+2012-05-24 16:55:41,240 INFO org.apache.hadoop.mapred.TaskController: 
+2012-05-24 16:55:41,240 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_1043124565 exited with exit code 143. Number of tasks it ran: 1
+2012-05-24 16:55:41,718 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000073_0 1.0% reduce > reduce
+2012-05-24 16:55:41,720 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000073_0 1.0% reduce > reduce
+2012-05-24 16:55:41,721 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000073_0 is done.
+2012-05-24 16:55:41,721 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000073_0  was -1
+2012-05-24 16:55:41,721 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000073_0
+2012-05-24 16:55:41,721 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 1
+2012-05-24 16:55:42,433 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 174321670 bytes for reduce: 73 from map: attempt_201205241647_0001_m_000073_0 given 174321670/174321666
+2012-05-24 16:55:42,433 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55512, bytes: 174321670, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000073_0, duration: 5244942823
+2012-05-24 16:55:42,656 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_1184708241 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:55:42,744 DEBUG org.apache.hadoop.mapred.TaskTracker: JVM with ID : jvm_201205241647_0001_r_-1902324439 asked for a task
+2012-05-24 16:55:42,744 INFO org.apache.hadoop.mapred.TaskTracker: JVM with ID: jvm_201205241647_0001_r_-1902324439 given task: attempt_201205241647_0001_r_000076_0
+2012-05-24 16:55:44,032 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 150 and 2 actions
+2012-05-24 16:55:44,033 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000064_0
+2012-05-24 16:55:44,033 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000064_0
+2012-05-24 16:55:44,033 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000064_0
+2012-05-24 16:55:44,033 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000073_0
+2012-05-24 16:55:44,033 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000073_0
+2012-05-24 16:55:44,033 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000073_0
+2012-05-24 16:55:44,894 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=63; hash=...oYwL7hn4b1pR8
+2012-05-24 16:55:44,894 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000064_0&reduce=63;reply=MQhPpFBVkOdf8
+2012-05-24 16:55:44,895 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 63 from map: attempt_201205241647_0001_m_000064_0 given 6/2
+2012-05-24 16:55:44,895 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47085, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000064_0, duration: 555946
+2012-05-24 16:55:44,896 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=63; hash=...0j8AqHuQYlgqI
+2012-05-24 16:55:44,896 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=63;reply=QjavG4BrQX7Ms
+2012-05-24 16:55:44,906 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 237694 bytes for reduce: 63 from map: attempt_201205241647_0001_m_000073_0 given 237694/237690
+2012-05-24 16:55:44,907 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47088, bytes: 237694, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000073_0, duration: 10544820
+2012-05-24 16:55:47,036 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 151 and 0 actions
+2012-05-24 16:55:49,841 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=76; hash=...glwmNBmvK+oak
+2012-05-24 16:55:49,841 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=76;reply=NHu9F+Oyt++P0
+2012-05-24 16:55:49,866 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000076_0 0.0% reduce > copy > 
+2012-05-24 16:55:50,040 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 152 and 0 actions
+2012-05-24 16:55:51,172 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000076_0 0.0% reduce > copy > 
+2012-05-24 16:55:51,279 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000076_0 0.0% reduce > copy > 
+2012-05-24 16:55:52,676 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000076_0 is in commit-pending, task state:COMMIT_PENDING
+2012-05-24 16:55:52,676 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000076_0 0.0% reduce > copy > 
+2012-05-24 16:55:52,868 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000076_0 1.0% reduce > reduce
+2012-05-24 16:55:53,044 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 153 and 1 actions
+2012-05-24 16:55:53,044 INFO org.apache.hadoop.mapred.TaskTracker: Received commit task action for attempt_201205241647_0001_r_000076_0
+2012-05-24 16:55:54,486 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 162276670 bytes for reduce: 76 from map: attempt_201205241647_0001_m_000076_0 given 162276670/162276666
+2012-05-24 16:55:54,487 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.118.166.169:55518, bytes: 162276670, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000076_0, duration: 4644962004
+2012-05-24 16:55:55,413 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=72; hash=...VStQ2lOsCLP2M
+2012-05-24 16:55:55,413 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=72;reply=Sgh0JkLq3VCRw
+2012-05-24 16:55:55,420 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 263390 bytes for reduce: 72 from map: attempt_201205241647_0001_m_000073_0 given 263390/263386
+2012-05-24 16:55:55,421 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.101.53.89:41235, bytes: 263390, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000073_0, duration: 7311184
+2012-05-24 16:55:55,870 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000076_0 1.0% reduce > reduce
+2012-05-24 16:55:55,871 INFO org.apache.hadoop.mapred.TaskTracker: attempt_201205241647_0001_r_000076_0 1.0% reduce > reduce
+2012-05-24 16:55:55,872 INFO org.apache.hadoop.mapred.TaskTracker: Task attempt_201205241647_0001_r_000076_0 is done.
+2012-05-24 16:55:55,872 INFO org.apache.hadoop.mapred.TaskTracker: reported output size for attempt_201205241647_0001_r_000076_0  was -1
+2012-05-24 16:55:55,872 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000076_0
+2012-05-24 16:55:55,872 INFO org.apache.hadoop.mapred.TaskTracker: addFreeSlot : current free slots : 2
+2012-05-24 16:55:56,087 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 154 and 1 actions
+2012-05-24 16:55:56,087 INFO org.apache.hadoop.mapred.TaskTracker: Received KillTaskAction for task: attempt_201205241647_0001_r_000076_0
+2012-05-24 16:55:56,088 INFO org.apache.hadoop.mapred.TaskTracker: About to purge task: attempt_201205241647_0001_r_000076_0
+2012-05-24 16:55:56,088 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_r_000076_0
+2012-05-24 16:55:56,129 INFO org.apache.hadoop.mapred.JvmManager: JVM : jvm_201205241647_0001_r_-1902324439 exited with exit code 0. Number of tasks it ran: 1
+2012-05-24 16:55:58,607 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=66; hash=...lxa1xsUJfuJL0
+2012-05-24 16:55:58,607 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000076_0&reduce=66;reply=lXVZOO+u/HB+Y
+2012-05-24 16:55:58,612 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 128486 bytes for reduce: 66 from map: attempt_201205241647_0001_m_000076_0 given 128486/128482
+2012-05-24 16:55:58,612 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47096, bytes: 128486, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000076_0, duration: 5019763
+2012-05-24 16:55:59,090 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 155 and 0 actions
+2012-05-24 16:56:02,093 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 156 and 0 actions
+2012-05-24 16:56:05,096 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 157 and 0 actions
+2012-05-24 16:56:08,099 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 158 and 0 actions
+2012-05-24 16:56:09,368 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=70; hash=...cgd9mviz+8fxc
+2012-05-24 16:56:09,368 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000060_0&reduce=70;reply=ArYbPUw1VqcRc
+2012-05-24 16:56:09,369 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 6 bytes for reduce: 70 from map: attempt_201205241647_0001_m_000060_0 given 6/2
+2012-05-24 16:56:09,370 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47105, bytes: 6, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000060_0, duration: 933406
+2012-05-24 16:56:10,371 INFO org.mortbay.log: org.mortbay.io.nio.SelectorManager$SelectSet@4c842d9a JVM BUG(s) - injecting delay14 times
+2012-05-24 16:56:10,371 INFO org.mortbay.log: org.mortbay.io.nio.SelectorManager$SelectSet@4c842d9a JVM BUG(s) - recreating selector 14 times, canceled keys 274 times
+2012-05-24 16:56:11,146 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 159 and 0 actions
+2012-05-24 16:56:14,149 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 160 and 0 actions
+2012-05-24 16:56:17,163 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 161 and 0 actions
+2012-05-24 16:56:20,166 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 162 and 0 actions
+2012-05-24 16:56:23,169 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 163 and 0 actions
+2012-05-24 16:56:26,179 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 164 and 0 actions
+2012-05-24 16:56:29,182 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 165 and 0 actions
+2012-05-24 16:56:32,185 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 166 and 0 actions
+2012-05-24 16:56:35,187 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 167 and 0 actions
+2012-05-24 16:56:38,189 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 168 and 0 actions
+2012-05-24 16:56:41,191 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 169 and 0 actions
+2012-05-24 16:56:44,193 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 170 and 0 actions
+2012-05-24 16:56:47,196 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 171 and 0 actions
+2012-05-24 16:56:50,199 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 172 and 0 actions
+2012-05-24 16:56:53,211 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 173 and 0 actions
+2012-05-24 16:56:56,214 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 174 and 0 actions
+2012-05-24 16:56:59,216 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 175 and 0 actions
+2012-05-24 16:57:02,219 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 176 and 0 actions
+2012-05-24 16:57:05,222 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 177 and 0 actions
+2012-05-24 16:57:08,225 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 178 and 0 actions
+2012-05-24 16:57:11,257 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 179 and 0 actions
+2012-05-24 16:57:14,260 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 180 and 0 actions
+2012-05-24 16:57:17,263 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 181 and 0 actions
+2012-05-24 16:57:20,266 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 182 and 0 actions
+2012-05-24 16:57:23,268 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 183 and 0 actions
+2012-05-24 16:57:26,279 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 184 and 0 actions
+2012-05-24 16:57:29,281 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 185 and 0 actions
+2012-05-24 16:57:32,283 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 186 and 0 actions
+2012-05-24 16:57:35,286 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 187 and 0 actions
+2012-05-24 16:57:38,312 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 188 and 0 actions
+2012-05-24 16:57:41,315 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 189 and 0 actions
+2012-05-24 16:57:44,318 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 190 and 0 actions
+2012-05-24 16:57:47,320 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 191 and 0 actions
+2012-05-24 16:57:50,323 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 192 and 0 actions
+2012-05-24 16:57:53,326 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 193 and 0 actions
+2012-05-24 16:57:56,328 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 194 and 0 actions
+2012-05-24 16:57:59,330 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 195 and 0 actions
+2012-05-24 16:58:02,333 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 196 and 0 actions
+2012-05-24 16:58:05,336 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 197 and 0 actions
+2012-05-24 16:58:08,339 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 198 and 0 actions
+2012-05-24 16:58:11,342 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 199 and 0 actions
+2012-05-24 16:58:14,345 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 200 and 0 actions
+2012-05-24 16:58:17,348 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 201 and 0 actions
+2012-05-24 16:58:20,351 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 202 and 0 actions
+2012-05-24 16:58:23,354 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 203 and 0 actions
+2012-05-24 16:58:26,357 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 204 and 0 actions
+2012-05-24 16:58:29,359 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 205 and 0 actions
+2012-05-24 16:58:32,362 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 206 and 0 actions
+2012-05-24 16:58:32,850 DEBUG org.apache.hadoop.mapred.TaskTracker: verifying request. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=83; hash=...GCvhDGUWZ64uE
+2012-05-24 16:58:32,850 DEBUG org.apache.hadoop.mapred.TaskTracker: Fetcher request verfied. enc_str=50060/mapOutput?job=job_201205241647_0001&map=attempt_201205241647_0001_m_000073_0&reduce=83;reply=B4+FqiJRYsssE
+2012-05-24 16:58:32,864 INFO org.apache.hadoop.mapred.TaskTracker: Sent out 276238 bytes for reduce: 83 from map: attempt_201205241647_0001_m_000073_0 given 276238/276234
+2012-05-24 16:58:32,864 INFO org.apache.hadoop.mapred.TaskTracker.clienttrace: src: 10.118.166.169:50060, dest: 10.224.157.71:47123, bytes: 276238, op: MAPRED_SHUFFLE, cliID: attempt_201205241647_0001_m_000073_0, duration: 13596804
+2012-05-24 16:58:35,365 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 207 and 0 actions
+2012-05-24 16:58:38,372 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 208 and 0 actions
+2012-05-24 16:58:41,375 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 209 and 0 actions
+2012-05-24 16:58:44,377 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 210 and 0 actions
+2012-05-24 16:58:47,379 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 211 and 0 actions
+2012-05-24 16:58:50,381 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 212 and 0 actions
+2012-05-24 16:58:53,384 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 213 and 0 actions
+2012-05-24 16:58:56,386 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 214 and 0 actions
+2012-05-24 16:58:59,388 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 215 and 0 actions
+2012-05-24 16:59:02,406 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 216 and 0 actions
+2012-05-24 16:59:05,410 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 217 and 1 actions
+2012-05-24 16:59:05,411 INFO org.apache.hadoop.mapred.TaskTracker: Received 'KillJobAction' for job: job_201205241647_0001
+2012-05-24 16:59:05,411 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000073_0
+2012-05-24 16:59:05,411 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000039_0
+2012-05-24 16:59:05,411 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000060_0
+2012-05-24 16:59:05,411 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000064_0
+2012-05-24 16:59:05,411 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000018_0
+2012-05-24 16:59:05,412 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000076_0
+2012-05-24 16:59:05,412 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000029_0
+2012-05-24 16:59:05,412 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000013_0
+2012-05-24 16:59:05,412 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000031_0
+2012-05-24 16:59:05,412 DEBUG org.apache.hadoop.mapred.TaskTracker: Cleaning up attempt_201205241647_0001_m_000037_0
+2012-05-24 16:59:05,415 INFO org.apache.hadoop.mapred.UserLogCleaner: Adding job_201205241647_0001 for user-log deletion with retainTimeStamp:1337965145412
+2012-05-24 16:59:08,412 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 218 and 0 actions
+2012-05-24 16:59:11,434 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 219 and 0 actions
+2012-05-24 16:59:14,436 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 220 and 0 actions
+2012-05-24 16:59:17,438 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 221 and 0 actions
+2012-05-24 16:59:20,441 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 222 and 0 actions
+2012-05-24 16:59:23,443 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 223 and 0 actions
+2012-05-24 16:59:26,445 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 224 and 0 actions
+2012-05-24 16:59:29,447 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 225 and 0 actions
+2012-05-24 16:59:32,450 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 226 and 0 actions
+2012-05-24 16:59:35,452 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 227 and 0 actions
+2012-05-24 16:59:38,454 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 228 and 0 actions
+2012-05-24 16:59:41,457 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 229 and 0 actions
+2012-05-24 16:59:44,464 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 230 and 0 actions
+2012-05-24 16:59:47,467 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 231 and 0 actions
+2012-05-24 16:59:50,469 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 232 and 0 actions
+2012-05-24 16:59:53,472 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 233 and 0 actions
+2012-05-24 16:59:56,475 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 234 and 0 actions
+2012-05-24 16:59:59,477 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 235 and 0 actions
+2012-05-24 17:00:02,489 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 236 and 0 actions
+2012-05-24 17:00:05,498 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 237 and 0 actions
+2012-05-24 17:00:08,500 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 238 and 0 actions
+2012-05-24 17:00:10,930 INFO org.apache.hadoop.mapred.TaskTracker: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down TaskTracker at node005/10.118.166.169
+************************************************************/

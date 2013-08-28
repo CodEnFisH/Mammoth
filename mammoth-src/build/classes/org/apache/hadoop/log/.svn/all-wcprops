@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/log
+END
+EventCounter.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/log/EventCounter.class
+END
+LogLevel$Servlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/log/LogLevel$Servlet.class
+END
+LogLevel.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/log/LogLevel.class
+END

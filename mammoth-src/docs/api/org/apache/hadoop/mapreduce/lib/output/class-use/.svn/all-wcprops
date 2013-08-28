@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use
+END
+TextOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/TextOutputFormat.html
+END
+TextOutputFormat.LineRecordWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/TextOutputFormat.LineRecordWriter.html
+END
+SequenceFileOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/SequenceFileOutputFormat.html
+END
+NullOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/NullOutputFormat.html
+END
+FileOutputCommitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FileOutputCommitter.html
+END
+FileOutputFormat.Counter.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FileOutputFormat.Counter.html
+END
+FileOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FileOutputFormat.html
+END

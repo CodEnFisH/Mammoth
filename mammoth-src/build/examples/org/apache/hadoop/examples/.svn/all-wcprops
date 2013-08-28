@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples
+END
+RandomWriter$RandomInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomWriter$RandomInputFormat.class
+END
+RandomWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomWriter.class
+END
+SecondarySort$FirstGroupingComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SecondarySort$FirstGroupingComparator.class
+END
+SleepJob$SleepInputFormat$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SleepJob$SleepInputFormat$1.class
+END
+WordCount.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/WordCount.class
+END
+RandomTextWriter$Map.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomTextWriter$Map.class
+END
+SecondarySort$IntPair$Comparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SecondarySort$IntPair$Comparator.class
+END
+DBCountPageView$PageviewMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DBCountPageView$PageviewMapper.class
+END
+SecondarySort$MapClass.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SecondarySort$MapClass.class
+END
+MultiFileWordCount$MapClass.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/MultiFileWordCount$MapClass.class
+END
+WordCount$TokenizerMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/WordCount$TokenizerMapper.class
+END
+SecondarySort$IntPair.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SecondarySort$IntPair.class
+END
+MultiFileWordCount.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/MultiFileWordCount.class
+END
+Join.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/Join.class
+END
+SecondarySort.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SecondarySort.class
+END
+AggregateWordHistogram.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/AggregateWordHistogram.class
+END
+PiEstimator$PiMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/PiEstimator$PiMapper.class
+END
+MultiFileWordCount$MyInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/MultiFileWordCount$MyInputFormat.class
+END
+SleepJob.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SleepJob.class
+END
+MultiFileWordCount$WordOffset.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/MultiFileWordCount$WordOffset.class
+END
+PiEstimator$PiReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/PiEstimator$PiReducer.class
+END
+AggregateWordCount$WordCountPlugInClass.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/AggregateWordCount$WordCountPlugInClass.class
+END
+DBCountPageView$AccessRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DBCountPageView$AccessRecord.class
+END
+RandomWriter$Map.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomWriter$Map.class
+END
+DBCountPageView$PageviewRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DBCountPageView$PageviewRecord.class
+END
+RandomTextWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomTextWriter.class
+END
+DomainCalcRegion$DomainCalcRegionMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DomainCalcRegion$DomainCalcRegionMapper.class
+END
+DBCountPageView.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DBCountPageView.class
+END
+Sort.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/Sort.class
+END
+SleepJob$SleepInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SleepJob$SleepInputFormat.class
+END
+AggregateWordCount.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/AggregateWordCount.class
+END
+SecondarySort$Reduce.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SecondarySort$Reduce.class
+END
+DomainCalcRegion$DomainCalcRegionReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DomainCalcRegion$DomainCalcRegionReducer.class
+END
+SecondarySort$FirstPartitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SecondarySort$FirstPartitioner.class
+END
+DBCountPageView$PageviewReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DBCountPageView$PageviewReducer.class
+END
+Grep.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/Grep.class
+END
+DomainCalcRegion.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/DomainCalcRegion.class
+END
+PiEstimator.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/PiEstimator.class
+END
+SleepJob$EmptySplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/SleepJob$EmptySplit.class
+END
+WordCount$IntSumReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/WordCount$IntSumReducer.class
+END
+RandomWriter$RandomInputFormat$RandomRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomWriter$RandomInputFormat$RandomRecordReader.class
+END
+PiEstimator$HaltonSequence.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/PiEstimator$HaltonSequence.class
+END
+RandomWriter$Counters.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomWriter$Counters.class
+END
+AggregateWordHistogram$AggregateWordHistogramPlugin.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/AggregateWordHistogram$AggregateWordHistogramPlugin.class
+END
+ExampleDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/ExampleDriver.class
+END
+MultiFileWordCount$MultiFileLineRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/MultiFileWordCount$MultiFileLineRecordReader.class
+END
+RandomTextWriter$Counters.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/RandomTextWriter$Counters.class
+END

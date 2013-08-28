@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer
+END
+JavaSerialization$JavaSerializationDeserializer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/JavaSerialization$JavaSerializationDeserializer$1.class
+END
+JavaSerialization$JavaSerializationSerializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/JavaSerialization$JavaSerializationSerializer.class
+END
+Serialization.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/Serialization.class
+END
+WritableSerialization$WritableSerializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/WritableSerialization$WritableSerializer.class
+END
+JavaSerialization.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/JavaSerialization.class
+END
+JavaSerialization$JavaSerializationSerializer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/JavaSerialization$JavaSerializationSerializer$1.class
+END
+Deserializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/Deserializer.class
+END
+SerializationFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/SerializationFactory.class
+END
+JavaSerialization$JavaSerializationDeserializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/JavaSerialization$JavaSerializationDeserializer.class
+END
+WritableSerialization.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/WritableSerialization.class
+END
+JavaSerializationComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/JavaSerializationComparator.class
+END
+WritableSerialization$WritableDeserializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/WritableSerialization$WritableDeserializer.class
+END
+Serializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/Serializer.class
+END
+DeserializerComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/serializer/DeserializerComparator.class
+END

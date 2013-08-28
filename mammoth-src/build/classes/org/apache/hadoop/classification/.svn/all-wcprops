@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification
+END
+InterfaceAudience$Private.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceAudience$Private.class
+END
+InterfaceAudience.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceAudience.class
+END
+InterfaceAudience$Public.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceAudience$Public.class
+END
+InterfaceStability$Evolving.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceStability$Evolving.class
+END
+InterfaceStability$Stable.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceStability$Stable.class
+END
+InterfaceAudience$LimitedPrivate.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceAudience$LimitedPrivate.class
+END
+InterfaceStability.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceStability.class
+END
+InterfaceStability$Unstable.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/classification/InterfaceStability$Unstable.class
+END

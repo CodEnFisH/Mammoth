@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol
+END
+FSConstants$SafeModeAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/FSConstants$SafeModeAction.class
+END
+LocatedBlock$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/LocatedBlock$1.class
+END
+HdfsFileStatus$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/HdfsFileStatus$1.class
+END
+BlockListAsLongs.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/BlockListAsLongs.class
+END
+UnregisteredDatanodeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/UnregisteredDatanodeException.class
+END
+FSConstants$UpgradeAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/FSConstants$UpgradeAction.class
+END
+Block$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/Block$1.class
+END
+DatanodeInfo$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DatanodeInfo$1.class
+END
+DirectoryListing$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DirectoryListing$1.class
+END
+LocatedBlock.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/LocatedBlock.class
+END
+DSQuotaExceededException.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DSQuotaExceededException.class
+END
+HdfsFileStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/HdfsFileStatus.class
+END
+Block.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/Block.class
+END
+DatanodeInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DatanodeInfo.class
+END
+DatanodeID.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DatanodeID.class
+END
+DatanodeInfo$AdminStates.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DatanodeInfo$AdminStates.class
+END
+AlreadyBeingCreatedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/AlreadyBeingCreatedException.class
+END
+DirectoryListing.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DirectoryListing.class
+END
+LocatedBlocks$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/LocatedBlocks$1.class
+END
+QuotaExceededException.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/QuotaExceededException.class
+END
+LocatedBlocks$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/LocatedBlocks$2.class
+END
+DataTransferProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DataTransferProtocol.class
+END
+ClientProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/ClientProtocol.class
+END
+ClientDatanodeProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/ClientDatanodeProtocol.class
+END
+NSQuotaExceededException.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/NSQuotaExceededException.class
+END
+FSConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/FSConstants.class
+END
+FSConstants$DatanodeReportType.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/FSConstants$DatanodeReportType.class
+END
+LocatedBlocks.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/LocatedBlocks.class
+END
+DataTransferProtocol$PipelineAck.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/protocol/DataTransferProtocol$PipelineAck.class
+END

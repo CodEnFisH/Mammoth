@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/src
+END
+fixFontsPath.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/fixFontsPath.sh
+END
+saveVersion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/saveVersion.sh
+END

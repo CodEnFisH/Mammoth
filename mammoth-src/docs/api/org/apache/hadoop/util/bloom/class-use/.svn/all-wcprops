@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use
+END
+BloomFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/BloomFilter.html
+END
+RetouchedBloomFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/RetouchedBloomFilter.html
+END
+RemoveScheme.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/RemoveScheme.html
+END
+DynamicBloomFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/DynamicBloomFilter.html
+END
+CountingBloomFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/CountingBloomFilter.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/Filter.html
+END
+Key.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/Key.html
+END
+HashFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/util/bloom/class-use/HashFunction.html
+END

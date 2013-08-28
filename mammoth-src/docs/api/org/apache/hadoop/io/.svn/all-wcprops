@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io
+END
+BooleanWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BooleanWritable.Comparator.html
+END
+BytesWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BytesWritable.html
+END
+Text.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/Text.html
+END
+SequenceFile.Sorter.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.Sorter.html
+END
+BytesWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BytesWritable.Comparator.html
+END
+SortedMapWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SortedMapWritable.html
+END
+SequenceFile.ValueBytes.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.ValueBytes.html
+END
+Text.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/Text.Comparator.html
+END
+SetFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SetFile.html
+END
+IOUtils.NullOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/IOUtils.NullOutputStream.html
+END
+WritableComparable.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/WritableComparable.html
+END
+SecureIOUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SecureIOUtils.html
+END
+LongWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/LongWritable.Comparator.html
+END
+ObjectWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/ObjectWritable.html
+END
+MultipleIOException.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/MultipleIOException.html
+END
+ByteWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/ByteWritable.Comparator.html
+END
+NullWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/NullWritable.html
+END
+SequenceFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.html
+END
+Writable.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/Writable.html
+END
+BooleanWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BooleanWritable.html
+END
+NullWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/NullWritable.Comparator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/package-frame.html
+END
+IntWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/IntWritable.html
+END
+DataOutputBuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/DataOutputBuffer.html
+END
+UTF8.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/UTF8.html
+END
+VersionedWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/VersionedWritable.html
+END
+IOUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/IOUtils.html
+END
+LongWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/LongWritable.html
+END
+InputBuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/InputBuffer.html
+END
+OutputBuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/OutputBuffer.html
+END
+IntWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/IntWritable.Comparator.html
+END
+AbstractMapWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/AbstractMapWritable.html
+END
+ByteWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/ByteWritable.html
+END
+FloatWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/FloatWritable.html
+END
+DoubleWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/DoubleWritable.html
+END
+WritableFactories.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/WritableFactories.html
+END
+BinaryComparable.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BinaryComparable.html
+END
+SequenceFile.CompressionType.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.CompressionType.html
+END
+DoubleWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/DoubleWritable.Comparator.html
+END
+MapFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/MapFile.html
+END
+ArrayFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/ArrayFile.html
+END
+ArrayFile.Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/ArrayFile.Reader.html
+END
+VLongWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/VLongWritable.html
+END
+RawComparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/RawComparator.html
+END
+LongWritable.DecreasingComparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/LongWritable.DecreasingComparator.html
+END
+SequenceFile.Metadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.Metadata.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/package-tree.html
+END
+ArrayFile.Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/ArrayFile.Writer.html
+END
+Closeable.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/Closeable.html
+END
+WritableUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/WritableUtils.html
+END
+VersionMismatchException.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/VersionMismatchException.html
+END
+CompressedWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/CompressedWritable.html
+END
+MD5Hash.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/MD5Hash.Comparator.html
+END
+WritableFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/WritableFactory.html
+END
+WritableComparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/WritableComparator.html
+END
+FloatWritable.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/FloatWritable.Comparator.html
+END
+BloomMapFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BloomMapFile.html
+END
+GenericWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/GenericWritable.html
+END
+BloomMapFile.Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BloomMapFile.Reader.html
+END
+MapWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/MapWritable.html
+END
+ArrayWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/ArrayWritable.html
+END
+SequenceFile.Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.Reader.html
+END
+WritableName.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/WritableName.html
+END
+MapFile.Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/MapFile.Reader.html
+END
+BloomMapFile.Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/BloomMapFile.Writer.html
+END
+DataInputBuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/DataInputBuffer.html
+END
+SequenceFile.Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.Writer.html
+END
+Stringifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/Stringifier.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/package-use.html
+END
+SequenceFile.Sorter.SegmentDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.Sorter.SegmentDescriptor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/package-summary.html
+END
+MapFile.Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/MapFile.Writer.html
+END
+MD5Hash.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/MD5Hash.html
+END
+DefaultStringifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/DefaultStringifier.html
+END
+SetFile.Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SetFile.Reader.html
+END
+UTF8.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/UTF8.Comparator.html
+END
+SequenceFile.Sorter.RawKeyValueIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SequenceFile.Sorter.RawKeyValueIterator.html
+END
+SecureIOUtils.AlreadyExistsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SecureIOUtils.AlreadyExistsException.html
+END
+SetFile.Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/SetFile.Writer.html
+END
+TwoDArrayWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/TwoDArrayWritable.html
+END
+VIntWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/VIntWritable.html
+END

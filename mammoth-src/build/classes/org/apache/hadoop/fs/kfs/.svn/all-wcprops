@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/kfs
+END
+KFSInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/kfs/KFSInputStream.class
+END
+KosmosFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/kfs/KosmosFileSystem.class
+END
+KFSOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/kfs/KFSOutputStream.class
+END
+IFSImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/kfs/IFSImpl.class
+END
+KFSImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/kfs/KFSImpl.class
+END

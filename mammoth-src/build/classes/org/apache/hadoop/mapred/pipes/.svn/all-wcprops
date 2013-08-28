@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes
+END
+Submitter.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/Submitter.class
+END
+PipesReducer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/PipesReducer$1.class
+END
+BinaryProtocol$MessageType.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/BinaryProtocol$MessageType.class
+END
+UpwardProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/UpwardProtocol.class
+END
+PipesNonJavaInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/PipesNonJavaInputFormat.class
+END
+PipesNonJavaInputFormat$PipesDummyRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/PipesNonJavaInputFormat$PipesDummyRecordReader.class
+END
+PipesReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/PipesReducer.class
+END
+OutputHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/OutputHandler.class
+END
+PipesPartitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/PipesPartitioner.class
+END
+Application.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/Application.class
+END
+Submitter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/Submitter$1.class
+END
+BinaryProtocol$TeeOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/BinaryProtocol$TeeOutputStream.class
+END
+BinaryProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/BinaryProtocol.class
+END
+Submitter$CommandLineParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/Submitter$CommandLineParser.class
+END
+DownwardProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/DownwardProtocol.class
+END
+PipesMapRunner.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/PipesMapRunner.class
+END
+BinaryProtocol$UplinkReaderThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/pipes/BinaryProtocol$UplinkReaderThread.class
+END

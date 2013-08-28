@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/docs/cn/skin
+END
+menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/docs/cn/skin/menu.js
+END
+skinconf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/docs/cn/skin/skinconf.xsl
+END
+getMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/cn/skin/getMenu.js
+END
+prototype.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/docs/cn/skin/prototype.js
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/cn/skin/print.css
+END
+note.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/docs/cn/skin/note.txt
+END
+profile.css
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/cn/skin/profile.css
+END
+CommonMessages_de.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/docs/cn/skin/CommonMessages_de.xml
+END
+getBlank.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/cn/skin/getBlank.js
+END
+breadcrumbs.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/skin/breadcrumbs.js
+END
+CommonMessages_fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/docs/cn/skin/CommonMessages_fr.xml
+END
+breadcrumbs-optimized.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/docs/cn/skin/breadcrumbs-optimized.js
+END
+CommonMessages_es.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/docs/cn/skin/CommonMessages_es.xml
+END
+screen.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/cn/skin/screen.css
+END
+basic.css
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/cn/skin/basic.css
+END
+CommonMessages_en_US.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/docs/cn/skin/CommonMessages_en_US.xml
+END
+fontsize.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/cn/skin/fontsize.js
+END

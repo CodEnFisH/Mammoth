@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/io/retry
+END
+RetryPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/io/retry/RetryPolicy.java
+END
+RetryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/io/retry/RetryProxy.java
+END
+RetryPolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/io/retry/RetryPolicies.java
+END
+RetryInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/io/retry/RetryInvocationHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/io/retry/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/hdfs/test/system
+END
+DNClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/hdfs/test/system/DNClient.java
+END
+DNProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/hdfs/test/system/DNProtocol.java
+END
+HDFSCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/hdfs/test/system/HDFSCluster.java
+END
+HDFSDaemonClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/hdfs/test/system/HDFSDaemonClient.java
+END
+NNClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/hdfs/test/system/NNClient.java
+END
+NNProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/hdfs/test/system/NNProtocol.java
+END

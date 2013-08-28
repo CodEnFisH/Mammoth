@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security/token
+END
+TestDelegationTokenRenewal.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security/token/TestDelegationTokenRenewal.java
+END

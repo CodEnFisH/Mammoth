@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-php
+END
+ThriftHadoopFileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-php/ThriftHadoopFileSystem.php
+END
+hadoopfs_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-php/hadoopfs_types.php
+END

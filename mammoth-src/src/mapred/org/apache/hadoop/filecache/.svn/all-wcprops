@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/filecache
+END
+TaskDistributedCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/filecache/TaskDistributedCacheManager.java
+END
+DistributedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/filecache/DistributedCache.java
+END
+TrackerDistributedCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/filecache/TrackerDistributedCacheManager.java
+END

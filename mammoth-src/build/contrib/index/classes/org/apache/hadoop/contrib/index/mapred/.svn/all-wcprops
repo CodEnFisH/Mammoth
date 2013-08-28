@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred
+END
+IndexUpdateMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateMapper.class
+END
+IndexUpdateReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateReducer.class
+END
+IndexUpdateOutputFormat$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateOutputFormat$1.class
+END
+IndexUpdateCombiner.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateCombiner.class
+END
+IndexUpdatePartitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdatePartitioner.class
+END
+DocumentID.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/DocumentID.class
+END
+IndexUpdater.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdater.class
+END
+IndexUpdateReducer$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateReducer$1$1.class
+END
+IntermediateForm.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IntermediateForm.class
+END
+DocumentAndOp.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/DocumentAndOp.class
+END
+Shard.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/Shard.class
+END
+IndexUpdateConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateConfiguration.class
+END
+DocumentAndOp$Op.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/DocumentAndOp$Op.class
+END
+IndexUpdateOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateOutputFormat.class
+END
+IndexUpdateMapper$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateMapper$1.class
+END
+IIndexUpdater.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IIndexUpdater.class
+END
+ILocalAnalysis.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/ILocalAnalysis.class
+END
+IDistributionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IDistributionPolicy.class
+END
+IndexUpdateReducer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/mapred/IndexUpdateReducer$1.class
+END

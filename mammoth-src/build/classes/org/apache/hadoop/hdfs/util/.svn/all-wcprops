@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util
+END
+LightWeightGSet$SetIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util/LightWeightGSet$SetIterator.class
+END
+GSetByHashMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util/GSetByHashMap.class
+END
+LightWeightGSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util/LightWeightGSet.class
+END
+ByteArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util/ByteArray.class
+END
+GSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util/GSet.class
+END
+LightWeightGSet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util/LightWeightGSet$1.class
+END
+LightWeightGSet$LinkedElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/util/LightWeightGSet$LinkedElement.class
+END

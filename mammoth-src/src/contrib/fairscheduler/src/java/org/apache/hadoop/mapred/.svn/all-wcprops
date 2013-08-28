@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred
+END
+FairScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/FairScheduler.java
+END
+TaskSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/TaskSelector.java
+END
+PoolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/PoolManager.java
+END
+TaskType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/TaskType.java
+END
+FairSchedulerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/FairSchedulerServlet.java
+END
+FifoJobComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/FifoJobComparator.java
+END
+DefaultTaskSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/DefaultTaskSelector.java
+END
+Pool.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/Pool.java
+END
+WeightAdjuster.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/WeightAdjuster.java
+END
+NewJobWeightBooster.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/NewJobWeightBooster.java
+END
+LoadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/LoadManager.java
+END
+AllocationConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/AllocationConfigurationException.java
+END
+CapBasedLoadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/CapBasedLoadManager.java
+END

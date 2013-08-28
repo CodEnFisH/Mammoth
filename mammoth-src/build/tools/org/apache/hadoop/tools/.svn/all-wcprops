@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools
+END
+DistCh$Option.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCh$Option.class
+END
+DistCp_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp_Counter.properties
+END
+DistCp$CopyFilesMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$CopyFilesMapper.class
+END
+DistCh.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCh.class
+END
+DistCp$CopyInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$CopyInputFormat.class
+END
+Logalyzer$LogRegexMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/Logalyzer$LogRegexMapper.class
+END
+DistCp$FileAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$FileAttribute.class
+END
+DistTool$DuplicationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistTool$DuplicationException.class
+END
+DistCh$ChangeFilesMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCh$ChangeFilesMapper.class
+END
+DistCp$Arguments.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$Arguments.class
+END
+DistCh$ChangeInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCh$ChangeInputFormat.class
+END
+DistCh$Counter.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCh$Counter.class
+END
+DistCp.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp.class
+END
+DistCp$Counter.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$Counter.class
+END
+HadoopArchives.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/HadoopArchives.class
+END
+DistTool.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistTool.class
+END
+DistCh$FileOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCh$FileOperation.class
+END
+HadoopArchives$HArchivesMapper$MapStat.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/HadoopArchives$HArchivesMapper$MapStat.class
+END
+DistCp$DuplicationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$DuplicationException.class
+END
+HadoopArchives$HArchivesMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/HadoopArchives$HArchivesMapper.class
+END
+HadoopArchives$HArchiveInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/HadoopArchives$HArchiveInputFormat.class
+END
+DistCp$Options.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$Options.class
+END
+DistCp$FilePair.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/DistCp$FilePair.class
+END
+Logalyzer$LogComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/Logalyzer$LogComparator.class
+END
+Logalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/Logalyzer.class
+END
+HadoopArchives$HArchivesReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/tools/org/apache/hadoop/tools/HadoopArchives$HArchivesReducer.class
+END

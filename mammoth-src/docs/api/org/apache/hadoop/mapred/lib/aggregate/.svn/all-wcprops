@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate
+END
+ValueAggregatorDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorDescriptor.html
+END
+ValueAggregator.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregator.html
+END
+LongValueSum.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/LongValueSum.html
+END
+UniqValueCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/UniqValueCount.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/package-frame.html
+END
+ValueAggregatorMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorMapper.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/package-tree.html
+END
+ValueAggregatorReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorReducer.html
+END
+ValueHistogram.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueHistogram.html
+END
+UserDefinedValueAggregatorDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/UserDefinedValueAggregatorDescriptor.html
+END
+DoubleValueSum.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/DoubleValueSum.html
+END
+ValueAggregatorCombiner.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorCombiner.html
+END
+LongValueMin.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/LongValueMin.html
+END
+LongValueMax.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/LongValueMax.html
+END
+ValueAggregatorJobBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorJobBase.html
+END
+StringValueMin.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/StringValueMin.html
+END
+StringValueMax.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/StringValueMax.html
+END
+ValueAggregatorBaseDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorBaseDescriptor.html
+END
+ValueAggregatorJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorJob.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/split
+END
+JobSplit$TaskSplitMetaInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/split/JobSplit$TaskSplitMetaInfo.class
+END
+SplitMetaInfoReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/split/SplitMetaInfoReader.class
+END
+JobSplit$TaskSplitIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/split/JobSplit$TaskSplitIndex.class
+END
+JobSplitWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/split/JobSplitWriter.class
+END
+JobSplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/split/JobSplit.class
+END
+JobSplit$SplitMetaInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/split/JobSplit$SplitMetaInfo.class
+END

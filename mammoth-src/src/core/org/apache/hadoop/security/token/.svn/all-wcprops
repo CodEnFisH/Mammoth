@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/security/token
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/security/token/Token.java
+END
+SecretManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/security/token/SecretManager.java
+END
+TokenSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/security/token/TokenSelector.java
+END
+TokenIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/security/token/TokenIdentifier.java
+END
+TokenInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/security/token/TokenInfo.java
+END

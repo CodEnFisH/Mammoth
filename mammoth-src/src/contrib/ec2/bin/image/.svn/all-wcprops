@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/contrib/ec2/bin/image
+END
+create-hadoop-image-remote
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/contrib/ec2/bin/image/create-hadoop-image-remote
+END
+ec2-run-user-data
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/contrib/ec2/bin/image/ec2-run-user-data
+END

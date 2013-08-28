@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/src/org/apache/hadoop/hdfs/server/namenode
+END
+dfsnodelist_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/src/org/apache/hadoop/hdfs/server/namenode/dfsnodelist_jsp.java
+END
+nn_005fbrowsedfscontent_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/src/org/apache/hadoop/hdfs/server/namenode/nn_005fbrowsedfscontent_jsp.java
+END
+dfshealth_jsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/src/org/apache/hadoop/hdfs/server/namenode/dfshealth_jsp.java
+END

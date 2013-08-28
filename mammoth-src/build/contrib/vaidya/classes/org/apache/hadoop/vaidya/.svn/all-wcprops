@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya
+END
+DiagnosticTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/DiagnosticTest.class
+END
+JobDiagnoser.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/JobDiagnoser.class
+END

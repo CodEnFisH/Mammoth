@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net
+END
+CachedDNSToSwitchMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/CachedDNSToSwitchMapping.html
+END
+ScriptBasedMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/ScriptBasedMapping.html
+END
+NodeBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/NodeBase.html
+END
+SocksSocketFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/SocksSocketFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/package-frame.html
+END
+SocketInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/SocketInputStream.html
+END
+DNS.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/DNS.html
+END
+DNSToSwitchMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/DNSToSwitchMapping.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/package-use.html
+END
+SocketOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/SocketOutputStream.html
+END
+Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/Node.html
+END
+NetworkTopology.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/NetworkTopology.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/package-tree.html
+END
+StandardSocketFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/StandardSocketFactory.html
+END
+NetUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/NetUtils.html
+END

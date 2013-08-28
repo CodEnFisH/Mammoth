@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system
+END
+DaemonProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system/DaemonProtocol.java
+END
+AbstractDaemonClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system/AbstractDaemonClient.java
+END
+AbstractDaemonCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system/AbstractDaemonCluster.java
+END
+ProcessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system/ProcessInfo.java
+END
+ProcessInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system/ProcessInfoImpl.java
+END
+ProxyUserDefinitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system/ProxyUserDefinitions.java
+END
+ControlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/test/system/ControlAction.java
+END

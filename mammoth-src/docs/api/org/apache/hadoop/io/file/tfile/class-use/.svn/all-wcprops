@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use
+END
+TFile.Reader.Scanner.Entry.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/TFile.Reader.Scanner.Entry.html
+END
+TFile.Reader.Scanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/TFile.Reader.Scanner.html
+END
+TFile.Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/TFile.Writer.html
+END
+RawComparable.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/RawComparable.html
+END
+Utils.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/Utils.html
+END
+ByteArray.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/ByteArray.html
+END
+MetaBlockAlreadyExists.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/MetaBlockAlreadyExists.html
+END
+TFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/TFile.html
+END
+TFile.Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/TFile.Reader.html
+END
+Utils.Version.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/Utils.Version.html
+END
+MetaBlockDoesNotExist.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/file/tfile/class-use/MetaBlockDoesNotExist.html
+END

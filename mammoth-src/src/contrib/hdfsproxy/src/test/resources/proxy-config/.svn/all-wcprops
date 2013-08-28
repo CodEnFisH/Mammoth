@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config
+END
+tomcat-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/tomcat-web.xml
+END
+tomcat-forward-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/tomcat-forward-web.xml
+END
+hdfsproxy-hosts
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/hdfsproxy-hosts
+END
+ssl-server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/ssl-server.xml
+END
+hdfsproxy-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/hdfsproxy-env.sh
+END
+user-permissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/user-permissions.xml
+END
+hdfsproxy-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/hdfsproxy-default.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/log4j.properties
+END
+user-certs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/user-certs.xml
+END
+configuration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/resources/proxy-config/configuration.xsl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/src/docs
+END
+forrest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/docs/forrest.properties
+END
+status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/docs/status.xml
+END
+releasenotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/docs/releasenotes.html
+END

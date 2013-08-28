@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics
+END
+MetricsContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/MetricsContext.class
+END
+MetricsServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/MetricsServlet.class
+END
+ContextFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/ContextFactory.class
+END
+MetricsServlet$TagsMetricsPair.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/MetricsServlet$TagsMetricsPair.class
+END
+Updater.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/Updater.class
+END
+MetricsUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/MetricsUtil.class
+END
+MetricsException.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/MetricsException.class
+END
+MetricsRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/MetricsRecord.class
+END

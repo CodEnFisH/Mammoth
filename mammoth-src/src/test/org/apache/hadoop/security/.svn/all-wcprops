@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security
+END
+TestMapredGroupMappingServiceRefresh.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestMapredGroupMappingServiceRefresh.java
+END
+TestUserGroupInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestUserGroupInformation.java
+END
+TestSecurityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestSecurityUtil.java
+END
+TestDoAsEffectiveUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestDoAsEffectiveUser.java
+END
+TestPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestPermission.java
+END
+TestJobCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestJobCredentials.java
+END
+TestDistributedCacheAlternateFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestDistributedCacheAlternateFileSystem.java
+END
+ShellBasedUnixGroupsNetgroupMappingTestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/ShellBasedUnixGroupsNetgroupMappingTestWrapper.java
+END
+TestRefreshUserMappings.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestRefreshUserMappings.java
+END
+TestKerberosName.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/security/TestKerberosName.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use
+END
+LineDocLocalAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use/LineDocLocalAnalysis.html
+END
+LineDocRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use/LineDocRecordReader.html
+END
+HashingDistributionPolicy.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use/HashingDistributionPolicy.html
+END
+RoundRobinDistributionPolicy.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use/RoundRobinDistributionPolicy.html
+END
+LineDocTextAndOp.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use/LineDocTextAndOp.html
+END
+LineDocInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use/LineDocInputFormat.html
+END
+IdentityLocalAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/example/class-use/IdentityLocalAnalysis.html
+END

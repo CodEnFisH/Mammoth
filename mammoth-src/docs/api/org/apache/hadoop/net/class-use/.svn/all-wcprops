@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use
+END
+CachedDNSToSwitchMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/CachedDNSToSwitchMapping.html
+END
+ScriptBasedMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/ScriptBasedMapping.html
+END
+NodeBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/NodeBase.html
+END
+StandardSocketFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/StandardSocketFactory.html
+END
+SocksSocketFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/SocksSocketFactory.html
+END
+SocketInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/SocketInputStream.html
+END
+DNS.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/DNS.html
+END
+SocketOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/SocketOutputStream.html
+END
+Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/Node.html
+END
+DNSToSwitchMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/DNSToSwitchMapping.html
+END
+NetworkTopology.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/NetworkTopology.html
+END
+NetUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/net/class-use/NetUtils.html
+END

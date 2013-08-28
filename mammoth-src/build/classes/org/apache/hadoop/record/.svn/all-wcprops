@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record
+END
+CsvRecordOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/CsvRecordOutput.class
+END
+Record.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/Record.class
+END
+XmlRecordInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/XmlRecordInput.class
+END
+XmlRecordInput$Value.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/XmlRecordInput$Value.class
+END
+XmlRecordOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/XmlRecordOutput.class
+END
+XmlRecordInput$XMLParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/XmlRecordInput$XMLParser.class
+END
+CsvRecordInput$CsvIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/CsvRecordInput$CsvIndex.class
+END
+BinaryRecordInput$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/BinaryRecordInput$1.class
+END
+BinaryRecordOutput$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/BinaryRecordOutput$1.class
+END
+XmlRecordInput$XmlIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/XmlRecordInput$XmlIndex.class
+END
+RecordInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/RecordInput.class
+END
+RecordOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/RecordOutput.class
+END
+CsvRecordInput$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/CsvRecordInput$1.class
+END
+Utils.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/Utils.class
+END
+BinaryRecordInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/BinaryRecordInput.class
+END
+BinaryRecordOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/BinaryRecordOutput.class
+END
+BinaryRecordInput$BinaryIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/BinaryRecordInput$BinaryIndex.class
+END
+XmlRecordInput$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/XmlRecordInput$1.class
+END
+RecordComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/RecordComparator.class
+END
+Index.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/Index.class
+END
+Buffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/Buffer.class
+END
+CsvRecordInput.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/CsvRecordInput.class
+END

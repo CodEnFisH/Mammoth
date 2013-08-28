@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming
+END
+PipeMapRed$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeMapRed$1.class
+END
+PipeCombiner.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeCombiner.class
+END
+JarBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/JarBuilder.class
+END
+HadoopStreaming.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/HadoopStreaming.class
+END
+PathFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PathFinder.class
+END
+StreamInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamInputFormat.class
+END
+StreamUtil$StreamConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamUtil$StreamConsumer.class
+END
+PipeMapRunner.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeMapRunner.class
+END
+StreamJob.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamJob.class
+END
+PipeMapRed.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeMapRed.class
+END
+StreamUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamUtil.class
+END
+UTF8ByteArrayUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/UTF8ByteArrayUtils.class
+END
+PipeMapRed$MRErrorThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeMapRed$MRErrorThread.class
+END
+StreamUtil$TaskId.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamUtil$TaskId.class
+END
+StreamXmlRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamXmlRecordReader.class
+END
+PipeMapRed$MROutputThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeMapRed$MROutputThread.class
+END
+PipeMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeMapper.class
+END
+Environment.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/Environment.class
+END
+StreamKeyValUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamKeyValUtil.class
+END
+PipeReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/PipeReducer.class
+END
+StreamBaseRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/contrib/streaming/classes/org/apache/hadoop/streaming/StreamBaseRecordReader.class
+END

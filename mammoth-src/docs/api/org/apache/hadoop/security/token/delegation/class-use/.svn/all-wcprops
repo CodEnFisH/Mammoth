@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/token/delegation/class-use
+END
+AbstractDelegationTokenSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/token/delegation/class-use/AbstractDelegationTokenSelector.html
+END
+AbstractDelegationTokenSecretManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/token/delegation/class-use/AbstractDelegationTokenSecretManager.html
+END
+AbstractDelegationTokenSecretManager.DelegationTokenInformation.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/token/delegation/class-use/AbstractDelegationTokenSecretManager.DelegationTokenInformation.html
+END
+AbstractDelegationTokenIdentifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/token/delegation/class-use/AbstractDelegationTokenIdentifier.html
+END
+DelegationKey.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/token/delegation/class-use/DelegationKey.html
+END

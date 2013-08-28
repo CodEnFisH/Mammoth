@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use
+END
+SampleStat.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/SampleStat.html
+END
+Contracts.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/Contracts.html
+END
+SampleStat.MinMax.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/SampleStat.MinMax.html
+END
+MBeans.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/MBeans.html
+END
+MetricsCache.Record.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/MetricsCache.Record.html
+END
+TryIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/TryIterator.html
+END
+Servers.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/Servers.html
+END
+MetricsCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics2/util/class-use/MetricsCache.html
+END

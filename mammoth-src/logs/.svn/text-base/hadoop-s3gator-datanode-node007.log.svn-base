@@ -1,0 +1,126 @@
+2012-05-24 16:47:27,394 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting DataNode
+STARTUP_MSG:   host = node007/10.83.66.177
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Thu May 24 16:47:11 UTC 2012
+************************************************************/
+2012-05-24 16:47:27,746 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2012-05-24 16:47:27,797 DEBUG org.apache.hadoop.metrics2.impl.MetricsConfig: poking parent PropertiesConfiguration for period
+2012-05-24 16:47:27,821 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:27,822 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=18
+2012-05-24 16:47:27,822 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:27,822 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:27,822 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2012-05-24 16:47:27,822 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:27,823 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2012-05-24 16:47:27,823 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: DataNode metrics system started
+2012-05-24 16:47:28,078 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:28,078 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=6
+2012-05-24 16:47:28,078 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:28,079 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:28,079 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2012-05-24 16:47:28,079 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:28,079 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ugi
+2012-05-24 16:47:28,086 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-05-24 16:47:29,453 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Registered FSDatasetStatusMBean
+2012-05-24 16:47:29,466 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Opened info server at 50010
+2012-05-24 16:47:29,473 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Balancing bandwith is 1048576 bytes/s
+2012-05-24 16:47:29,632 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2012-05-24 16:47:29,707 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2012-05-24 16:47:29,719 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50075
+2012-05-24 16:47:29,719 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50075 webServer.getConnectors()[0].getLocalPort() returned 50075
+2012-05-24 16:47:29,719 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50075
+2012-05-24 16:47:29,719 INFO org.mortbay.log: jetty-6.1.26
+2012-05-24 16:47:30,318 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50075
+2012-05-24 16:47:30,328 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:30,329 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=20
+2012-05-24 16:47:30,329 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:30,329 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:30,329 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source jvm registered.
+2012-05-24 16:47:30,329 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:30,329 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source jvm
+2012-05-24 16:47:30,331 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:30,331 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=29
+2012-05-24 16:47:30,331 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:30,331 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:30,331 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source DataNode registered.
+2012-05-24 16:47:30,331 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:30,331 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source DataNode
+2012-05-24 16:47:30,722 INFO org.apache.hadoop.ipc.Server: Starting SocketReader
+2012-05-24 16:47:30,730 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:30,730 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=3
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:30,731 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcDetailedActivityForPort50020 registered.
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcDetailedActivityForPort50020
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=15
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:30,731 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcActivityForPort50020 registered.
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:30,731 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcActivityForPort50020
+2012-05-24 16:47:30,734 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: dnRegistration = DatanodeRegistration(node007:50010, storageID=DS-1437958851-10.83.66.177-50010-1337873800465, infoPort=50075, ipcPort=50020)
+2012-05-24 16:47:30,747 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: DatanodeRegistration(10.83.66.177:50010, storageID=DS-1437958851-10.83.66.177-50010-1337873800465, infoPort=50075, ipcPort=50020)In DataNode.run, data = FSDataset{dirpath='/mnt/s3gator/dfs/data/current'}
+2012-05-24 16:47:30,748 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 50020: starting
+2012-05-24 16:47:30,748 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-05-24 16:47:30,750 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 50020: starting
+2012-05-24 16:47:30,751 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 50020: starting
+2012-05-24 16:47:30,751 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: using BLOCKREPORT_INTERVAL of 3600000msec Initial delay: 0msec
+2012-05-24 16:47:30,751 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 50020: starting
+2012-05-24 16:47:30,793 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: BlockReport of 55 blocks took 11 msec to generate and 29 msecs for RPC and NN processing
+2012-05-24 16:47:30,795 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Starting Periodic block scanner.
+2012-05-24 16:47:31,061 INFO org.apache.hadoop.hdfs.server.datanode.DataBlockScanner: Verification succeeded for blk_3770486157910274477_1080
+2012-05-24 16:48:19,061 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_-2709744642501260654_1431 src: /10.114.114.76:60454 dest: /10.83.66.177:50010
+2012-05-24 16:48:19,220 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.114.114.76:60454, dest: /10.83.66.177:50010, bytes: 154272, op: HDFS_WRITE, cliID: DFSClient_1191661681, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-2709744642501260654_1431, duration: 100589771
+2012-05-24 16:48:19,220 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 1 for block blk_-2709744642501260654_1431 terminating
+2012-05-24 16:48:19,605 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_-5457864889147500295_1432 src: /10.100.222.164:36921 dest: /10.83.66.177:50010
+2012-05-24 16:48:19,703 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.100.222.164:36921, dest: /10.83.66.177:50010, bytes: 11507, op: HDFS_WRITE, cliID: DFSClient_1191661681, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 33901922
+2012-05-24 16:48:19,704 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 1 for block blk_-5457864889147500295_1432 terminating
+2012-05-24 16:48:36,061 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41439, bytes: 155480, op: HDFS_READ, cliID: DFSClient_-1685118954, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-2709744642501260654_1431, duration: 1597678
+2012-05-24 16:48:40,576 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41446, bytes: 9535, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000020_0, offset: 2048, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 282932
+2012-05-24 16:48:40,620 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41447, bytes: 9535, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000022_0, offset: 2048, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 281236
+2012-05-24 16:48:50,694 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41452, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000020_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_8195017212857335938_1035, duration: 5316746266
+2012-05-24 16:48:50,957 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41453, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000022_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_5611674851304815975_1085, duration: 5285637472
+2012-05-24 16:48:53,824 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.118.166.169:54939, bytes: 1419277, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000018_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-7926392558123945437_1059, duration: 64551448
+2012-05-24 16:49:16,243 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41463, bytes: 8503, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000030_0, offset: 3072, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 252091
+2012-05-24 16:49:16,622 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41465, bytes: 7987, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000033_0, offset: 3584, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 276694
+2012-05-24 16:49:31,048 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41473, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000030_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_3890612485260294789_1067, duration: 8230014567
+2012-05-24 16:49:31,210 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41474, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000033_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_7836113606524157875_1065, duration: 7762515379
+2012-05-24 16:49:31,367 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.100.222.164:36971, bytes: 1441565, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000014_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_3770486157910274477_1080, duration: 386200981
+2012-05-24 16:49:31,649 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41477, bytes: 1214441, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000030_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-2615684562832619099_1067, duration: 75135632
+2012-05-24 16:49:31,787 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41478, bytes: 1191399, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000033_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_4373585408533816040_1065, duration: 129586148
+2012-05-24 16:49:36,589 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.118.166.169:54962, bytes: 1202777, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000031_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-9188504718064571924_1008, duration: 52314550
+2012-05-24 16:49:57,764 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_-2325347992364173164_1444 src: /10.114.114.76:60527 dest: /10.83.66.177:50010
+2012-05-24 16:49:59,273 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41494, bytes: 6955, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000044_0, offset: 4608, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 210080
+2012-05-24 16:49:59,704 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41496, bytes: 6439, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000045_0, offset: 5120, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 265963
+2012-05-24 16:50:11,279 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41503, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000044_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_9005534280077012915_1005, duration: 6504561056
+2012-05-24 16:50:11,744 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41504, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000045_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-8508522593720527684_1050, duration: 6326544385
+2012-05-24 16:50:21,338 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.224.157.71:48318, bytes: 991662, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000051_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_3676326663213205456_1025, duration: 35233432
+2012-05-24 16:50:38,655 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41519, bytes: 5407, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000055_0, offset: 6144, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 215031
+2012-05-24 16:50:38,677 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41520, bytes: 6439, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000048_0, offset: 5120, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 209315
+2012-05-24 16:50:50,020 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41525, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000055_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_8723108208568380117_1101, duration: 6335566174
+2012-05-24 16:50:50,438 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41526, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000048_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_5512281402375633889_1002, duration: 5990106773
+2012-05-24 16:51:22,576 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41536, bytes: 2827, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000079_0, offset: 8704, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 208050
+2012-05-24 16:51:32,210 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41539, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000079_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-2248082884664899992_1097, duration: 4946987326
+2012-05-24 16:51:46,260 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41547, bytes: 2827, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000080_0, offset: 8704, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 214957
+2012-05-24 16:51:54,587 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41550, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000080_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_8321501144251902175_1072, duration: 4648489368
+2012-05-24 16:52:15,252 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41558, bytes: 1795, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000088_0, offset: 9728, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 207780
+2012-05-24 16:52:21,541 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41566, bytes: 1279, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000089_0, offset: 10240, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 280551
+2012-05-24 16:52:24,922 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41564, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000088_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_8256773134849614107_1003, duration: 5160947545
+2012-05-24 16:52:31,262 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41570, bytes: 67633152, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000089_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_5561913124073715516_1090, duration: 4741409477
+2012-05-24 16:52:31,345 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41571, bytes: 70565, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000089_0, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-482272878008396158_1090, duration: 264732
+2012-05-24 16:52:50,282 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41579, bytes: 763, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000094_0, offset: 10752, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 183094
+2012-05-24 16:52:57,000 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.83.66.177:50010, dest: /10.83.66.177:41586, bytes: 763, op: HDFS_READ, cliID: DFSClient_attempt_201205241647_0001_m_000096_0, offset: 10752, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-5457864889147500295_1432, duration: 175652
+2012-05-24 16:57:32,153 INFO org.apache.hadoop.hdfs.server.datanode.DataBlockScanner: Verification succeeded for blk_8316885527682172879_1049
+2012-05-24 16:59:01,659 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Deleting block blk_-5457864889147500295_1432 file /mnt/s3gator/dfs/data/current/blk_-5457864889147500295
+2012-05-24 16:59:01,660 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Deleting block blk_-2709744642501260654_1431 file /mnt/s3gator/dfs/data/current/blk_-2709744642501260654
+2012-05-24 16:59:04,466 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.114.114.76:60527, dest: /10.83.66.177:50010, bytes: 455486, op: HDFS_WRITE, cliID: DFSClient_774978985, offset: 0, srvID: DS-1437958851-10.83.66.177-50010-1337873800465, blockid: blk_-2325347992364173164_1444, duration: 546696963406
+2012-05-24 16:59:04,467 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 1 for block blk_-2325347992364173164_1444 terminating
+2012-05-24 17:00:12,040 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down DataNode at node007/10.83.66.177
+************************************************************/

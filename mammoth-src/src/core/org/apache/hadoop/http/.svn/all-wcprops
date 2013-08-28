@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http
+END
+HttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/HttpServer.java
+END
+FilterContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/FilterContainer.java
+END
+FilterInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/FilterInitializer.java
+END
+HtmlQuoting.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/HtmlQuoting.java
+END
+AdminAuthorizedServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/AdminAuthorizedServlet.java
+END

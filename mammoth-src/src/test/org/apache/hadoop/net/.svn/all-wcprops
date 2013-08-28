@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/net
+END
+TestScriptBasedMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/net/TestScriptBasedMapping.java
+END
+StaticMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/net/StaticMapping.java
+END
+TestSocketIOWithTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/net/TestSocketIOWithTimeout.java
+END
+TestNetworkTopology.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/net/TestNetworkTopology.java
+END

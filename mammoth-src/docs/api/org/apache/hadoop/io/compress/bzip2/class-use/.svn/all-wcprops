@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/bzip2/class-use
+END
+BZip2DummyCompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/bzip2/class-use/BZip2DummyCompressor.html
+END
+BZip2Constants.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/bzip2/class-use/BZip2Constants.html
+END
+CBZip2InputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/bzip2/class-use/CBZip2InputStream.html
+END
+CBZip2OutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/bzip2/class-use/CBZip2OutputStream.html
+END
+BZip2DummyDecompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/bzip2/class-use/BZip2DummyDecompressor.html
+END

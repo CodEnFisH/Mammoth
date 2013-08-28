@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer
+END
+Balancer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$1.class
+END
+Balancer$Source.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$Source.class
+END
+Balancer$BytesMoved.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$BytesMoved.class
+END
+Balancer$BalancerBlock.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$BalancerBlock.class
+END
+Balancer$PendingBlockMove.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$PendingBlockMove.class
+END
+Balancer$BalancerDatanode.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$BalancerDatanode.class
+END
+Balancer$NodeTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$NodeTask.class
+END
+Balancer$MovedBlocks.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$MovedBlocks.class
+END
+Balancer$BlockKeyUpdater.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$BlockKeyUpdater.class
+END
+Balancer$PendingBlockMove$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$PendingBlockMove$1.class
+END
+Balancer.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer.class
+END
+Balancer$Source$BlockMoveDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/balancer/Balancer$Source$BlockMoveDispatcher.class
+END

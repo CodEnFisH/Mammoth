@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/c++/task-controller
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/c++/task-controller/configure.ac
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/c++/task-controller/.gitignore
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/c++/task-controller/Makefile.am
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/c++/task-controller/.autom4te.cfg
+END

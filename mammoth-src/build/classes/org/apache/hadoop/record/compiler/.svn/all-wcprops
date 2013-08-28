@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler
+END
+JFloat$JavaFloat.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JFloat$JavaFloat.class
+END
+JFloat$CppFloat.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JFloat$CppFloat.class
+END
+JByte.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JByte.class
+END
+JFloat.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JFloat.class
+END
+JString.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JString.class
+END
+CodeGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/CodeGenerator.class
+END
+JBuffer$JavaBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JBuffer$JavaBuffer.class
+END
+JInt$CppInt.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JInt$CppInt.class
+END
+JavaGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JavaGenerator.class
+END
+CppGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/CppGenerator.class
+END
+JMap$JavaMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JMap$JavaMap.class
+END
+JType.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JType.class
+END
+JMap$CppMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JMap$CppMap.class
+END
+JRecord$CRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JRecord$CRecord.class
+END
+JBoolean$JavaBoolean.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JBoolean$JavaBoolean.class
+END
+JBoolean$CppBoolean.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JBoolean$CppBoolean.class
+END
+JLong$CppLong.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JLong$CppLong.class
+END
+JCompType$JavaCompType.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JCompType$JavaCompType.class
+END
+JCompType$CppCompType.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JCompType$CppCompType.class
+END
+JType$JavaType.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JType$JavaType.class
+END
+JType$CType.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JType$CType.class
+END
+JInt.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JInt.class
+END
+JVector$JavaVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JVector$JavaVector.class
+END
+JVector$CppVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JVector$CppVector.class
+END
+JByte$CppByte.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JByte$CppByte.class
+END
+JCompType.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JCompType.class
+END
+JVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JVector.class
+END
+JString$JavaString.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JString$JavaString.class
+END
+JString$CppString.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JString$CppString.class
+END
+JBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JBuffer.class
+END
+JDouble.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JDouble.class
+END
+JBuffer$CppBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JBuffer$CppBuffer.class
+END
+JDouble$JavaDouble.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JDouble$JavaDouble.class
+END
+JInt$JavaInt.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JInt$JavaInt.class
+END
+JDouble$CppDouble.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JDouble$CppDouble.class
+END
+JMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JMap.class
+END
+JRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JRecord.class
+END
+JFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JFile.class
+END
+CGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/CGenerator.class
+END
+JBoolean.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JBoolean.class
+END
+JRecord$JavaRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JRecord$JavaRecord.class
+END
+JField.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JField.class
+END
+JRecord$CppRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JRecord$CppRecord.class
+END
+JLong$JavaLong.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JLong$JavaLong.class
+END
+JCompType$CCompType.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JCompType$CCompType.class
+END
+CodeBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/CodeBuffer.class
+END
+JType$CppType.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JType$CppType.class
+END
+JByte$JavaByte.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JByte$JavaByte.class
+END
+JLong.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/JLong.class
+END
+Consts.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/record/compiler/Consts.class
+END

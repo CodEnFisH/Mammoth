@@ -1,0 +1,144 @@
+10
+
+dir
+2
+https://s3-mammoth.googlecode.com/svn/trunk/src/contrib
+https://s3-mammoth.googlecode.com/svn
+
+
+
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222d3e4f-9f86-7226-70a5-1e99113e8334
+
+test
+dir
+
+fairscheduler
+dir
+
+eclipse-plugin
+dir
+
+failmon
+dir
+
+hdfsproxy
+dir
+
+bash-tab-completion
+dir
+
+data_join
+dir
+
+thriftfs
+dir
+
+streaming
+dir
+
+build-contrib.xml
+file
+
+
+
+
+2012-09-20T17:42:08.795039Z
+fad0bcd3d2f2c261506226c782381366
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18374
+
+build.xml
+file
+
+
+
+
+2012-09-20T17:42:08.795039Z
+e37602ebc7ac8e4a21bc660b3c8cb392
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4229
+
+gridmix
+dir
+
+index
+dir
+
+ec2
+dir
+
+capacity-scheduler
+dir
+
+hod
+dir
+
+fuse-dfs
+dir
+
+vaidya
+dir
+

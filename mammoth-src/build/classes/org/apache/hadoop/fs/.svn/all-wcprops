@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs
+END
+MD5MD5CRC32FileChecksum.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/MD5MD5CRC32FileChecksum.class
+END
+FSDataOutputStream$PositionCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FSDataOutputStream$PositionCache.class
+END
+GlobFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/GlobFilter$1.class
+END
+LocalDirAllocator$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/LocalDirAllocator$1.class
+END
+Trash.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/Trash.class
+END
+InMemoryFileSystem$RawInMemoryFileSystem$FileAttributes.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/InMemoryFileSystem$RawInMemoryFileSystem$FileAttributes.class
+END
+FSError.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FSError.class
+END
+HarFileSystem$HarStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HarFileSystem$HarStatus.class
+END
+FileStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileStatus.class
+END
+FileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileSystem.class
+END
+FsShell$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShell$1.class
+END
+FsShell$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShell$3.class
+END
+HardLink$HardLinkCGUnix.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HardLink$HardLinkCGUnix.class
+END
+FileSystem$ClientFinalizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileSystem$ClientFinalizer.class
+END
+ChecksumFileSystem$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/ChecksumFileSystem$1.class
+END
+HarFileSystem$HarFSDataInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HarFileSystem$HarFSDataInputStream.class
+END
+RawLocalFileSystem$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/RawLocalFileSystem$1.class
+END
+Syncable.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/Syncable.class
+END
+ChecksumFileSystem$ChecksumFSOutputSummer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/ChecksumFileSystem$ChecksumFSOutputSummer.class
+END
+InMemoryFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/InMemoryFileSystem.class
+END
+FsUrlStreamHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsUrlStreamHandler.class
+END
+Trash$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/Trash$1.class
+END
+GlobExpander$StringWithOffset.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/GlobExpander$StringWithOffset.class
+END
+FileSystem$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileSystem$2.class
+END
+Seekable.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/Seekable.class
+END
+FsUrlConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsUrlConnection.class
+END
+RawLocalFileSystem$LocalFSFileOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/RawLocalFileSystem$LocalFSFileOutputStream.class
+END
+GlobPattern.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/GlobPattern.class
+END
+ChecksumException.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/ChecksumException.class
+END
+FSOutputSummer.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FSOutputSummer.class
+END
+BlockLocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/BlockLocation.class
+END
+FsShell$CmdHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShell$CmdHandler.class
+END
+HardLink$HardLinkCommandGetter.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HardLink$HardLinkCommandGetter.class
+END
+ContentSummary.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/ContentSummary.class
+END
+DF.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/DF.class
+END
+LocalDirAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/LocalDirAllocator.class
+END
+Path.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/Path.class
+END
+FsShellPermissions.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShellPermissions.class
+END
+HardLink$LinkStats.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HardLink$LinkStats.class
+END
+FsShell$DelayedExceptionThrowing.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShell$DelayedExceptionThrowing.class
+END
+HarFileSystem$Store.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HarFileSystem$Store.class
+END
+FsShell.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShell.class
+END
+PathFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/PathFilter.class
+END
+RawLocalFileSystem$RawLocalFileStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/RawLocalFileSystem$RawLocalFileStatus.class
+END
+InMemoryFileSystem$RawInMemoryFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/InMemoryFileSystem$RawInMemoryFileSystem.class
+END
+BlockLocation$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/BlockLocation$1.class
+END
+LocalDirAllocator$AllocatorPerContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/LocalDirAllocator$AllocatorPerContext.class
+END
+Trash$Emptier.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/Trash$Emptier.class
+END
+FileUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileUtil.class
+END
+RawLocalFileSystem$LocalFSFileInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/RawLocalFileSystem$LocalFSFileInputStream.class
+END
+HarFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HarFileSystem.class
+END
+HarFileSystem$HarFSDataInputStream$HarFsInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HarFileSystem$HarFSDataInputStream$HarFsInputStream.class
+END
+HardLink$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HardLink$1.class
+END
+FsShell$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShell$2.class
+END
+InMemoryFileSystem$RawInMemoryFileSystem$InMemoryInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/InMemoryFileSystem$RawInMemoryFileSystem$InMemoryInputStream.class
+END
+FileSystem$Cache$Key.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileSystem$Cache$Key.class
+END
+FilterFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FilterFileSystem.class
+END
+ChecksumFileSystem$ChecksumFSInputChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/ChecksumFileSystem$ChecksumFSInputChecker.class
+END
+RawLocalFileSystem$TrackingFileInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/RawLocalFileSystem$TrackingFileInputStream.class
+END
+FsUrlStreamHandlerFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsUrlStreamHandlerFactory.class
+END
+InMemoryFileSystem$RawInMemoryFileSystem$InMemoryFileStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/InMemoryFileSystem$RawInMemoryFileSystem$InMemoryFileStatus.class
+END
+FileChecksum.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileChecksum.class
+END
+HardLink$OSType.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HardLink$OSType.class
+END
+FsShell$TextRecordInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShell$TextRecordInputStream.class
+END
+FsShellPermissions$ChmodHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShellPermissions$ChmodHandler.class
+END
+FileSystem$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileSystem$1.class
+END
+GlobExpander.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/GlobExpander.class
+END
+CommonConfigurationKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/CommonConfigurationKeys.class
+END
+FileSystem$Cache.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileSystem$Cache.class
+END
+DU$DURefreshThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/DU$DURefreshThread.class
+END
+FSInputChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FSInputChecker.class
+END
+FsShellPermissions$ChgrpHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShellPermissions$ChgrpHandler.class
+END
+InMemoryFileSystem$RawInMemoryFileSystem$InMemoryOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/InMemoryFileSystem$RawInMemoryFileSystem$InMemoryOutputStream.class
+END
+GlobFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/GlobFilter.class
+END
+HardLink.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HardLink.class
+END
+PositionedReadable.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/PositionedReadable.class
+END
+FsShellPermissions$ChownHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FsShellPermissions$ChownHandler.class
+END
+FSDataInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FSDataInputStream.class
+END
+FSDataOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FSDataOutputStream.class
+END
+LocalFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/LocalFileSystem.class
+END
+FileUtil$CygPathCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileUtil$CygPathCommand.class
+END
+FileSystem$Statistics.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FileSystem$Statistics.class
+END
+FSInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/FSInputStream.class
+END
+HardLink$HardLinkCGWin.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/HardLink$HardLinkCGWin.class
+END
+LocalDirAllocator$AllocatorPerContext$PathIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/LocalDirAllocator$AllocatorPerContext$PathIterator.class
+END
+BufferedFSInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/BufferedFSInputStream.class
+END
+ChecksumFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/ChecksumFileSystem.class
+END
+DU.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/DU.class
+END
+RawLocalFileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/RawLocalFileSystem.class
+END

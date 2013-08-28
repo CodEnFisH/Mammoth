@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc
+END
+RPC.VersionMismatch.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/RPC.VersionMismatch.html
+END
+Client.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/Client.html
+END
+VersionedProtocol.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/VersionedProtocol.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/package-frame.html
+END
+Server.Connection.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/Server.Connection.html
+END
+RPC.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/RPC.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/package-use.html
+END
+Server.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/Server.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/package-tree.html
+END
+RPC.Server.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/RPC.Server.html
+END
+RemoteException.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/ipc/RemoteException.html
+END

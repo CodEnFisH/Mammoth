@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system
+END
+JTProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/JTProtocol.java
+END
+MRCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/MRCluster.java
+END
+MRDaemonClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/MRDaemonClient.java
+END
+FinishTaskControlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/FinishTaskControlAction.java
+END
+TTInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTInfo.java
+END
+JobInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/JobInfo.java
+END
+TTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTClient.java
+END
+TTTaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTTaskInfo.java
+END
+TTProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTProtocol.java
+END
+JTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/JTClient.java
+END
+TaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TaskInfo.java
+END

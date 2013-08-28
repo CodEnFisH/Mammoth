@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3
+END
+S3InputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/S3InputStream.class
+END
+S3OutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/S3OutputStream.class
+END
+INode$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/INode$1.class
+END
+MigrationTool.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/MigrationTool.class
+END
+Block.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/Block.class
+END
+S3FileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/S3FileSystem.class
+END
+VersionMismatchException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/VersionMismatchException.class
+END
+MigrationTool$UnversionedStore.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/MigrationTool$UnversionedStore.class
+END
+INode.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/INode.class
+END
+Jets3tFileSystemStore.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/Jets3tFileSystemStore.class
+END
+FileSystemStore.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/FileSystemStore.class
+END
+S3Credentials.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/S3Credentials.class
+END
+S3Exception.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/S3Exception.class
+END
+INode$FileType.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/INode$FileType.class
+END
+S3FileSystem$S3FileStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/S3FileSystem$S3FileStatus.class
+END
+MigrationTool$Store.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/MigrationTool$Store.class
+END
+S3FileSystemException.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/fs/s3/S3FileSystemException.class
+END

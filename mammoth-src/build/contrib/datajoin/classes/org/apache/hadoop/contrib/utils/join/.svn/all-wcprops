@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join
+END
+ArrayListBackedIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join/ArrayListBackedIterator.class
+END
+DataJoinReducerBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join/DataJoinReducerBase.class
+END
+ResetableIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join/ResetableIterator.class
+END
+DataJoinJob.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join/DataJoinJob.class
+END
+JobBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join/JobBase.class
+END
+DataJoinMapperBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join/DataJoinMapperBase.class
+END
+TaggedMapOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/contrib/datajoin/classes/org/apache/hadoop/contrib/utils/join/TaggedMapOutput.class
+END

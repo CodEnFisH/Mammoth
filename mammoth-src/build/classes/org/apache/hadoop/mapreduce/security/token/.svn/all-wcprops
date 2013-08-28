@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token
+END
+JobTokenSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token/JobTokenSelector.class
+END
+JobTokenSecretManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token/JobTokenSecretManager.class
+END
+JobTokenIdentifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token/JobTokenIdentifier.class
+END
+DelegationTokenRenewal$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token/DelegationTokenRenewal$1.class
+END
+DelegationTokenRenewal$DelegationTokenToRenew.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token/DelegationTokenRenewal$DelegationTokenToRenew.class
+END
+DelegationTokenRenewal$RenewalTimerTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token/DelegationTokenRenewal$RenewalTimerTask.class
+END
+DelegationTokenRenewal.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/security/token/DelegationTokenRenewal.class
+END

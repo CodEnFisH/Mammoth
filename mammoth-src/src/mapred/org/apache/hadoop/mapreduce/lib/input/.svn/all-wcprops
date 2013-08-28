@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input
+END
+DomainInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/DomainInputFormat.java
+END
+CoordinateValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/CoordinateValuePair.java
+END
+SequenceFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/SequenceFileInputFormat.java
+END
+FileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java
+END
+LineRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.java
+END
+TwoDimCoordinate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/TwoDimCoordinate.java
+END
+DomainHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/DomainHash.java
+END
+TextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/TextInputFormat.java
+END
+FileInputFormat_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/FileInputFormat_Counter.properties
+END
+InvalidInputException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/InvalidInputException.java
+END
+PartitionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/PartitionInfo.java
+END
+Coordinate.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/Coordinate.java
+END
+BackgroundValueSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/BackgroundValueSet.java
+END
+DomainRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/DomainRecordReader.java
+END
+SequenceFileRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/SequenceFileRecordReader.java
+END
+FileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/FileSplit.java
+END

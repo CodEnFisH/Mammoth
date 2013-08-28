@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/filecache
+END
+TestMRWithDistributedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/filecache/TestMRWithDistributedCache.java
+END
+TestTrackerDistributedCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/filecache/TestTrackerDistributedCacheManager.java
+END

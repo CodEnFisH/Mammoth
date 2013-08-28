@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security
+END
+TestTokenCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security/TestTokenCache.java
+END
+TestUmbilicalProtocolWithJobToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security/TestUmbilicalProtocolWithJobToken.java
+END

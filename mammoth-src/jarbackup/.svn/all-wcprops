@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/jarbackup
+END
+hadoop-examples-0.20.203.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jarbackup/hadoop-examples-0.20.203.0.jar
+END
+hadoop-test-0.20.203.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jarbackup/hadoop-test-0.20.203.0.jar
+END
+hadoop-tools-0.20.203.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jarbackup/hadoop-tools-0.20.203.0.jar
+END
+hadoop-ant-0.20.203.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jarbackup/hadoop-ant-0.20.203.0.jar
+END
+hadoop-core-0.20.203.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jarbackup/hadoop-core-0.20.203.0.jar
+END

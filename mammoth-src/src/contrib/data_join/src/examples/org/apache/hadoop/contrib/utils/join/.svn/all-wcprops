@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join
+END
+SampleDataJoinMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/SampleDataJoinMapper.java
+END
+SampleDataJoinReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/SampleDataJoinReducer.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/README.txt
+END
+SampleTaggedMapOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/SampleTaggedMapOutput.java
+END

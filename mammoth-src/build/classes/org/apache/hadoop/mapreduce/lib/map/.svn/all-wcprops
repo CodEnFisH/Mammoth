@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map
+END
+MultithreadedMapper$MapRunner.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper$MapRunner.class
+END
+MultithreadedMapper$SubMapRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper$SubMapRecordReader.class
+END
+InverseMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/InverseMapper.class
+END
+MultithreadedMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper.class
+END
+MultithreadedMapper$SubMapStatusReporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper$SubMapStatusReporter.class
+END
+MultithreadedMapper$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper$1.class
+END
+TokenCounterMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/TokenCounterMapper.class
+END
+MultithreadedMapper$SubMapRecordWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper$SubMapRecordWriter.class
+END

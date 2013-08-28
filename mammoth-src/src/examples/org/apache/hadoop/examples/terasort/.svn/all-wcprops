@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort
+END
+job_history_summary.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort/job_history_summary.py
+END
+TeraSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort/TeraSort.java
+END
+TeraInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort/TeraInputFormat.java
+END
+TeraOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort/TeraOutputFormat.java
+END
+TeraGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort/TeraGen.java
+END
+TeraValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort/TeraValidate.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/terasort/package.html
+END

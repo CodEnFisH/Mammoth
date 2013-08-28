@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/hdfs/org/apache/hadoop/hdfs/util
+END
+GSetByHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/hdfs/org/apache/hadoop/hdfs/util/GSetByHashMap.java
+END
+LightWeightGSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/hdfs/org/apache/hadoop/hdfs/util/LightWeightGSet.java
+END
+ByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/hdfs/org/apache/hadoop/hdfs/util/ByteArray.java
+END
+GSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/hdfs/org/apache/hadoop/hdfs/util/GSet.java
+END

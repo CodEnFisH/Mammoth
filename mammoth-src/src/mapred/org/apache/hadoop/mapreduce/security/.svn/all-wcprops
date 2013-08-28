@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security
+END
+TokenCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/TokenCache.java
+END
+SecureShuffleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/SecureShuffleUtils.java
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join
+END
+ResetableIterator.EMPTY.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/ResetableIterator.EMPTY.html
+END
+InnerJoinRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/InnerJoinRecordReader.html
+END
+ComposableInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/ComposableInputFormat.html
+END
+ArrayListBackedIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/ArrayListBackedIterator.html
+END
+ResetableIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/ResetableIterator.html
+END
+Parser.Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/Parser.Node.html
+END
+Parser.NodeToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/Parser.NodeToken.html
+END
+JoinRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/JoinRecordReader.html
+END
+MultiFilterRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/MultiFilterRecordReader.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/package-frame.html
+END
+TupleWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/TupleWritable.html
+END
+WrappedRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/WrappedRecordReader.html
+END
+CompositeRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/CompositeRecordReader.html
+END
+JoinRecordReader.JoinDelegationIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/JoinRecordReader.JoinDelegationIterator.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/package-summary.html
+END
+MultiFilterRecordReader.MultiFilterDelegationIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/MultiFilterRecordReader.MultiFilterDelegationIterator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/package-tree.html
+END
+CompositeInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/CompositeInputFormat.html
+END
+Parser.NumToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/Parser.NumToken.html
+END
+Parser.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/Parser.html
+END
+CompositeInputSplit.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/CompositeInputSplit.html
+END
+StreamBackedIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/StreamBackedIterator.html
+END
+OuterJoinRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/OuterJoinRecordReader.html
+END
+Parser.TType.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/Parser.TType.html
+END
+OverrideRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/OverrideRecordReader.html
+END
+Parser.StrToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/Parser.StrToken.html
+END
+ComposableRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/ComposableRecordReader.html
+END
+Parser.Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/join/Parser.Token.html
+END

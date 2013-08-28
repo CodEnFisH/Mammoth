@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use
+END
+WordCount.IntSumReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/WordCount.IntSumReducer.html
+END
+SleepJob.EmptySplit.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SleepJob.EmptySplit.html
+END
+AggregateWordHistogram.AggregateWordHistogramPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/AggregateWordHistogram.AggregateWordHistogramPlugin.html
+END
+PiEstimator.PiReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/PiEstimator.PiReducer.html
+END
+MultiFileWordCount.MultiFileLineRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/MultiFileWordCount.MultiFileLineRecordReader.html
+END
+AggregateWordCount.WordCountPlugInClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/AggregateWordCount.WordCountPlugInClass.html
+END
+WordCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/WordCount.html
+END
+Sort.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/Sort.html
+END
+SecondarySort.FirstGroupingComparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SecondarySort.FirstGroupingComparator.html
+END
+AggregateWordCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/AggregateWordCount.html
+END
+Grep.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/Grep.html
+END
+AggregateWordHistogram.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/AggregateWordHistogram.html
+END
+WordCount.TokenizerMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/WordCount.TokenizerMapper.html
+END
+SleepJob.SleepInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SleepJob.SleepInputFormat.html
+END
+SecondarySort.IntPair.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SecondarySort.IntPair.html
+END
+SecondarySort.Reduce.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SecondarySort.Reduce.html
+END
+ExampleDriver.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/ExampleDriver.html
+END
+SecondarySort.IntPair.Comparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SecondarySort.IntPair.Comparator.html
+END
+PiEstimator.PiMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/PiEstimator.PiMapper.html
+END
+MultiFileWordCount.MyInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/MultiFileWordCount.MyInputFormat.html
+END
+RandomWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/RandomWriter.html
+END
+MultiFileWordCount.WordOffset.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/MultiFileWordCount.WordOffset.html
+END
+RandomTextWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/RandomTextWriter.html
+END
+DBCountPageView.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/DBCountPageView.html
+END
+MultiFileWordCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/MultiFileWordCount.html
+END
+Join.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/Join.html
+END
+SecondarySort.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SecondarySort.html
+END
+PiEstimator.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/PiEstimator.html
+END
+SecondarySort.MapClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SecondarySort.MapClass.html
+END
+MultiFileWordCount.MapClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/MultiFileWordCount.MapClass.html
+END
+SleepJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SleepJob.html
+END
+SecondarySort.FirstPartitioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/class-use/SecondarySort.FirstPartitioner.html
+END

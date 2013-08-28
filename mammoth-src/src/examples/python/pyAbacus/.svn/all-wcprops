@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/examples/python/pyAbacus
+END
+wordcountaggregator.spec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/examples/python/pyAbacus/wordcountaggregator.spec
+END
+JythonAbacus.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/examples/python/pyAbacus/JythonAbacus.py
+END
+JyAbacusWCPlugIN.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/examples/python/pyAbacus/JyAbacusWCPlugIN.py
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/examples/python/pyAbacus/compile
+END

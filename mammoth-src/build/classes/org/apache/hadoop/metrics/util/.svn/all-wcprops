@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util
+END
+MetricsTimeVaryingRate$Metrics.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsTimeVaryingRate$Metrics.class
+END
+MetricsIntValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsIntValue.class
+END
+MetricsTimeVaryingRate$MinMax.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsTimeVaryingRate$MinMax.class
+END
+MetricsRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsRegistry.class
+END
+MetricsTimeVaryingInt.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsTimeVaryingInt.class
+END
+MBeanUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MBeanUtil.class
+END
+MetricsTimeVaryingRate.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsTimeVaryingRate.class
+END
+MetricsBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsBase.class
+END
+MetricsLongValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsLongValue.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/package-info.class
+END
+MetricsTimeVaryingLong.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsTimeVaryingLong.class
+END
+MetricsDynamicMBeanBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics/util/MetricsDynamicMBeanBase.class
+END

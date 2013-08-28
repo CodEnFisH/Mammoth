@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join
+END
+JoinRecordReader$JoinDelegationIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/JoinRecordReader$JoinDelegationIterator.class
+END
+MultiFilterRecordReader$MultiFilterDelegationIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/MultiFilterRecordReader$MultiFilterDelegationIterator.class
+END
+InnerJoinRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/InnerJoinRecordReader.class
+END
+ComposableInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/ComposableInputFormat.class
+END
+ArrayListBackedIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/ArrayListBackedIterator.class
+END
+CompositeRecordReader$JoinCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/CompositeRecordReader$JoinCollector.class
+END
+Parser$NumToken.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$NumToken.class
+END
+StreamBackedIterator$ReplayableByteInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/StreamBackedIterator$ReplayableByteInputStream.class
+END
+Parser$TType.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$TType.class
+END
+Parser$StrToken.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$StrToken.class
+END
+StreamBackedIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/StreamBackedIterator.class
+END
+Parser$Lexer.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$Lexer.class
+END
+Parser$Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$Token.class
+END
+Parser$NodeToken.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$NodeToken.class
+END
+Parser$CNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$CNode.class
+END
+ResetableIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/ResetableIterator.class
+END
+JoinRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/JoinRecordReader.class
+END
+MultiFilterRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/MultiFilterRecordReader.class
+END
+TupleWritable.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/TupleWritable.class
+END
+WrappedRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/WrappedRecordReader.class
+END
+CompositeRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/CompositeRecordReader.class
+END
+CompositeInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/CompositeInputFormat.class
+END
+Parser.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser.class
+END
+Parser$WNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$WNode.class
+END
+CompositeInputSplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/CompositeInputSplit.class
+END
+OuterJoinRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/OuterJoinRecordReader.class
+END
+OverrideRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/OverrideRecordReader.class
+END
+ResetableIterator$EMPTY.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/ResetableIterator$EMPTY.class
+END
+Parser$Node.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/Parser$Node.class
+END
+ComposableRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/ComposableRecordReader.class
+END
+TupleWritable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/TupleWritable$1.class
+END
+CompositeRecordReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/CompositeRecordReader$1.class
+END
+CompositeRecordReader$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/join/CompositeRecordReader$2.class
+END

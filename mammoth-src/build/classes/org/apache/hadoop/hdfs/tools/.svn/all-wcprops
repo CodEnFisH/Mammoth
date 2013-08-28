@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools
+END
+DelegationTokenFetcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DelegationTokenFetcher.class
+END
+DFSAdmin$DFSAdminCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSAdmin$DFSAdminCommand.class
+END
+DFSAdmin$SetQuotaCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSAdmin$SetQuotaCommand.class
+END
+DFSck$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSck$1.class
+END
+DelegationTokenFetcher$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DelegationTokenFetcher$1.class
+END
+DFSAdmin.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSAdmin.class
+END
+DFSAdmin$ClearSpaceQuotaCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSAdmin$ClearSpaceQuotaCommand.class
+END
+DFSAdmin$ClearQuotaCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSAdmin$ClearQuotaCommand.class
+END
+DFSck.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSck.class
+END
+DFSAdmin$SetSpaceQuotaCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/tools/DFSAdmin$SetSpaceQuotaCommand.class
+END

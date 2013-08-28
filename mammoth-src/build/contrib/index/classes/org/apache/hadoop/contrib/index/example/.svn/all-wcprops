@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example
+END
+LineDocLocalAnalysis.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/LineDocLocalAnalysis.class
+END
+LineDocRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/LineDocRecordReader.class
+END
+RoundRobinDistributionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/RoundRobinDistributionPolicy.class
+END
+HashingDistributionPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/HashingDistributionPolicy.class
+END
+LineDocRecordReader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/LineDocRecordReader$1.class
+END
+LineDocTextAndOp.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/LineDocTextAndOp.class
+END
+LineDocInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/LineDocInputFormat.class
+END
+LineDocRecordReader$TextStuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/LineDocRecordReader$TextStuffer.class
+END
+IdentityLocalAnalysis.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/index/classes/org/apache/hadoop/contrib/index/example/IdentityLocalAnalysis.class
+END

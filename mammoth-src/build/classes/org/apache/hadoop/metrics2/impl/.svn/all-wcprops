@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl
+END
+MetricGaugeLong.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricGaugeLong.class
+END
+Consumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/Consumer.class
+END
+MetricsSinkAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSinkAdapter.class
+END
+MetricsConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsConfig.class
+END
+MetricsSystemImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSystemImpl.class
+END
+MetricsRecordFiltered$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsRecordFiltered$1$1.class
+END
+MetricCounterInt.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricCounterInt.class
+END
+MetricsBuilderImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsBuilderImpl.class
+END
+MBeanInfoBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MBeanInfoBuilder.class
+END
+MetricsBufferBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsBufferBuilder.class
+END
+MetricsConfigException.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsConfigException.class
+END
+MetricsConfig$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsConfig$1.class
+END
+MetricsSinkAdapter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSinkAdapter$1.class
+END
+MetricsSystemImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSystemImpl$1.class
+END
+MetricsSinkAdapter$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSinkAdapter$2.class
+END
+MetricGaugeFloat.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricGaugeFloat.class
+END
+MetricsSystemImpl$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSystemImpl$2.class
+END
+MetricsRecordFiltered.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsRecordFiltered.class
+END
+MetricsSystemImpl$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSystemImpl$3.class
+END
+MetricsSystemImpl$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSystemImpl$4.class
+END
+MetricsBuffer$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsBuffer$Entry.class
+END
+MetricsSystemImpl$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSystemImpl$5.class
+END
+MetricGaugeDouble.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricGaugeDouble.class
+END
+MetricsRecordImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsRecordImpl.class
+END
+MetricsSourceAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsSourceAdapter.class
+END
+MetricsRecordBuilderImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsRecordBuilderImpl.class
+END
+MetricsBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsBuffer.class
+END
+MetricCounterLong.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricCounterLong.class
+END
+MetricGaugeInt.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricGaugeInt.class
+END
+SinkQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/SinkQueue.class
+END
+MetricsRecordFiltered$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/metrics2/impl/MetricsRecordFiltered$1.class
+END

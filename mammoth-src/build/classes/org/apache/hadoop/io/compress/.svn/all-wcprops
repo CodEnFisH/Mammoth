@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress
+END
+GzipCodec$GzipZlibDecompressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/GzipCodec$GzipZlibDecompressor.class
+END
+BZip2Codec$BZip2CompressionInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/BZip2Codec$BZip2CompressionInputStream.class
+END
+DoNotPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/DoNotPool.class
+END
+BZip2Codec$BZip2CompressionOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/BZip2Codec$BZip2CompressionOutputStream.class
+END
+DecompressorStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/DecompressorStream.class
+END
+DefaultCodec.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/DefaultCodec.class
+END
+BlockCompressorStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/BlockCompressorStream.class
+END
+BZip2Codec.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/BZip2Codec.class
+END
+GzipCodec$GzipOutputStream$ResetableGZIPOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/GzipCodec$GzipOutputStream$ResetableGZIPOutputStream.class
+END
+CompressionCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/CompressionCodecFactory.class
+END
+Compressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/Compressor.class
+END
+BlockDecompressorStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/BlockDecompressorStream.class
+END
+CompressionInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/CompressionInputStream.class
+END
+CompressionOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/CompressionOutputStream.class
+END
+CompressionCodec.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/CompressionCodec.class
+END
+GzipCodec$GzipOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/GzipCodec$GzipOutputStream.class
+END
+GzipCodec$GzipZlibCompressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/GzipCodec$GzipZlibCompressor.class
+END
+Decompressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/Decompressor.class
+END
+GzipCodec.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/GzipCodec.class
+END
+CodecPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/CodecPool.class
+END
+CompressorStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/compress/CompressorStream.class
+END

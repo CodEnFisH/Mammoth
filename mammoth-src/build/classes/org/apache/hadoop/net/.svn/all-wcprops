@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net
+END
+SocketInputStream$Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketInputStream$Reader.class
+END
+CachedDNSToSwitchMapping.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/CachedDNSToSwitchMapping.class
+END
+SocketIOWithTimeout$SelectorPool$ProviderInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketIOWithTimeout$SelectorPool$ProviderInfo.class
+END
+ScriptBasedMapping.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/ScriptBasedMapping.class
+END
+NodeBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/NodeBase.class
+END
+SocketIOWithTimeout$SelectorPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketIOWithTimeout$SelectorPool.class
+END
+SocksSocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocksSocketFactory.class
+END
+SocketIOWithTimeout.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketIOWithTimeout.class
+END
+SocketInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketInputStream.class
+END
+DNS.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/DNS.class
+END
+SocketOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketOutputStream.class
+END
+Node.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/Node.class
+END
+DNSToSwitchMapping.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/DNSToSwitchMapping.class
+END
+NetworkTopology.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/NetworkTopology.class
+END
+SocketOutputStream$Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketOutputStream$Writer.class
+END
+NetworkTopology$InnerNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/NetworkTopology$InnerNode.class
+END
+ScriptBasedMapping$RawScriptBasedMapping.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/ScriptBasedMapping$RawScriptBasedMapping.class
+END
+StandardSocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/StandardSocketFactory.class
+END
+SocketIOWithTimeout$SelectorPool$SelectorInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketIOWithTimeout$SelectorPool$SelectorInfo.class
+END
+NetUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/NetUtils.class
+END
+SocketIOWithTimeout$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/net/SocketIOWithTimeout$1.class
+END

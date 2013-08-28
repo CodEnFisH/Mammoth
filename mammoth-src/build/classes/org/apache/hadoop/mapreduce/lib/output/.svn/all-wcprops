@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output
+END
+FileOutputFormat$Counter.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat$Counter.class
+END
+TextOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/TextOutputFormat.class
+END
+FileOutputFormat_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat_Counter.properties
+END
+SequenceFileOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/SequenceFileOutputFormat.class
+END
+FileOutputCommitter.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/FileOutputCommitter.class
+END
+NullOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/NullOutputFormat.class
+END
+TextOutputFormat$LineRecordWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/TextOutputFormat$LineRecordWriter.class
+END
+SequenceFileOutputFormat$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/SequenceFileOutputFormat$1.class
+END
+NullOutputFormat$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/NullOutputFormat$1.class
+END
+FileOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.class
+END
+NullOutputFormat$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/lib/output/NullOutputFormat$2.class
+END

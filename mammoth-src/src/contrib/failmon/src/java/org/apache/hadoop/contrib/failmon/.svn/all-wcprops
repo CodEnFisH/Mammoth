@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon
+END
+Monitored.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/Monitored.java
+END
+PersistentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/PersistentState.java
+END
+SystemLogParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/SystemLogParser.java
+END
+SMARTParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/SMARTParser.java
+END
+Environment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/Environment.java
+END
+CPUParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/CPUParser.java
+END
+Continuous.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/Continuous.java
+END
+LocalStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/LocalStore.java
+END
+RunOnce.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/RunOnce.java
+END
+SensorsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/SensorsParser.java
+END
+EventRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/EventRecord.java
+END
+MonitorJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/MonitorJob.java
+END
+ShellParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/ShellParser.java
+END
+HDFSMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/HDFSMerger.java
+END
+NICParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/NICParser.java
+END
+HadoopLogParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/HadoopLogParser.java
+END
+SerializedRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/SerializedRecord.java
+END
+Anonymizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/Anonymizer.java
+END
+LogParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/LogParser.java
+END
+OfflineAnonymizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/OfflineAnonymizer.java
+END
+Executor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/failmon/src/java/org/apache/hadoop/contrib/failmon/Executor.java
+END

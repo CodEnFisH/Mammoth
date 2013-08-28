@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/io/compress/zlib
+END
+ZlibDecompressor.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/io/compress/zlib/ZlibDecompressor.c
+END
+org_apache_hadoop_io_compress_zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/io/compress/zlib/org_apache_hadoop_io_compress_zlib.h
+END
+ZlibCompressor.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/native/src/org/apache/hadoop/io/compress/zlib/ZlibCompressor.c
+END

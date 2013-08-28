@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-py/hadoopfs
+END
+ttypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-py/hadoopfs/ttypes.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-py/hadoopfs/constants.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-py/hadoopfs/__init__.py
+END
+ThriftHadoopFileSystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-py/hadoopfs/ThriftHadoopFileSystem.py
+END
+ThriftHadoopFileSystem-remote
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/contrib/thriftfs/gen-py/hadoopfs/ThriftHadoopFileSystem-remote
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use
+END
+MetricsIntValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsIntValue.html
+END
+MetricsRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsRegistry.html
+END
+MBeanUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MBeanUtil.html
+END
+MetricsTimeVaryingInt.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsTimeVaryingInt.html
+END
+MetricsTimeVaryingRate.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsTimeVaryingRate.html
+END
+MetricsBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsBase.html
+END
+MetricsLongValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsLongValue.html
+END
+MetricsTimeVaryingLong.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsTimeVaryingLong.html
+END
+MetricsDynamicMBeanBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/class-use/MetricsDynamicMBeanBase.html
+END

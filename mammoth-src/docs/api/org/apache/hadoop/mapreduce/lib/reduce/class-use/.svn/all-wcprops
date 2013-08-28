@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/reduce/class-use
+END
+LongSumReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/reduce/class-use/LongSumReducer.html
+END
+IntSumReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapreduce/lib/reduce/class-use/IntSumReducer.html
+END

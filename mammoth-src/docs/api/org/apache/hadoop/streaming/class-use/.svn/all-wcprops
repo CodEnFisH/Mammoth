@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use
+END
+PipeCombiner.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/PipeCombiner.html
+END
+JarBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/JarBuilder.html
+END
+StreamInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/StreamInputFormat.html
+END
+HadoopStreaming.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/HadoopStreaming.html
+END
+PathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/PathFinder.html
+END
+PipeMapRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/PipeMapRunner.html
+END
+StreamJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/StreamJob.html
+END
+PipeMapRed.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/PipeMapRed.html
+END
+StreamUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/StreamUtil.html
+END
+UTF8ByteArrayUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/UTF8ByteArrayUtils.html
+END
+StreamXmlRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/StreamXmlRecordReader.html
+END
+PipeMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/PipeMapper.html
+END
+Environment.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/Environment.html
+END
+StreamKeyValUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/StreamKeyValUtil.html
+END
+PipeReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/PipeReducer.html
+END
+StreamBaseRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/streaming/class-use/StreamBaseRecordReader.html
+END

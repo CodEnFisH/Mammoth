@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy
+END
+TestProxyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/TestProxyUtil.java
+END
+DummyLdapContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/DummyLdapContext.java
+END
+TestHdfsProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/TestHdfsProxy.java
+END
+FindFreePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/FindFreePort.java
+END
+SimpleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hdfsproxy/src/test/org/apache/hadoop/hdfsproxy/SimpleServlet.java
+END

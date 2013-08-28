@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation
+END
+AbstractDelegationTokenSecretManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSecretManager.class
+END
+AbstractDelegationTokenSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSelector.class
+END
+AbstractDelegationTokenIdentifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenIdentifier.class
+END
+DelegationKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation/DelegationKey.class
+END
+AbstractDelegationTokenSecretManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSecretManager$1.class
+END
+AbstractDelegationTokenSecretManager$ExpiredTokenRemover.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSecretManager$ExpiredTokenRemover.class
+END
+AbstractDelegationTokenSecretManager$DelegationTokenInformation.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSecretManager$DelegationTokenInformation.class
+END

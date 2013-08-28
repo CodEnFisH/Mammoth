@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing
+END
+DistributedPentomino.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/DistributedPentomino.class
+END
+Sudoku$RowConstraint.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Sudoku$RowConstraint.class
+END
+Pentomino$SolutionPrinter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Pentomino$SolutionPrinter.class
+END
+DancingLinks$Node.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/DancingLinks$Node.class
+END
+Sudoku$SolutionPrinter.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Sudoku$SolutionPrinter.class
+END
+Pentomino$Piece.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Pentomino$Piece.class
+END
+Sudoku$CellConstraint.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Sudoku$CellConstraint.class
+END
+OneSidedPentomino.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/OneSidedPentomino.class
+END
+DancingLinks$SolutionAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/DancingLinks$SolutionAcceptor.class
+END
+Pentomino$Point.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Pentomino$Point.class
+END
+Pentomino$ColumnName.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Pentomino$ColumnName.class
+END
+Sudoku$ColumnName.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Sudoku$ColumnName.class
+END
+DancingLinks$ColumnHeader.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/DancingLinks$ColumnHeader.class
+END
+DistributedPentomino$PentMap$SolutionCatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/DistributedPentomino$PentMap$SolutionCatcher.class
+END
+Sudoku$ColumnConstraint.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Sudoku$ColumnConstraint.class
+END
+Sudoku$SquareConstraint.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Sudoku$SquareConstraint.class
+END
+DancingLinks.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/DancingLinks.class
+END
+DistributedPentomino$PentMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/DistributedPentomino$PentMap.class
+END
+Pentomino$SolutionCategory.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Pentomino$SolutionCategory.class
+END
+Pentomino.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Pentomino.class
+END
+Sudoku.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/dancing/Sudoku.class
+END

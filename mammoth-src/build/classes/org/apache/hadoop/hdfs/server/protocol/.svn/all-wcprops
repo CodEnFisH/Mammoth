@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol
+END
+UpgradeCommand$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/UpgradeCommand$1.class
+END
+BlocksWithLocations$BlockWithLocations.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/BlocksWithLocations$BlockWithLocations.class
+END
+DatanodeCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand.class
+END
+BlockCommand$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/BlockCommand$1.class
+END
+KeyUpdateCommand$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/KeyUpdateCommand$1.class
+END
+BlocksWithLocations.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/BlocksWithLocations.class
+END
+UpgradeCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/UpgradeCommand.class
+END
+DatanodeCommand$Register.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand$Register.class
+END
+BlockCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/BlockCommand.class
+END
+KeyUpdateCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/KeyUpdateCommand.class
+END
+BlockMetaDataInfo$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/BlockMetaDataInfo$1.class
+END
+NamespaceInfo$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/NamespaceInfo$1.class
+END
+DatanodeRegistration$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeRegistration$1.class
+END
+DatanodeProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeProtocol.class
+END
+InterDatanodeProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/InterDatanodeProtocol.class
+END
+DatanodeCommand$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand$1.class
+END
+DatanodeCommand$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand$2.class
+END
+DatanodeCommand$Finalize.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand$Finalize.class
+END
+DisallowedDatanodeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DisallowedDatanodeException.class
+END
+BlockMetaDataInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/BlockMetaDataInfo.class
+END
+NamespaceInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/NamespaceInfo.class
+END
+NamenodeProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/NamenodeProtocol.class
+END
+DatanodeRegistration.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/protocol/DatanodeRegistration.class
+END

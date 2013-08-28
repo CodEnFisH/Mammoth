@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/delegation
+END
+DelegationTokenIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/delegation/DelegationTokenIdentifier.java
+END
+DelegationTokenSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/delegation/DelegationTokenSelector.java
+END
+DelegationTokenSecretManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/delegation/DelegationTokenSecretManager.java
+END

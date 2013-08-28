@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/contrib/failmon/conf
+END
+failmon.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/contrib/failmon/conf/failmon.properties
+END
+global.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/contrib/failmon/conf/global.config
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/contrib/failmon/conf/commons-logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/contrib/failmon/conf/log4j.properties
+END
+hosts.list
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/contrib/failmon/conf/hosts.list
+END

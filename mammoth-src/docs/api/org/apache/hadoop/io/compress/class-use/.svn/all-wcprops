@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use
+END
+GzipCodec.GzipOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/GzipCodec.GzipOutputStream.html
+END
+DoNotPool.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/DoNotPool.html
+END
+DecompressorStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/DecompressorStream.html
+END
+DefaultCodec.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/DefaultCodec.html
+END
+BlockCompressorStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/BlockCompressorStream.html
+END
+BZip2Codec.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/BZip2Codec.html
+END
+CompressionCodecFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/CompressionCodecFactory.html
+END
+BlockDecompressorStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/BlockDecompressorStream.html
+END
+Compressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/Compressor.html
+END
+CompressionInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/CompressionInputStream.html
+END
+CompressionOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/CompressionOutputStream.html
+END
+CompressionCodec.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/CompressionCodec.html
+END
+Decompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/Decompressor.html
+END
+GzipCodec.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/GzipCodec.html
+END
+CodecPool.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/CodecPool.html
+END
+CompressorStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/class-use/CompressorStream.html
+END

@@ -1,0 +1,139 @@
+2012-06-01 21:50:04,886 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting DataNode
+STARTUP_MSG:   host = master/10.38.17.251
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Fri Jun  1 21:49:03 UTC 2012
+************************************************************/
+2012-06-01 21:50:05,292 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2012-06-01 21:50:05,296 DEBUG org.apache.hadoop.metrics2.impl.MetricsConfig: poking parent PropertiesConfiguration for period
+2012-06-01 21:50:05,304 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:05,305 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=18
+2012-06-01 21:50:05,305 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:05,305 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:05,305 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2012-06-01 21:50:05,305 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:05,307 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2012-06-01 21:50:05,307 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: DataNode metrics system started
+2012-06-01 21:50:05,716 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:05,717 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=6
+2012-06-01 21:50:05,717 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:05,717 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:05,717 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2012-06-01 21:50:05,717 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:05,717 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ugi
+2012-06-01 21:50:05,733 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-06-01 21:50:06,917 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 0 time(s).
+2012-06-01 21:50:07,918 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 1 time(s).
+2012-06-01 21:50:08,951 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 2 time(s).
+2012-06-01 21:50:10,001 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 3 time(s).
+2012-06-01 21:50:11,053 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 4 time(s).
+2012-06-01 21:50:12,054 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 5 time(s).
+2012-06-01 21:50:13,055 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 6 time(s).
+2012-06-01 21:50:14,055 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 7 time(s).
+2012-06-01 21:50:15,056 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 8 time(s).
+2012-06-01 21:50:16,057 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 9 time(s).
+2012-06-01 21:50:16,059 INFO org.apache.hadoop.ipc.RPC: Server at master/10.38.17.251:9000 not available yet, Zzzzz...
+2012-06-01 21:50:18,060 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 0 time(s).
+2012-06-01 21:50:19,060 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 1 time(s).
+2012-06-01 21:50:20,061 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 2 time(s).
+2012-06-01 21:50:21,062 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 3 time(s).
+2012-06-01 21:50:22,063 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 4 time(s).
+2012-06-01 21:50:23,064 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 5 time(s).
+2012-06-01 21:50:24,065 INFO org.apache.hadoop.ipc.Client: Retrying connect to server: master/10.38.17.251:9000. Already tried 6 time(s).
+2012-06-01 21:50:24,680 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down DataNode at master/10.38.17.251
+************************************************************/
+2012-06-01 21:52:03,265 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting DataNode
+STARTUP_MSG:   host = master/10.38.17.251
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Fri Jun  1 21:49:03 UTC 2012
+************************************************************/
+2012-06-01 21:52:03,653 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2012-06-01 21:52:03,657 DEBUG org.apache.hadoop.metrics2.impl.MetricsConfig: poking parent PropertiesConfiguration for period
+2012-06-01 21:52:03,665 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:03,666 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=18
+2012-06-01 21:52:03,666 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:03,666 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:03,666 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2012-06-01 21:52:03,666 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:03,668 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2012-06-01 21:52:03,668 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: DataNode metrics system started
+2012-06-01 21:52:04,259 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:04,259 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=6
+2012-06-01 21:52:04,259 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:04,259 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:04,259 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2012-06-01 21:52:04,259 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:04,259 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ugi
+2012-06-01 21:52:04,297 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-06-01 21:52:04,622 INFO org.apache.hadoop.hdfs.server.common.Storage: Storage directory /mnt/s3gator/dfs/data is not formatted.
+2012-06-01 21:52:04,622 INFO org.apache.hadoop.hdfs.server.common.Storage: Formatting ...
+2012-06-01 21:52:04,673 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Registered FSDatasetStatusMBean
+2012-06-01 21:52:04,687 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Opened info server at 50010
+2012-06-01 21:52:04,689 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Balancing bandwith is 1048576 bytes/s
+2012-06-01 21:52:04,835 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2012-06-01 21:52:04,906 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2012-06-01 21:52:04,910 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50075
+2012-06-01 21:52:04,910 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50075 webServer.getConnectors()[0].getLocalPort() returned 50075
+2012-06-01 21:52:04,910 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50075
+2012-06-01 21:52:04,910 INFO org.mortbay.log: jetty-6.1.26
+2012-06-01 21:52:06,068 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50075
+2012-06-01 21:52:06,072 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:06,072 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=20
+2012-06-01 21:52:06,072 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:06,072 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:06,072 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source jvm registered.
+2012-06-01 21:52:06,072 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:06,073 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source jvm
+2012-06-01 21:52:06,073 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:06,073 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=29
+2012-06-01 21:52:06,073 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:06,073 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:06,073 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source DataNode registered.
+2012-06-01 21:52:06,074 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:06,074 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source DataNode
+2012-06-01 21:52:06,904 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:06,904 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=3
+2012-06-01 21:52:06,904 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:06,904 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:06,904 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcDetailedActivityForPort50020 registered.
+2012-06-01 21:52:06,904 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:06,904 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcDetailedActivityForPort50020
+2012-06-01 21:52:06,912 INFO org.apache.hadoop.ipc.Server: Starting SocketReader
+2012-06-01 21:52:06,912 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:06,913 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=15
+2012-06-01 21:52:06,913 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:06,913 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:06,913 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcActivityForPort50020 registered.
+2012-06-01 21:52:06,913 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:06,913 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcActivityForPort50020
+2012-06-01 21:52:06,932 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: dnRegistration = DatanodeRegistration(master:50010, storageID=, infoPort=50075, ipcPort=50020)
+2012-06-01 21:52:06,960 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: New storage id DS-945314559-10.38.17.251-50010-1338587526945 is assigned to data-node 10.38.17.251:50010
+2012-06-01 21:52:06,961 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: DatanodeRegistration(10.38.17.251:50010, storageID=DS-945314559-10.38.17.251-50010-1338587526945, infoPort=50075, ipcPort=50020)In DataNode.run, data = FSDataset{dirpath='/mnt/s3gator/dfs/data/current'}
+2012-06-01 21:52:06,961 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-06-01 21:52:06,962 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 50020: starting
+2012-06-01 21:52:06,963 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 50020: starting
+2012-06-01 21:52:06,963 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 50020: starting
+2012-06-01 21:52:06,964 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: using BLOCKREPORT_INTERVAL of 3600000msec Initial delay: 0msec
+2012-06-01 21:52:06,964 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 50020: starting
+2012-06-01 21:52:06,983 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: BlockReport of 0 blocks took 0 msec to generate and 12 msecs for RPC and NN processing
+2012-06-01 21:52:06,984 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Starting Periodic block scanner.
+2012-06-01 21:52:11,791 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_-475446249503577279_1001 src: /10.38.17.251:46139 dest: /10.38.17.251:50010
+2012-06-01 21:52:11,801 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.38.17.251:46139, dest: /10.38.17.251:50010, bytes: 4, op: HDFS_WRITE, cliID: DFSClient_-1025167618, offset: 0, srvID: DS-945314559-10.38.17.251-50010-1338587526945, blockid: blk_-475446249503577279_1001, duration: 397096
+2012-06-01 21:52:11,802 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 0 for block blk_-475446249503577279_1001 terminating
+2012-06-01 21:53:47,260 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_-6662111059764442296_1002 src: /10.38.17.251:46145 dest: /10.38.17.251:50010
+2012-06-01 21:53:48,071 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.38.17.251:46145, dest: /10.38.17.251:50010, bytes: 26692252, op: HDFS_WRITE, cliID: DFSClient_-1651608627, offset: 0, srvID: DS-945314559-10.38.17.251-50010-1338587526945, blockid: blk_-6662111059764442296_1002, duration: 808076914
+2012-06-01 21:53:48,071 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 0 for block blk_-6662111059764442296_1002 terminating
+2012-06-01 21:53:48,142 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_1965490213914732489_1003 src: /10.38.17.251:46146 dest: /10.38.17.251:50010
+2012-06-01 21:53:48,145 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /10.38.17.251:46146, dest: /10.38.17.251:50010, bytes: 15, op: HDFS_WRITE, cliID: DFSClient_-1651608627, offset: 0, srvID: DS-945314559-10.38.17.251-50010-1338587526945, blockid: blk_1965490213914732489_1003, duration: 855314
+2012-06-01 21:53:48,145 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 0 for block blk_1965490213914732489_1003 terminating
+2012-06-01 21:54:08,136 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down DataNode at master/10.38.17.251
+************************************************************/

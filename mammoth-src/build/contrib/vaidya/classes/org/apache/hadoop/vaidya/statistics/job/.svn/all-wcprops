@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job
+END
+MapTaskStatistics.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/MapTaskStatistics.class
+END
+TaskStatistics.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/TaskStatistics.class
+END
+JobStatistics$MapCounterComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatistics$MapCounterComparator.class
+END
+JobStatisticsInterface$KeyDataType.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatisticsInterface$KeyDataType.class
+END
+JobStatisticsInterface$JobKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatisticsInterface$JobKeys.class
+END
+JobStatisticsInterface$ReduceTaskKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatisticsInterface$ReduceTaskKeys.class
+END
+ReduceTaskStatistics.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/ReduceTaskStatistics.class
+END
+JobStatistics.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatistics.class
+END
+JobStatisticsInterface.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatisticsInterface.class
+END
+JobStatisticsInterface$MapTaskKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatisticsInterface$MapTaskKeys.class
+END
+JobStatistics$ReduceCounterComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatistics$ReduceCounterComparator.class
+END
+JobStatistics$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/contrib/vaidya/classes/org/apache/hadoop/vaidya/statistics/job/JobStatistics$1.class
+END

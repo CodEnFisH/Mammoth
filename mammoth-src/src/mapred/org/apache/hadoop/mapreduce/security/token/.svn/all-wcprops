@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token
+END
+DelegationTokenRenewal.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/DelegationTokenRenewal.java
+END
+JobTokenSecretManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/JobTokenSecretManager.java
+END
+JobTokenSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/JobTokenSelector.java
+END
+JobTokenIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/security/token/JobTokenIdentifier.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred
+END
+CapacityTaskScheduler$TaskSchedulingMgr$ReduceQueueComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$TaskSchedulingMgr$ReduceQueueComparator.class
+END
+MemoryMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/MemoryMatcher.class
+END
+CapacitySchedulerQueue$SlotsUsage.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacitySchedulerQueue$SlotsUsage.class
+END
+CapacityTaskScheduler.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler.class
+END
+CapacitySchedulerQueue$UserInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacitySchedulerQueue$UserInfo.class
+END
+CapacityTaskScheduler$TaskSchedulingMgr$MapQueueComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$TaskSchedulingMgr$MapQueueComparator.class
+END
+CapacityTaskScheduler$TaskSchedulingMgr.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$TaskSchedulingMgr.class
+END
+CapacityTaskScheduler$TaskSchedulingMgr$QueueComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$TaskSchedulingMgr$QueueComparator.class
+END
+CapacitySchedulerQueue$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacitySchedulerQueue$1.class
+END
+CapacityTaskScheduler$ReduceSchedulingMgr.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$ReduceSchedulingMgr.class
+END
+CapacityTaskScheduler$SchedulingDisplayInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$SchedulingDisplayInfo.class
+END
+CapacityTaskScheduler$MapSchedulingMgr.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$MapSchedulingMgr.class
+END
+JobQueuesManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/JobQueuesManager.class
+END
+CapacityTaskScheduler$Clock.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$Clock.class
+END
+CapacityTaskScheduler$TaskLookupResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$TaskLookupResult.class
+END
+JobInitializationPoller$JobInitializationThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/JobInitializationPoller$JobInitializationThread.class
+END
+JobInitializationPoller.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/JobInitializationPoller.class
+END
+CapacitySchedulerQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacitySchedulerQueue.class
+END
+CapacitySchedulerServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacitySchedulerServlet.class
+END
+CapacityTaskScheduler$TaskLookupResult$LookUpStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$TaskLookupResult$LookUpStatus.class
+END
+CapacitySchedulerConf.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacitySchedulerConf.class
+END
+CapacityTaskScheduler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/capacity-scheduler/classes/org/apache/hadoop/mapred/CapacityTaskScheduler$1.class
+END

@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/docs/cn
+END
+hod.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/docs/cn/hod.pdf
+END
+hdfs_design.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_design.pdf
+END
+hod_user_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/hod_user_guide.html
+END
+streaming.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/cn/streaming.html
+END
+mapred-default.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/mapred-default.html
+END
+quickstart.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/cn/quickstart.html
+END
+broken-links.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/cn/broken-links.xml
+END
+mapred_tutorial.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/cn/mapred_tutorial.html
+END
+linkmap.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/docs/cn/linkmap.html
+END
+hadoop_archives.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/cn/hadoop_archives.html
+END
+hdfs_user_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_user_guide.html
+END
+quickstart.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/cn/quickstart.pdf
+END
+hadoop_archives.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/hadoop_archives.pdf
+END
+hod_admin_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/hod_admin_guide.pdf
+END
+cluster_setup.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/docs/cn/cluster_setup.pdf
+END
+core-default.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/docs/cn/core-default.html
+END
+index.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/docs/cn/index.pdf
+END
+hod_config_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/docs/cn/hod_config_guide.html
+END
+hdfs_design.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_design.html
+END
+hdfs_shell.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_shell.pdf
+END
+hod_config_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/cn/hod_config_guide.pdf
+END
+native_libraries.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/docs/cn/native_libraries.html
+END
+hdfs_quota_admin_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_quota_admin_guide.html
+END
+distcp.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/docs/cn/distcp.html
+END
+native_libraries.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/cn/native_libraries.pdf
+END
+hdfs_quota_admin_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_quota_admin_guide.pdf
+END
+hod_user_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/cn/hod_user_guide.pdf
+END
+distcp.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/docs/cn/distcp.pdf
+END
+hdfs_permissions_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_permissions_guide.html
+END
+streaming.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/docs/cn/streaming.pdf
+END
+commands_manual.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/cn/commands_manual.html
+END
+hod_admin_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/cn/hod_admin_guide.html
+END
+mapred_tutorial.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/mapred_tutorial.pdf
+END
+linkmap.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/docs/cn/linkmap.pdf
+END
+hdfs_permissions_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_permissions_guide.pdf
+END
+cluster_setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/cn/cluster_setup.html
+END
+commands_manual.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/commands_manual.pdf
+END
+hdfs_user_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_user_guide.pdf
+END
+hdfs-default.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/docs/cn/hdfs-default.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/docs/cn/index.html
+END
+hod.html
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/docs/cn/hod.html
+END
+hdfs_shell.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/cn/hdfs_shell.html
+END

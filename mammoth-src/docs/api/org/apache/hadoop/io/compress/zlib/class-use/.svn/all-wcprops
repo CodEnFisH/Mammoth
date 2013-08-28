@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use
+END
+BuiltInZlibInflater.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/BuiltInZlibInflater.html
+END
+ZlibCompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.html
+END
+BuiltInZlibDeflater.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/BuiltInZlibDeflater.html
+END
+ZlibDecompressor.CompressionHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibDecompressor.CompressionHeader.html
+END
+ZlibCompressor.CompressionStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.CompressionStrategy.html
+END
+ZlibCompressor.CompressionLevel.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.CompressionLevel.html
+END
+BuiltInGzipDecompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/BuiltInGzipDecompressor.html
+END
+ZlibCompressor.CompressionHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.CompressionHeader.html
+END
+ZlibDecompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibDecompressor.html
+END
+ZlibFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibFactory.html
+END

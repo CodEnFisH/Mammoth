@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use
+END
+KerberosName.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/KerberosName.html
+END
+RefreshUserMappingsProtocol.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/RefreshUserMappingsProtocol.html
+END
+Groups.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/Groups.html
+END
+Krb5AndCertsSslSocketConnector.MODE.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/Krb5AndCertsSslSocketConnector.MODE.html
+END
+UserGroupInformation.AuthenticationMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/UserGroupInformation.AuthenticationMethod.html
+END
+SaslRpcServer.QualityOfProtection.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslRpcServer.QualityOfProtection.html
+END
+AccessControlException.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/AccessControlException.html
+END
+JniBasedUnixGroupsNetgroupMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/JniBasedUnixGroupsNetgroupMapping.html
+END
+ShellBasedUnixGroupsMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/ShellBasedUnixGroupsMapping.html
+END
+Krb5AndCertsSslSocketConnector.Krb5SslFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/Krb5AndCertsSslSocketConnector.Krb5SslFilter.html
+END
+NetgroupCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/NetgroupCache.html
+END
+SaslRpcServer.SaslGssCallbackHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslRpcServer.SaslGssCallbackHandler.html
+END
+KerberosInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/KerberosInfo.html
+END
+KerberosName.NoMatchingRule.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/KerberosName.NoMatchingRule.html
+END
+Credentials.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/Credentials.html
+END
+Krb5AndCertsSslSocketConnector.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/Krb5AndCertsSslSocketConnector.html
+END
+SaslInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslInputStream.html
+END
+SaslRpcServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslRpcServer.html
+END
+SaslOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslOutputStream.html
+END
+JniBasedUnixGroupsMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/JniBasedUnixGroupsMapping.html
+END
+SaslRpcServer.AuthMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslRpcServer.AuthMethod.html
+END
+UserGroupInformation.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/UserGroupInformation.html
+END
+KerberosName.BadFormatString.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/KerberosName.BadFormatString.html
+END
+SaslRpcServer.SaslStatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslRpcServer.SaslStatus.html
+END
+SecurityUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SecurityUtil.html
+END
+SaslRpcClient.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslRpcClient.html
+END
+UserGroupInformation.HadoopLoginModule.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/UserGroupInformation.HadoopLoginModule.html
+END
+ShellBasedUnixGroupsNetgroupMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/ShellBasedUnixGroupsNetgroupMapping.html
+END
+SaslRpcServer.SaslDigestCallbackHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/security/class-use/SaslRpcServer.SaslDigestCallbackHandler.html
+END

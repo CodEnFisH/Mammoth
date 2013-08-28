@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/filter
+END
+TestPatternFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/filter/TestPatternFilter.java
+END

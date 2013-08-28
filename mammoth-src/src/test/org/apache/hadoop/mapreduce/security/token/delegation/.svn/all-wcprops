@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security/token/delegation
+END
+TestDelegationTokenAuthMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security/token/delegation/TestDelegationTokenAuthMethod.java
+END
+TestDelegationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/security/token/delegation/TestDelegationToken.java
+END

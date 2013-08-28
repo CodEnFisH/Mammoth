@@ -1,0 +1,236 @@
+2012-06-01 21:50:09,019 INFO org.apache.hadoop.mapred.TaskTracker: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting TaskTracker
+STARTUP_MSG:   host = master/10.38.17.251
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Fri Jun  1 21:49:03 UTC 2012
+************************************************************/
+2012-06-01 21:50:09,429 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2012-06-01 21:50:09,433 DEBUG org.apache.hadoop.metrics2.impl.MetricsConfig: poking parent PropertiesConfiguration for period
+2012-06-01 21:50:09,495 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:09,497 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=18
+2012-06-01 21:50:09,497 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:09,497 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:09,497 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2012-06-01 21:50:09,497 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:09,498 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2012-06-01 21:50:09,498 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: TaskTracker metrics system started
+2012-06-01 21:50:10,523 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:10,523 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=6
+2012-06-01 21:50:10,523 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:10,523 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:10,523 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2012-06-01 21:50:10,524 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:10,524 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ugi
+2012-06-01 21:50:10,538 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-06-01 21:50:11,061 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2012-06-01 21:50:11,159 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2012-06-01 21:50:11,194 INFO org.apache.hadoop.mapred.TaskLogsTruncater: Initializing logs' truncater with mapRetainSize=-1 and reduceRetainSize=-1
+2012-06-01 21:50:11,263 INFO org.apache.hadoop.mapred.TaskTracker: Starting tasktracker with owner as s3gator
+2012-06-01 21:50:11,269 DEBUG org.apache.hadoop.mapred.TaskTracker: instrumentation class=null
+2012-06-01 21:50:11,274 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:11,274 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=20
+2012-06-01 21:50:11,274 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:11,274 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:11,274 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source jvm registered.
+2012-06-01 21:50:11,274 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:11,274 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source jvm
+2012-06-01 21:50:11,275 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:11,275 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=10
+2012-06-01 21:50:11,275 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:11,275 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:11,275 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source TaskTrackerMetrics registered.
+2012-06-01 21:50:11,275 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:11,275 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source TaskTrackerMetrics
+2012-06-01 21:50:11,363 INFO org.apache.hadoop.ipc.Server: Starting SocketReader
+2012-06-01 21:50:11,365 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=3
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:11,366 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcDetailedActivityForPort54813 registered.
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcDetailedActivityForPort54813
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=15
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:50:11,366 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcActivityForPort54813 registered.
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:50:11,366 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcActivityForPort54813
+2012-06-01 21:50:11,370 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-06-01 21:50:11,372 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 54813: starting
+2012-06-01 21:50:11,372 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 54813: starting
+2012-06-01 21:50:11,372 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 54813: starting
+2012-06-01 21:50:11,384 INFO org.apache.hadoop.mapred.TaskTracker: TaskTracker up at: ubuntu/127.0.0.1:54813
+2012-06-01 21:50:11,384 INFO org.apache.hadoop.mapred.TaskTracker: Starting tracker tracker_master:ubuntu/127.0.0.1:54813
+2012-06-01 21:50:11,386 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 54813: starting
+2012-06-01 21:50:11,386 INFO org.apache.hadoop.ipc.Server: IPC Server handler 3 on 54813: starting
+2012-06-01 21:50:23,946 ERROR org.apache.hadoop.mapred.TaskTracker: Can not start task tracker because java.io.IOException: Call to master/10.38.17.251:9001 failed on local exception: java.io.IOException: Connection reset by peer
+	at org.apache.hadoop.ipc.Client.wrapException(Client.java:1065)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1033)
+	at org.apache.hadoop.ipc.RPC$Invoker.invoke(RPC.java:224)
+	at org.apache.hadoop.mapred.$Proxy5.getProtocolVersion(Unknown Source)
+	at org.apache.hadoop.ipc.RPC.getProxy(RPC.java:364)
+	at org.apache.hadoop.ipc.RPC.getProxy(RPC.java:347)
+	at org.apache.hadoop.ipc.RPC.getProxy(RPC.java:389)
+	at org.apache.hadoop.ipc.RPC.waitForProxy(RPC.java:319)
+	at org.apache.hadoop.ipc.RPC.waitForProxy(RPC.java:295)
+	at org.apache.hadoop.mapred.TaskTracker$3.run(TaskTracker.java:714)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:396)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1059)
+	at org.apache.hadoop.mapred.TaskTracker.initialize(TaskTracker.java:711)
+	at org.apache.hadoop.mapred.TaskTracker.<init>(TaskTracker.java:1352)
+	at org.apache.hadoop.mapred.TaskTracker.main(TaskTracker.java:3563)
+Caused by: java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:21)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:202)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:175)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:243)
+	at org.apache.hadoop.net.SocketInputStream$Reader.performIO(SocketInputStream.java:55)
+	at org.apache.hadoop.net.SocketIOWithTimeout.doIO(SocketIOWithTimeout.java:142)
+	at org.apache.hadoop.net.SocketInputStream.read(SocketInputStream.java:155)
+	at org.apache.hadoop.net.SocketInputStream.read(SocketInputStream.java:128)
+	at java.io.FilterInputStream.read(FilterInputStream.java:116)
+	at org.apache.hadoop.ipc.Client$Connection$PingInputStream.read(Client.java:343)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readInt(DataInputStream.java:370)
+	at org.apache.hadoop.ipc.Client$Connection.receiveResponse(Client.java:767)
+	at org.apache.hadoop.ipc.Client$Connection.run(Client.java:712)
+
+2012-06-01 21:50:23,947 INFO org.apache.hadoop.mapred.TaskTracker: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down TaskTracker at master/10.38.17.251
+************************************************************/
+2012-06-01 21:52:09,251 INFO org.apache.hadoop.mapred.TaskTracker: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting TaskTracker
+STARTUP_MSG:   host = master/10.38.17.251
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Fri Jun  1 21:49:03 UTC 2012
+************************************************************/
+2012-06-01 21:52:09,640 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2012-06-01 21:52:09,645 DEBUG org.apache.hadoop.metrics2.impl.MetricsConfig: poking parent PropertiesConfiguration for period
+2012-06-01 21:52:09,700 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:09,702 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=18
+2012-06-01 21:52:09,702 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:09,702 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:09,702 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2012-06-01 21:52:09,702 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:09,703 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2012-06-01 21:52:09,703 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: TaskTracker metrics system started
+2012-06-01 21:52:10,603 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:10,603 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=6
+2012-06-01 21:52:10,603 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:10,603 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:10,603 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2012-06-01 21:52:10,604 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:10,604 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ugi
+2012-06-01 21:52:10,615 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-06-01 21:52:10,987 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2012-06-01 21:52:11,170 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2012-06-01 21:52:11,191 INFO org.apache.hadoop.mapred.TaskLogsTruncater: Initializing logs' truncater with mapRetainSize=-1 and reduceRetainSize=-1
+2012-06-01 21:52:11,196 INFO org.apache.hadoop.mapred.TaskTracker: Starting tasktracker with owner as s3gator
+2012-06-01 21:52:11,202 DEBUG org.apache.hadoop.mapred.TaskTracker: instrumentation class=null
+2012-06-01 21:52:11,206 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:11,206 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=20
+2012-06-01 21:52:11,206 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:11,206 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:11,207 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source jvm registered.
+2012-06-01 21:52:11,207 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:11,207 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source jvm
+2012-06-01 21:52:11,207 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:11,207 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=10
+2012-06-01 21:52:11,207 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:11,208 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:11,208 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source TaskTrackerMetrics registered.
+2012-06-01 21:52:11,208 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:11,208 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source TaskTrackerMetrics
+2012-06-01 21:52:11,311 INFO org.apache.hadoop.ipc.Server: Starting SocketReader
+2012-06-01 21:52:11,314 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:11,314 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=3
+2012-06-01 21:52:11,314 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:11,314 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:11,315 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcDetailedActivityForPort37851 registered.
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcDetailedActivityForPort37851
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=15
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:11,315 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcActivityForPort37851 registered.
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:11,315 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcActivityForPort37851
+2012-06-01 21:52:11,327 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-06-01 21:52:11,328 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 37851: starting
+2012-06-01 21:52:11,329 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 37851: starting
+2012-06-01 21:52:11,329 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 37851: starting
+2012-06-01 21:52:11,353 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 37851: starting
+2012-06-01 21:52:11,354 INFO org.apache.hadoop.ipc.Server: IPC Server handler 3 on 37851: starting
+2012-06-01 21:52:11,354 INFO org.apache.hadoop.mapred.TaskTracker: TaskTracker up at: ubuntu/127.0.0.1:37851
+2012-06-01 21:52:11,354 INFO org.apache.hadoop.mapred.TaskTracker: Starting tracker tracker_master:ubuntu/127.0.0.1:37851
+2012-06-01 21:52:12,038 INFO org.apache.hadoop.mapred.TaskTracker: Starting thread: Map-events fetcher for all reduce tasks on tracker_master:ubuntu/127.0.0.1:37851
+2012-06-01 21:52:12,039 INFO org.apache.hadoop.mapred.TaskTracker:  Using MemoryCalculatorPlugin : org.apache.hadoop.util.LinuxMemoryCalculatorPlugin@46b4be3d
+2012-06-01 21:52:12,095 INFO org.apache.hadoop.util.ProcessTree: setsid exited with exit code 0
+2012-06-01 21:52:12,096 WARN org.apache.hadoop.mapred.TaskTracker: TaskTracker's totalMemoryAllottedForTasks is -1. TaskMemoryManager is disabled.
+2012-06-01 21:52:12,103 INFO org.apache.hadoop.mapred.IndexCache: IndexCache created with max memory = 10485760
+2012-06-01 21:52:12,120 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-06-01 21:52:12,120 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=7
+2012-06-01 21:52:12,120 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-06-01 21:52:12,120 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-06-01 21:52:12,120 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ShuffleServerMetrics registered.
+2012-06-01 21:52:12,120 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-06-01 21:52:12,120 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ShuffleServerMetrics
+2012-06-01 21:52:12,193 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50060
+2012-06-01 21:52:12,194 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50060 webServer.getConnectors()[0].getLocalPort() returned 50060
+2012-06-01 21:52:12,194 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50060
+2012-06-01 21:52:12,194 INFO org.mortbay.log: jetty-6.1.26
+2012-06-01 21:52:12,665 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50060
+2012-06-01 21:52:12,665 INFO org.apache.hadoop.mapred.TaskTracker: FILE_CACHE_SIZE for mapOutputServlet set to : 2000
+2012-06-01 21:52:12,671 INFO org.apache.hadoop.mapred.UserLogCleaner: Adding job_201205241647_0001 for user-log deletion with retainTimeStamp:1338673932102
+2012-06-01 21:52:15,827 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 0 and 0 actions
+2012-06-01 21:52:18,830 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 1 and 0 actions
+2012-06-01 21:52:21,832 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 2 and 0 actions
+2012-06-01 21:52:24,834 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 3 and 0 actions
+2012-06-01 21:52:27,836 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 4 and 0 actions
+2012-06-01 21:52:30,838 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 5 and 0 actions
+2012-06-01 21:52:33,841 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 6 and 0 actions
+2012-06-01 21:52:36,842 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 7 and 0 actions
+2012-06-01 21:52:39,844 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 8 and 0 actions
+2012-06-01 21:52:42,846 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 9 and 0 actions
+2012-06-01 21:52:45,848 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 10 and 0 actions
+2012-06-01 21:52:48,851 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 11 and 0 actions
+2012-06-01 21:52:51,854 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 12 and 0 actions
+2012-06-01 21:52:54,856 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 13 and 0 actions
+2012-06-01 21:52:57,859 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 14 and 0 actions
+2012-06-01 21:53:00,863 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 15 and 0 actions
+2012-06-01 21:53:03,865 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 16 and 0 actions
+2012-06-01 21:53:06,867 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 17 and 0 actions
+2012-06-01 21:53:09,869 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 18 and 0 actions
+2012-06-01 21:53:12,871 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 19 and 0 actions
+2012-06-01 21:53:15,873 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 20 and 0 actions
+2012-06-01 21:53:18,875 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 21 and 0 actions
+2012-06-01 21:53:21,877 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 22 and 0 actions
+2012-06-01 21:53:24,879 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 23 and 0 actions
+2012-06-01 21:53:27,880 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 24 and 0 actions
+2012-06-01 21:53:30,882 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 25 and 0 actions
+2012-06-01 21:53:33,884 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 26 and 0 actions
+2012-06-01 21:53:36,886 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 27 and 0 actions
+2012-06-01 21:53:39,888 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 28 and 0 actions
+2012-06-01 21:53:42,890 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 29 and 0 actions
+2012-06-01 21:53:45,892 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 30 and 0 actions
+2012-06-01 21:53:48,894 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 31 and 0 actions
+2012-06-01 21:53:51,895 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 32 and 0 actions
+2012-06-01 21:53:54,897 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 33 and 0 actions
+2012-06-01 21:53:57,902 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 34 and 0 actions
+2012-06-01 21:54:00,904 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 35 and 0 actions
+2012-06-01 21:54:03,948 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 36 and 0 actions
+2012-06-01 21:54:06,950 DEBUG org.apache.hadoop.mapred.TaskTracker: Got heartbeatResponse from JobTracker with responseId: 37 and 0 actions
+2012-06-01 21:54:07,592 INFO org.apache.hadoop.mapred.TaskTracker: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down TaskTracker at master/10.38.17.251
+************************************************************/

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort
+END
+TeraGen$RangeInputFormat$RangeInputSplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraGen$RangeInputFormat$RangeInputSplit.class
+END
+TeraSort$TotalOrderPartitioner$LeafTrieNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraSort$TotalOrderPartitioner$LeafTrieNode.class
+END
+TeraInputFormat$TextSampler.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraInputFormat$TextSampler.class
+END
+TeraSort$TotalOrderPartitioner$InnerTrieNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraSort$TotalOrderPartitioner$InnerTrieNode.class
+END
+TeraInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraInputFormat.class
+END
+TeraGen.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraGen.class
+END
+TeraOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraOutputFormat.class
+END
+TeraSort$TotalOrderPartitioner$TrieNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraSort$TotalOrderPartitioner$TrieNode.class
+END
+TeraInputFormat$TeraRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraInputFormat$TeraRecordReader.class
+END
+TeraSort$TotalOrderPartitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraSort$TotalOrderPartitioner.class
+END
+TeraValidate$ValidateMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraValidate$ValidateMapper.class
+END
+TeraValidate$ValidateReducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraValidate$ValidateReducer.class
+END
+TeraGen$RangeInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraGen$RangeInputFormat.class
+END
+TeraGen$SortGenMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraGen$SortGenMapper.class
+END
+TeraGen$RandomGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraGen$RandomGenerator.class
+END
+TeraOutputFormat$TeraRecordWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraOutputFormat$TeraRecordWriter.class
+END
+TeraGen$RangeInputFormat$RangeRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraGen$RangeInputFormat$RangeRecordReader.class
+END
+TeraSort.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraSort.class
+END
+TeraValidate.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/examples/org/apache/hadoop/examples/terasort/TeraValidate.class
+END

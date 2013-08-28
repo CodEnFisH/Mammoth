@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/lib
+END
+StaticUserWebFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/lib/StaticUserWebFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/core/org/apache/hadoop/http/lib/package.html
+END

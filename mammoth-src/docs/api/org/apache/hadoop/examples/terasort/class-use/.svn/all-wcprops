@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/terasort/class-use
+END
+TeraSort.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/terasort/class-use/TeraSort.html
+END
+TeraInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/terasort/class-use/TeraInputFormat.html
+END
+TeraValidate.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/terasort/class-use/TeraValidate.html
+END
+TeraGen.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/terasort/class-use/TeraGen.html
+END
+TeraOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/terasort/class-use/TeraOutputFormat.html
+END
+TeraGen.SortGenMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/examples/terasort/class-use/TeraGen.SortGenMapper.html
+END

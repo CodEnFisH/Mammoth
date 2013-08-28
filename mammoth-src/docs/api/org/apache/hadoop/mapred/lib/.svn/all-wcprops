@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib
+END
+KeyFieldBasedPartitioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/KeyFieldBasedPartitioner.html
+END
+MultipleSequenceFileOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/MultipleSequenceFileOutputFormat.html
+END
+FieldSelectionMapReduce.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/FieldSelectionMapReduce.html
+END
+InputSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/InputSampler.html
+END
+MultithreadedMapRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/MultithreadedMapRunner.html
+END
+InputSampler.Sampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/InputSampler.Sampler.html
+END
+InputSampler.RandomSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/InputSampler.RandomSampler.html
+END
+CombineFileSplit.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/CombineFileSplit.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/package-tree.html
+END
+InputSampler.IntervalSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/InputSampler.IntervalSampler.html
+END
+CombineFileRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/CombineFileRecordReader.html
+END
+TokenCountMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/TokenCountMapper.html
+END
+IdentityMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/IdentityMapper.html
+END
+LongSumReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/LongSumReducer.html
+END
+MultipleInputs.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/MultipleInputs.html
+END
+NullOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/NullOutputFormat.html
+END
+DelegatingMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/DelegatingMapper.html
+END
+RegexMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/RegexMapper.html
+END
+InverseMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/InverseMapper.html
+END
+KeyFieldBasedComparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/KeyFieldBasedComparator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/package-use.html
+END
+MultipleOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/MultipleOutputFormat.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/package-summary.html
+END
+ChainMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/ChainMapper.html
+END
+MultipleTextOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/MultipleTextOutputFormat.html
+END
+ChainReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/ChainReducer.html
+END
+DelegatingInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/DelegatingInputFormat.html
+END
+NLineInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/NLineInputFormat.html
+END
+MultipleOutputs.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/MultipleOutputs.html
+END
+TotalOrderPartitioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/TotalOrderPartitioner.html
+END
+InputSampler.SplitSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/InputSampler.SplitSampler.html
+END
+IdentityReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/IdentityReducer.html
+END
+HashPartitioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/HashPartitioner.html
+END
+CombineFileInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/CombineFileInputFormat.html
+END

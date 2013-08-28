@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker
+END
+Localizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/Localizer.java
+END
+JVMInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/JVMInfo.java
+END

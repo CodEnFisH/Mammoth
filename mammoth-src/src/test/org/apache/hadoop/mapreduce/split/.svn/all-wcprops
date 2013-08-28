@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/split
+END
+TestJobSplitWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/split/TestJobSplitWriter.java
+END
+TestBlockLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/mapreduce/split/TestBlockLimits.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db
+END
+DBConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBConfiguration.html
+END
+DBInputFormat.DBInputSplit.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBInputFormat.DBInputSplit.html
+END
+DBInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBInputFormat.html
+END
+DBWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBWritable.html
+END
+DBOutputFormat.DBRecordWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBOutputFormat.DBRecordWriter.html
+END
+DBOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBOutputFormat.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/package-frame.html
+END
+DBInputFormat.DBRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBInputFormat.DBRecordReader.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/package-summary.html
+END
+DBInputFormat.NullDBWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/DBInputFormat.NullDBWritable.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/mapred/lib/db/package-tree.html
+END

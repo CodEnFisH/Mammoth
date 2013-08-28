@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db
+END
+DBConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBConfiguration.class
+END
+DBInputFormat$NullDBWritable.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBInputFormat$NullDBWritable.class
+END
+DBInputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBInputFormat.class
+END
+DBWritable.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBWritable.class
+END
+DBOutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBOutputFormat.class
+END
+DBInputFormat$DBInputSplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBInputFormat$DBInputSplit.class
+END
+DBOutputFormat$DBRecordWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBOutputFormat$DBRecordWriter.class
+END
+DBInputFormat$DBRecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapred/lib/db/DBInputFormat$DBRecordReader.class
+END

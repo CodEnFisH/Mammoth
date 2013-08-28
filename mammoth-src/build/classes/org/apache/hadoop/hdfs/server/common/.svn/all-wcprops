@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common
+END
+Upgradeable.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Upgradeable.class
+END
+UpgradeStatusReport$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/UpgradeStatusReport$1.class
+END
+Util.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Util.class
+END
+IncorrectVersionException.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/IncorrectVersionException.class
+END
+UpgradeObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/UpgradeObject.class
+END
+StorageInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/StorageInfo.class
+END
+HdfsConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/HdfsConstants.class
+END
+Storage$DirIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Storage$DirIterator.class
+END
+UpgradeManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/UpgradeManager.class
+END
+Storage$StorageDirectory.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Storage$StorageDirectory.class
+END
+UpgradeObjectCollection$UOSignature.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/UpgradeObjectCollection$UOSignature.class
+END
+GenerationStamp$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/GenerationStamp$1.class
+END
+UpgradeStatusReport.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/UpgradeStatusReport.class
+END
+InconsistentFSStateException.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/InconsistentFSStateException.class
+END
+Storage$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Storage$1.class
+END
+UpgradeObjectCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/UpgradeObjectCollection.class
+END
+HdfsConstants$NodeType.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/HdfsConstants$NodeType.class
+END
+Storage$StorageDirType.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Storage$StorageDirType.class
+END
+Storage$StorageState.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Storage$StorageState.class
+END
+GenerationStamp.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/GenerationStamp.class
+END
+HdfsConstants$StartupOption.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/HdfsConstants$StartupOption.class
+END
+Storage.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/common/Storage.class
+END

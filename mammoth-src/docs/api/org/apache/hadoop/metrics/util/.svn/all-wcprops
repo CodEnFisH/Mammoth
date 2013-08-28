@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util
+END
+MetricsIntValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsIntValue.html
+END
+MetricsRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsRegistry.html
+END
+MBeanUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MBeanUtil.html
+END
+MetricsTimeVaryingInt.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsTimeVaryingInt.html
+END
+MetricsTimeVaryingRate.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsTimeVaryingRate.html
+END
+MetricsBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsBase.html
+END
+MetricsLongValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsLongValue.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/package-use.html
+END
+MetricsTimeVaryingLong.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsTimeVaryingLong.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/package-tree.html
+END
+MetricsDynamicMBeanBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/metrics/util/MetricsDynamicMBeanBase.html
+END

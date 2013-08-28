@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/contrib/test
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/contrib/test/hdfs-site.xml
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/contrib/test/mapred-site.xml
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/contrib/test/core-site.xml
+END
+hadoop-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/contrib/test/hadoop-site.xml
+END

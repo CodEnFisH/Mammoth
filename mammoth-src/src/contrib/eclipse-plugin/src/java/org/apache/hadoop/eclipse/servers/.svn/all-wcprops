@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers
+END
+ServerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers/ServerRegistry.java
+END
+IHadoopServerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers/IHadoopServerListener.java
+END
+HadoopLocationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers/HadoopLocationWizard.java
+END
+HadoopServerSelectionListContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/trunk/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers/HadoopServerSelectionListContentProvider.java
+END
+RunOnHadoopWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers/RunOnHadoopWizard.java
+END

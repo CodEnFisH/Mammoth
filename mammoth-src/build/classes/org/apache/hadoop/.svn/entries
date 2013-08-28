@@ -1,0 +1,147 @@
+10
+
+dir
+2
+https://s3-mammoth.googlecode.com/svn/trunk/build/classes/org/apache/hadoop
+https://s3-mammoth.googlecode.com/svn
+
+
+
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222d3e4f-9f86-7226-70a5-1e99113e8334
+
+http
+dir
+
+HadoopVersionAnnotation.class
+file
+
+
+
+
+2012-09-20T17:43:37.375039Z
+17c833babc7f69869ab596d5930ccec7
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+522
+
+log
+dir
+
+hdfs
+dir
+
+conf
+dir
+
+net
+dir
+
+metrics2
+dir
+
+package-info.class
+file
+
+
+
+
+2012-09-20T17:43:37.375039Z
+babcaca2ce11bcea2e6dc61aad16cf7a
+2012-09-20T16:29:50.997984Z
+2
+zincumyx@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+341
+
+classification
+dir
+
+filecache
+dir
+
+mapreduce
+dir
+
+metrics
+dir
+
+security
+dir
+
+io
+dir
+
+fs
+dir
+
+mapred
+dir
+
+ipc
+dir
+
+util
+dir
+
+record
+dir
+

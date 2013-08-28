@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/src/test
+END
+fi-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/test/fi-site.xml
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/test/hdfs-site.xml
+END
+hadoop-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/test/hadoop-policy.xml
+END
+krb5.conf
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/test/krb5.conf
+END
+commit-tests
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/test/commit-tests
+END
+all-tests
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/test/all-tests
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/test/core-site.xml
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/test/mapred-site.xml
+END
+checkstyle-noframes-sorted.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/test/checkstyle-noframes-sorted.xsl
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/test/log4j.properties
+END
+findbugsExcludeFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/test/findbugsExcludeFile.xml
+END
+hadoop-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/test/hadoop-site.xml
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/test/checkstyle.xml
+END
+smoke-tests
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/test/smoke-tests
+END

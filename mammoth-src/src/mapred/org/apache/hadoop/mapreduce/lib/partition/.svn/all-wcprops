@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/partition
+END
+HashPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/partition/HashPartitioner.java
+END

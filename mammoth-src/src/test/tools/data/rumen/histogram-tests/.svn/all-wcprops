@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests
+END
+input-only-one-value.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/input-only-one-value.json
+END
+gold-three-values.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/gold-three-values.json
+END
+gold-minimal.json
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/gold-minimal.json
+END
+input-one-value-many-repeats.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/input-one-value-many-repeats.json
+END
+gold-only-one-value.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/gold-only-one-value.json
+END
+input-three-values.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/input-three-values.json
+END
+gold-one-value-many-repeats.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/gold-one-value-many-repeats.json
+END
+input-minimal.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/test/tools/data/rumen/histogram-tests/input-minimal.json
+END

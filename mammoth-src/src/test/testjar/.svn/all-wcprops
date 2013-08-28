@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/test/testjar
+END
+CustomOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/test/testjar/CustomOutputCommitter.java
+END
+GenerateTaskChildProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/test/testjar/GenerateTaskChildProcess.java
+END
+ExternalMapperReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/test/testjar/ExternalMapperReducer.java
+END
+UserNamePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/test/testjar/UserNamePermission.java
+END
+JobKillCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/test/testjar/JobKillCommitter.java
+END
+ClassWordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/test/testjar/ClassWordCount.java
+END
+ExternalWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/test/testjar/ExternalWritable.java
+END

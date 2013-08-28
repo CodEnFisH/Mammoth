@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block
+END
+BlockTokenSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/BlockTokenSelector.class
+END
+BlockTokenSecretManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/BlockTokenSecretManager.class
+END
+BlockTokenIdentifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/BlockTokenIdentifier.class
+END
+ExportedBlockKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/ExportedBlockKeys.class
+END
+InvalidBlockTokenException.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/InvalidBlockTokenException.class
+END
+BlockKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/BlockKey.class
+END
+ExportedBlockKeys$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/ExportedBlockKeys$1.class
+END
+BlockTokenSecretManager$AccessMode.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/security/token/block/BlockTokenSecretManager$AccessMode.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/build/classes
+END
+hdfs-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/build/classes/hdfs-default.xml
+END
+core-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/build/classes/core-default.xml
+END
+mapred-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/build/classes/mapred-default.xml
+END
+bin.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/build/classes/bin.tgz
+END

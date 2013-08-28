@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/test/system/conf
+END
+system-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/test/system/conf/system-test.xml
+END
+hadoop-policy-system-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/test/system/conf/hadoop-policy-system-test.xml
+END

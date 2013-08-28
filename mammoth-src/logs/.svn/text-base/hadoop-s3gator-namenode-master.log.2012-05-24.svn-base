@@ -1,0 +1,440 @@
+2012-05-24 16:47:24,657 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting NameNode
+STARTUP_MSG:   host = master/10.114.114.76
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 0.20.203.1-SNAPSHOT
+STARTUP_MSG:   build =  -r ; compiled by 's3gator' on Thu May 24 16:47:11 UTC 2012
+************************************************************/
+2012-05-24 16:47:24,888 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2012-05-24 16:47:24,892 DEBUG org.apache.hadoop.metrics2.impl.MetricsConfig: poking parent PropertiesConfiguration for period
+2012-05-24 16:47:24,900 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:24,901 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=18
+2012-05-24 16:47:24,901 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:24,901 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:24,901 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2012-05-24 16:47:24,901 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:24,903 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2012-05-24 16:47:24,903 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: NameNode metrics system started
+2012-05-24 16:47:25,152 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:25,152 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=6
+2012-05-24 16:47:25,152 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:25,152 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:25,152 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2012-05-24 16:47:25,152 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:25,152 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source ugi
+2012-05-24 16:47:25,163 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2012-05-24 16:47:25,178 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:25,178 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=20
+2012-05-24 16:47:25,178 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:25,178 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:25,179 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source jvm registered.
+2012-05-24 16:47:25,179 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:25,179 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source jvm
+2012-05-24 16:47:25,179 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:25,180 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=23
+2012-05-24 16:47:25,180 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:25,180 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:25,180 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source NameNode registered.
+2012-05-24 16:47:25,180 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:25,180 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source NameNode
+2012-05-24 16:47:25,209 INFO org.apache.hadoop.hdfs.util.GSet: VM type       = 64-bit
+2012-05-24 16:47:25,210 INFO org.apache.hadoop.hdfs.util.GSet: 2% max memory = 177.77875 MB
+2012-05-24 16:47:25,210 INFO org.apache.hadoop.hdfs.util.GSet: capacity      = 2^24 = 16777216 entries
+2012-05-24 16:47:25,210 INFO org.apache.hadoop.hdfs.util.GSet: recommended=16777216, actual=16777216
+2012-05-24 16:47:25,430 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: fsOwner=s3gator
+2012-05-24 16:47:25,430 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: supergroup=supergroup
+2012-05-24 16:47:25,430 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: isPermissionEnabled=true
+2012-05-24 16:47:25,435 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: dfs.block.invalidate.limit=100
+2012-05-24 16:47:25,435 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: isAccessTokenEnabled=false accessKeyUpdateInterval=0 min(s), accessTokenLifetime=0 min(s)
+2012-05-24 16:47:26,200 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Registered FSNamesystemStateMBean and NameNodeMXBean
+2012-05-24 16:47:26,245 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: Caching file names occuring more than 10 times 
+2012-05-24 16:47:26,282 INFO org.apache.hadoop.hdfs.server.common.Storage: Number of files = 146
+2012-05-24 16:47:26,329 INFO org.apache.hadoop.hdfs.server.common.Storage: Number of files under construction = 10
+2012-05-24 16:47:26,337 INFO org.apache.hadoop.hdfs.server.common.Storage: Image file of size 20601 loaded in 0 seconds.
+2012-05-24 16:47:26,585 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Invalid opcode, reached end of edit log Number of transactions found 580
+2012-05-24 16:47:26,585 INFO org.apache.hadoop.hdfs.server.common.Storage: Edits file /mnt/s3gator/dfs/name/current/edits of size 1049435 edits # 580 loaded in 0 seconds.
+2012-05-24 16:47:26,592 INFO org.apache.hadoop.hdfs.server.common.Storage: Image file of size 23808 saved in 0 seconds.
+2012-05-24 16:47:26,746 INFO org.apache.hadoop.hdfs.server.common.Storage: Image file of size 23808 saved in 0 seconds.
+2012-05-24 16:47:26,920 INFO org.apache.hadoop.hdfs.server.namenode.NameCache: initialized with 0 entries 0 lookups
+2012-05-24 16:47:26,920 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Finished loading FSImage in 1497 msecs
+2012-05-24 16:47:26,949 INFO org.apache.hadoop.hdfs.StateChange: STATE* Safe mode ON. 
+The ratio of reported blocks 0.0000 has not reached the threshold 0.9990. Safe mode will be turned off automatically.
+2012-05-24 16:47:26,991 INFO org.apache.hadoop.util.HostsFileReader: Refreshing hosts (include/exclude) list
+2012-05-24 16:47:27,005 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:27,005 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=16
+2012-05-24 16:47:27,005 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:27,005 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:27,005 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source FSNamesystemMetrics registered.
+2012-05-24 16:47:27,005 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:27,005 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source FSNamesystemMetrics
+2012-05-24 16:47:27,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:27,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=3
+2012-05-24 16:47:27,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:27,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:27,162 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcDetailedActivityForPort9000 registered.
+2012-05-24 16:47:27,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:27,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcDetailedActivityForPort9000
+2012-05-24 16:47:27,162 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating attr cache...
+2012-05-24 16:47:27,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done. numMetrics=15
+2012-05-24 16:47:27,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Updating info cache...
+2012-05-24 16:47:27,163 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Done
+2012-05-24 16:47:27,164 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcActivityForPort9000 registered.
+2012-05-24 16:47:27,164 DEBUG org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: Stacktrace: java.lang.Throwable
+2012-05-24 16:47:27,164 DEBUG org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Registered source RpcActivityForPort9000
+2012-05-24 16:47:27,167 INFO org.apache.hadoop.ipc.Server: Starting SocketReader
+2012-05-24 16:47:27,172 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: Namenode up at: master/10.114.114.76:9000
+2012-05-24 16:47:27,439 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2012-05-24 16:47:27,608 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2012-05-24 16:47:27,615 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50070
+2012-05-24 16:47:27,616 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50070 webServer.getConnectors()[0].getLocalPort() returned 50070
+2012-05-24 16:47:27,617 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50070
+2012-05-24 16:47:27,617 INFO org.mortbay.log: jetty-6.1.26
+2012-05-24 16:47:29,158 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50070
+2012-05-24 16:47:29,158 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: Web-server up at: 0.0.0.0:50070
+2012-05-24 16:47:29,176 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2012-05-24 16:47:29,182 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 9000: starting
+2012-05-24 16:47:29,196 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 9000: starting
+2012-05-24 16:47:29,202 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 9000: starting
+2012-05-24 16:47:29,202 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 9000: starting
+2012-05-24 16:47:29,203 INFO org.apache.hadoop.ipc.Server: IPC Server handler 3 on 9000: starting
+2012-05-24 16:47:29,203 INFO org.apache.hadoop.ipc.Server: IPC Server handler 4 on 9000: starting
+2012-05-24 16:47:29,203 INFO org.apache.hadoop.ipc.Server: IPC Server handler 5 on 9000: starting
+2012-05-24 16:47:29,204 INFO org.apache.hadoop.ipc.Server: IPC Server handler 6 on 9000: starting
+2012-05-24 16:47:29,204 INFO org.apache.hadoop.ipc.Server: IPC Server handler 7 on 9000: starting
+2012-05-24 16:47:29,204 INFO org.apache.hadoop.ipc.Server: IPC Server handler 8 on 9000: starting
+2012-05-24 16:47:29,239 INFO org.apache.hadoop.ipc.Server: IPC Server handler 9 on 9000: starting
+2012-05-24 16:47:30,460 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.224.157.71:50010 storage DS-1504661169-10.224.157.71-50010-1337873790259
+2012-05-24 16:47:30,464 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.224.157.71:50010
+2012-05-24 16:47:30,509 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.224.157.71:50010, blocks: 56, processing time: 2 msecs
+2012-05-24 16:47:30,671 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.35.94.55:50010 storage DS-2012486475-10.35.94.55-50010-1337873800695
+2012-05-24 16:47:30,671 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.35.94.55:50010
+2012-05-24 16:47:30,675 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.77.39.184:50010 storage DS-1445148270-10.77.39.184-50010-1337873791667
+2012-05-24 16:47:30,675 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.77.39.184:50010
+2012-05-24 16:47:30,681 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.101.53.89:50010 storage DS-471400883-10.101.53.89-50010-1337873790501
+2012-05-24 16:47:30,681 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.101.53.89:50010
+2012-05-24 16:47:30,703 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.100.222.164:50010 storage DS-81324255-10.100.222.164-50010-1337873799974
+2012-05-24 16:47:30,703 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.100.222.164:50010
+2012-05-24 16:47:30,707 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.77.39.184:50010, blocks: 47, processing time: 1 msecs
+2012-05-24 16:47:30,717 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.101.53.89:50010, blocks: 57, processing time: 1 msecs
+2012-05-24 16:47:30,722 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.35.94.55:50010, blocks: 70, processing time: 5 msecs
+2012-05-24 16:47:30,723 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.83.66.177:50010 storage DS-1437958851-10.83.66.177-50010-1337873800465
+2012-05-24 16:47:30,723 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.83.66.177:50010
+2012-05-24 16:47:30,733 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.100.222.164:50010, blocks: 48, processing time: 2 msecs
+2012-05-24 16:47:30,769 INFO org.apache.hadoop.hdfs.StateChange: STATE* Safe mode extension entered. 
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 29 seconds.
+2012-05-24 16:47:30,769 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.83.66.177:50010, blocks: 55, processing time: 23 msecs
+2012-05-24 16:47:30,946 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.118.166.169:50010 storage DS-1345723537-10.118.166.169-50010-1337873792361
+2012-05-24 16:47:30,947 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.118.166.169:50010
+2012-05-24 16:47:30,983 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.118.166.169:50010, blocks: 59, processing time: 1 msecs
+2012-05-24 16:47:33,390 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.registerDatanode: node registration from 10.114.114.76:50010 storage DS-2038880145-10.114.114.76-50010-1337873790161
+2012-05-24 16:47:33,390 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/10.114.114.76:50010
+2012-05-24 16:47:33,526 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.114.114.76:50010, blocks: 196, processing time: 9 msecs
+2012-05-24 16:47:37,126 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 9000, call delete(/mnt/s3gator/mapred/system, true) from 10.114.114.76:37036: error: org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /mnt/s3gator/mapred/system. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 23 seconds.
+org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /mnt/s3gator/mapred/system. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 23 seconds.
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.deleteInternal(FSNamesystem.java:1851)
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.delete(FSNamesystem.java:1831)
+	at org.apache.hadoop.hdfs.server.namenode.NameNode.delete(NameNode.java:691)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:523)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1383)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1379)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:396)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1059)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:1377)
+2012-05-24 16:47:47,134 INFO org.apache.hadoop.ipc.Server: IPC Server handler 7 on 9000, call delete(/mnt/s3gator/mapred/system, true) from 10.114.114.76:37036: error: org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /mnt/s3gator/mapred/system. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 13 seconds.
+org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /mnt/s3gator/mapred/system. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 13 seconds.
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.deleteInternal(FSNamesystem.java:1851)
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.delete(FSNamesystem.java:1831)
+	at org.apache.hadoop.hdfs.server.namenode.NameNode.delete(NameNode.java:691)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:523)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1383)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1379)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:396)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1059)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:1377)
+2012-05-24 16:47:50,884 INFO org.apache.hadoop.hdfs.StateChange: STATE* Safe mode ON. 
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 9 seconds.
+2012-05-24 16:47:56,991 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 9000, call delete(/user/s3gator/output, true) from 10.114.114.76:37041: error: org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /user/s3gator/output. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 3 seconds.
+org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /user/s3gator/output. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 3 seconds.
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.deleteInternal(FSNamesystem.java:1851)
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.delete(FSNamesystem.java:1831)
+	at org.apache.hadoop.hdfs.server.namenode.NameNode.delete(NameNode.java:691)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:523)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1383)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1379)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:396)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1059)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:1377)
+2012-05-24 16:47:57,138 INFO org.apache.hadoop.ipc.Server: IPC Server handler 8 on 9000, call delete(/mnt/s3gator/mapred/system, true) from 10.114.114.76:37036: error: org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /mnt/s3gator/mapred/system. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 3 seconds.
+org.apache.hadoop.hdfs.server.namenode.SafeModeException: Cannot delete /mnt/s3gator/mapred/system. Name node is in safe mode.
+The ratio of reported blocks 1.0000 has reached the threshold 0.9990. Safe mode will be turned off automatically in 3 seconds.
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.deleteInternal(FSNamesystem.java:1851)
+	at org.apache.hadoop.hdfs.server.namenode.FSNamesystem.delete(FSNamesystem.java:1831)
+	at org.apache.hadoop.hdfs.server.namenode.NameNode.delete(NameNode.java:691)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:523)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1383)
+	at org.apache.hadoop.ipc.Server$Handler$1.run(Server.java:1379)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:396)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1059)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:1377)
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total number of blocks = 196
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of invalid blocks = 0
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of under-replicated blocks = 0
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of  over-replicated blocks = 0
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.StateChange: STATE* Safe mode termination scan for invalid, over- and under-replicated blocks completed in 60 msec
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.StateChange: STATE* Leaving safe mode after 35 secs.
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.StateChange: STATE* Safe mode is OFF.
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.StateChange: STATE* Network topology has 1 racks and 8 datanodes
+2012-05-24 16:48:00,963 INFO org.apache.hadoop.hdfs.StateChange: STATE* UnderReplicatedBlocks has 0 blocks
+2012-05-24 16:48:03,052 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: ReplicateQueue QueueProcessingStatistics: First cycle completed 0 blocks in 0 msec
+2012-05-24 16:48:03,052 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: ReplicateQueue QueueProcessingStatistics: Queue flush completed 0 blocks in 0 msec processing time, 0 msec clock time, 1 cycles
+2012-05-24 16:48:03,052 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: InvalidateQueue QueueProcessingStatistics: First cycle completed 0 blocks in 0 msec
+2012-05-24 16:48:03,052 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: InvalidateQueue QueueProcessingStatistics: Queue flush completed 0 blocks in 0 msec processing time, 0 msec clock time, 1 cycles
+2012-05-24 16:48:07,143 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-4890181718842137841 is added to invalidSet of 10.224.157.71:50010
+2012-05-24 16:48:07,143 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-4890181718842137841 is added to invalidSet of 10.77.39.184:50010
+2012-05-24 16:48:07,143 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-4890181718842137841 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:48:07,348 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /mnt/s3gator/mapred/system/jobtracker.info. blk_7397728712533225880_1430
+2012-05-24 16:48:07,463 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.224.157.71:50010 is added to blk_7397728712533225880_1430 size 4
+2012-05-24 16:48:07,467 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.118.166.169:50010 is added to blk_7397728712533225880_1430 size 4
+2012-05-24 16:48:07,469 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_7397728712533225880_1430 size 4
+2012-05-24 16:48:07,473 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /mnt/s3gator/mapred/system/jobtracker.info is closed by DFSClient_-643544580
+2012-05-24 16:48:09,053 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.77.39.184:50010 to delete  blk_-4890181718842137841_1321
+2012-05-24 16:48:09,053 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.224.157.71:50010 to delete  blk_-4890181718842137841_1321
+2012-05-24 16:48:09,053 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.114.114.76:50010 to delete  blk_-4890181718842137841_1321
+2012-05-24 16:48:09,355 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_8189817228637161361 is added to invalidSet of 10.224.157.71:50010
+2012-05-24 16:48:09,355 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_8189817228637161361 is added to invalidSet of 10.100.222.164:50010
+2012-05-24 16:48:09,355 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_8189817228637161361 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:48:09,355 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-1745014742760602453 is added to invalidSet of 10.35.94.55:50010
+2012-05-24 16:48:09,355 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-1745014742760602453 is added to invalidSet of 10.118.166.169:50010
+2012-05-24 16:48:09,355 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-1745014742760602453 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:48:12,054 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.118.166.169:50010 to delete  blk_-1745014742760602453_1327
+2012-05-24 16:48:12,054 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.224.157.71:50010 to delete  blk_8189817228637161361_1328
+2012-05-24 16:48:12,054 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.35.94.55:50010 to delete  blk_-1745014742760602453_1327
+2012-05-24 16:48:15,054 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.114.114.76:50010 to delete  blk_8189817228637161361_1328 blk_-1745014742760602453_1327
+2012-05-24 16:48:15,054 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.100.222.164:50010 to delete  blk_8189817228637161361_1328
+2012-05-24 16:48:18,926 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.jar. blk_-2709744642501260654_1431
+2012-05-24 16:48:19,196 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.100.222.164:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:19,197 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.83.66.177:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:19,205 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.jar is closed by DFSClient_1191661681
+2012-05-24 16:48:19,205 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:19,207 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Increasing replication for file /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.jar. New replication is 10
+2012-05-24 16:48:19,516 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Increasing replication for file /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.split. New replication is 10
+2012-05-24 16:48:19,525 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.split. blk_-5457864889147500295_1432
+2012-05-24 16:48:19,675 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.35.94.55:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,680 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.83.66.177:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,682 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.100.222.164:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,689 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.77.39.184:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,696 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.224.157.71:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,698 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.101.53.89:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,701 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.118.166.169:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,704 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_-5457864889147500295_1432 size 11507
+2012-05-24 16:48:19,706 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.split is closed by DFSClient_1191661681
+2012-05-24 16:48:19,718 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.splitmetainfo. blk_-4051652234502317484_1433
+2012-05-24 16:48:19,742 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.35.94.55:50010 is added to blk_-4051652234502317484_1433 size 3205
+2012-05-24 16:48:19,771 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.118.166.169:50010 is added to blk_-4051652234502317484_1433 size 3205
+2012-05-24 16:48:19,771 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_-4051652234502317484_1433 size 3205
+2012-05-24 16:48:19,773 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.splitmetainfo is closed by DFSClient_1191661681
+2012-05-24 16:48:19,829 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.xml. blk_6243427877186023702_1434
+2012-05-24 16:48:19,845 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.224.157.71:50010 is added to blk_6243427877186023702_1434 size 20083
+2012-05-24 16:48:19,846 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.77.39.184:50010 is added to blk_6243427877186023702_1434 size 20083
+2012-05-24 16:48:19,849 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_6243427877186023702_1434 size 20083
+2012-05-24 16:48:19,851 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /mnt/s3gator/mapred/staging/s3gator/.staging/job_201205241647_0001/job.xml is closed by DFSClient_1191661681
+2012-05-24 16:48:21,057 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.100.222.164:50010 to replicate blk_-2709744642501260654_1431 to datanode(s) 10.77.39.184:50010 10.35.94.55:50010 10.224.157.71:50010 10.118.166.169:50010 10.101.53.89:50010
+2012-05-24 16:48:21,745 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.77.39.184:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:21,784 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.35.94.55:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:21,785 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.224.157.71:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:21,786 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.101.53.89:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:21,787 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.118.166.169:50010 is added to blk_-2709744642501260654_1431 size 154272
+2012-05-24 16:48:23,276 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/s3gator/output/_logs/history/job_201205241647_0001_conf.xml. blk_-2573996443128598317_1436
+2012-05-24 16:48:23,367 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.224.157.71:50010 is added to blk_-2573996443128598317_1436 size 20149
+2012-05-24 16:48:23,367 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.118.166.169:50010 is added to blk_-2573996443128598317_1436 size 20149
+2012-05-24 16:48:23,367 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_-2573996443128598317_1436 size 20149
+2012-05-24 16:48:23,373 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_logs/history/job_201205241647_0001_conf.xml is closed by DFSClient_774978985
+2012-05-24 16:48:23,382 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /mnt/s3gator/mapred/system/job_201205241647_0001/jobToken. blk_3241889498880646777_1437
+2012-05-24 16:48:23,394 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.77.39.184:50010 is added to blk_3241889498880646777_1437 size 106
+2012-05-24 16:48:23,396 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.101.53.89:50010 is added to blk_3241889498880646777_1437 size 106
+2012-05-24 16:48:23,397 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_3241889498880646777_1437 size 106
+2012-05-24 16:48:23,399 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /mnt/s3gator/mapred/system/job_201205241647_0001/jobToken is closed by DFSClient_-643544580
+2012-05-24 16:48:28,620 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 143 Total time for transactions(ms): 3Number of transactions batched in Syncs: 0 Number of syncs: 28 SyncTimes(ms): 22 
+2012-05-24 16:49:28,932 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 149 Total time for transactions(ms): 3Number of transactions batched in Syncs: 0 Number of syncs: 30 SyncTimes(ms): 24 
+2012-05-24 16:49:57,636 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.allocateBlock: /user/s3gator/output/_logs/history/job_201205241647_0001_1337878099865_s3gator_domain+calculation+of+region. blk_-2325347992364173164_1444
+2012-05-24 16:52:35,658 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Roll Edit Log from 10.114.114.76
+2012-05-24 16:52:35,659 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 191 Total time for transactions(ms): 4Number of transactions batched in Syncs: 0 Number of syncs: 45 SyncTimes(ms): 1384 
+2012-05-24 16:52:36,767 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Roll FSImage from 10.114.114.76
+2012-05-24 16:52:36,767 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 0 Total time for transactions(ms): 0Number of transactions batched in Syncs: 0 Number of syncs: 1 SyncTimes(ms): 10 
+2012-05-24 16:53:49,679 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000000_0/part-r-00000 is closed by DFSClient_attempt_201205241647_0001_r_000000_0
+2012-05-24 16:53:49,679 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 1 Total time for transactions(ms): 0Number of transactions batched in Syncs: 0 Number of syncs: 0 SyncTimes(ms): 0 
+2012-05-24 16:54:01,612 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000010_0/part-r-00010 is closed by DFSClient_attempt_201205241647_0001_r_000010_0
+2012-05-24 16:54:05,594 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000001_0/part-r-00001 is closed by DFSClient_attempt_201205241647_0001_r_000001_0
+2012-05-24 16:54:08,630 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000003_0/part-r-00003 is closed by DFSClient_attempt_201205241647_0001_r_000003_0
+2012-05-24 16:54:12,460 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000008_0/part-r-00008 is closed by DFSClient_attempt_201205241647_0001_r_000008_0
+2012-05-24 16:54:16,349 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000007_0/part-r-00007 is closed by DFSClient_attempt_201205241647_0001_r_000007_0
+2012-05-24 16:54:16,916 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000002_0/part-r-00002 is closed by DFSClient_attempt_201205241647_0001_r_000002_0
+2012-05-24 16:54:20,647 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000004_0/part-r-00004 is closed by DFSClient_attempt_201205241647_0001_r_000004_0
+2012-05-24 16:54:23,824 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000019_0/part-r-00019 is closed by DFSClient_attempt_201205241647_0001_r_000019_0
+2012-05-24 16:54:24,247 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000016_0/part-r-00016 is closed by DFSClient_attempt_201205241647_0001_r_000016_0
+2012-05-24 16:54:27,828 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000024_0/part-r-00024 is closed by DFSClient_attempt_201205241647_0001_r_000024_0
+2012-05-24 16:54:32,238 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000013_0/part-r-00013 is closed by DFSClient_attempt_201205241647_0001_r_000013_0
+2012-05-24 16:54:32,931 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000017_0/part-r-00017 is closed by DFSClient_attempt_201205241647_0001_r_000017_0
+2012-05-24 16:54:33,002 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000023_0/part-r-00023 is closed by DFSClient_attempt_201205241647_0001_r_000023_0
+2012-05-24 16:54:33,037 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000014_0/part-r-00014 is closed by DFSClient_attempt_201205241647_0001_r_000014_0
+2012-05-24 16:54:35,938 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000026_0/part-r-00026 is closed by DFSClient_attempt_201205241647_0001_r_000026_0
+2012-05-24 16:54:38,815 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000047_0/part-r-00047 is closed by DFSClient_attempt_201205241647_0001_r_000047_0
+2012-05-24 16:54:39,652 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000025_0/part-r-00025 is closed by DFSClient_attempt_201205241647_0001_r_000025_0
+2012-05-24 16:54:40,210 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000006_0/part-r-00006 is closed by DFSClient_attempt_201205241647_0001_r_000006_0
+2012-05-24 16:54:40,706 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000020_0/part-r-00020 is closed by DFSClient_attempt_201205241647_0001_r_000020_0
+2012-05-24 16:54:42,326 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000005_0/part-r-00005 is closed by DFSClient_attempt_201205241647_0001_r_000005_0
+2012-05-24 16:54:43,802 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000028_0/part-r-00028 is closed by DFSClient_attempt_201205241647_0001_r_000028_0
+2012-05-24 16:54:46,419 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000027_0/part-r-00027 is closed by DFSClient_attempt_201205241647_0001_r_000027_0
+2012-05-24 16:54:46,475 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000021_0/part-r-00021 is closed by DFSClient_attempt_201205241647_0001_r_000021_0
+2012-05-24 16:54:46,799 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000009_0/part-r-00009 is closed by DFSClient_attempt_201205241647_0001_r_000009_0
+2012-05-24 16:54:46,911 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000029_0/part-r-00029 is closed by DFSClient_attempt_201205241647_0001_r_000029_0
+2012-05-24 16:54:47,026 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000018_0/part-r-00018 is closed by DFSClient_attempt_201205241647_0001_r_000018_0
+2012-05-24 16:54:47,366 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000041_0/part-r-00041 is closed by DFSClient_attempt_201205241647_0001_r_000041_0
+2012-05-24 16:54:48,672 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000022_0/part-r-00022 is closed by DFSClient_attempt_201205241647_0001_r_000022_0
+2012-05-24 16:54:49,932 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 129 Total time for transactions(ms): 8Number of transactions batched in Syncs: 28 Number of syncs: 97 SyncTimes(ms): 2333 
+2012-05-24 16:54:52,043 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000030_0/part-r-00030 is closed by DFSClient_attempt_201205241647_0001_r_000030_0
+2012-05-24 16:54:52,081 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000049_0/part-r-00049 is closed by DFSClient_attempt_201205241647_0001_r_000049_0
+2012-05-24 16:54:56,879 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000038_0/part-r-00038 is closed by DFSClient_attempt_201205241647_0001_r_000038_0
+2012-05-24 16:54:57,050 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000042_0/part-r-00042 is closed by DFSClient_attempt_201205241647_0001_r_000042_0
+2012-05-24 16:54:57,177 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000034_0/part-r-00034 is closed by DFSClient_attempt_201205241647_0001_r_000034_0
+2012-05-24 16:54:57,299 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000035_0/part-r-00035 is closed by DFSClient_attempt_201205241647_0001_r_000035_0
+2012-05-24 16:54:57,441 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000032_0/part-r-00032 is closed by DFSClient_attempt_201205241647_0001_r_000032_0
+2012-05-24 16:55:00,089 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000036_0/part-r-00036 is closed by DFSClient_attempt_201205241647_0001_r_000036_0
+2012-05-24 16:55:04,020 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000033_0/part-r-00033 is closed by DFSClient_attempt_201205241647_0001_r_000033_0
+2012-05-24 16:55:04,303 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000043_0/part-r-00043 is closed by DFSClient_attempt_201205241647_0001_r_000043_0
+2012-05-24 16:55:04,431 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000053_0/part-r-00053 is closed by DFSClient_attempt_201205241647_0001_r_000053_0
+2012-05-24 16:55:04,584 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000031_0/part-r-00031 is closed by DFSClient_attempt_201205241647_0001_r_000031_0
+2012-05-24 16:55:05,103 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000044_0/part-r-00044 is closed by DFSClient_attempt_201205241647_0001_r_000044_0
+2012-05-24 16:55:05,377 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000037_0/part-r-00037 is closed by DFSClient_attempt_201205241647_0001_r_000037_0
+2012-05-24 16:55:06,719 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000054_0/part-r-00054 is closed by DFSClient_attempt_201205241647_0001_r_000054_0
+2012-05-24 16:55:09,193 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000051_0/part-r-00051 is closed by DFSClient_attempt_201205241647_0001_r_000051_0
+2012-05-24 16:55:11,590 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000046_0/part-r-00046 is closed by DFSClient_attempt_201205241647_0001_r_000046_0
+2012-05-24 16:55:12,413 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000040_0/part-r-00040 is closed by DFSClient_attempt_201205241647_0001_r_000040_0
+2012-05-24 16:55:14,466 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000065_0/part-r-00065 is closed by DFSClient_attempt_201205241647_0001_r_000065_0
+2012-05-24 16:55:14,515 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000067_0/part-r-00067 is closed by DFSClient_attempt_201205241647_0001_r_000067_0
+2012-05-24 16:55:14,608 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000058_0/part-r-00058 is closed by DFSClient_attempt_201205241647_0001_r_000058_0
+2012-05-24 16:55:17,414 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000045_0/part-r-00045 is closed by DFSClient_attempt_201205241647_0001_r_000045_0
+2012-05-24 16:55:17,768 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000061_0/part-r-00061 is closed by DFSClient_attempt_201205241647_0001_r_000061_0
+2012-05-24 16:55:20,529 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000052_0/part-r-00052 is closed by DFSClient_attempt_201205241647_0001_r_000052_0
+2012-05-24 16:55:20,706 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000048_0/part-r-00048 is closed by DFSClient_attempt_201205241647_0001_r_000048_0
+2012-05-24 16:55:20,735 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000060_0/part-r-00060 is closed by DFSClient_attempt_201205241647_0001_r_000060_0
+2012-05-24 16:55:20,980 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000071_0/part-r-00071 is closed by DFSClient_attempt_201205241647_0001_r_000071_0
+2012-05-24 16:55:21,451 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000039_0/part-r-00039 is closed by DFSClient_attempt_201205241647_0001_r_000039_0
+2012-05-24 16:55:21,939 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000056_0/part-r-00056 is closed by DFSClient_attempt_201205241647_0001_r_000056_0
+2012-05-24 16:55:24,579 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000069_0/part-r-00069 is closed by DFSClient_attempt_201205241647_0001_r_000069_0
+2012-05-24 16:55:26,604 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000050_0/part-r-00050 is closed by DFSClient_attempt_201205241647_0001_r_000050_0
+2012-05-24 16:55:29,397 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000077_0/part-r-00077 is closed by DFSClient_attempt_201205241647_0001_r_000077_0
+2012-05-24 16:55:29,529 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000055_0/part-r-00055 is closed by DFSClient_attempt_201205241647_0001_r_000055_0
+2012-05-24 16:55:30,909 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000068_0/part-r-00068 is closed by DFSClient_attempt_201205241647_0001_r_000068_0
+2012-05-24 16:55:32,651 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000059_0/part-r-00059 is closed by DFSClient_attempt_201205241647_0001_r_000059_0
+2012-05-24 16:55:33,985 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000079_0/part-r-00079 is closed by DFSClient_attempt_201205241647_0001_r_000079_0
+2012-05-24 16:55:34,829 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000074_0/part-r-00074 is closed by DFSClient_attempt_201205241647_0001_r_000074_0
+2012-05-24 16:55:35,831 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000062_0/part-r-00062 is closed by DFSClient_attempt_201205241647_0001_r_000062_0
+2012-05-24 16:55:36,368 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000064_0/part-r-00064 is closed by DFSClient_attempt_201205241647_0001_r_000064_0
+2012-05-24 16:55:36,754 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000075_0/part-r-00075 is closed by DFSClient_attempt_201205241647_0001_r_000075_0
+2012-05-24 16:55:38,001 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000086_0/part-r-00086 is closed by DFSClient_attempt_201205241647_0001_r_000086_0
+2012-05-24 16:55:39,119 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000073_0/part-r-00073 is closed by DFSClient_attempt_201205241647_0001_r_000073_0
+2012-05-24 16:55:40,453 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000090_0/part-r-00090 is closed by DFSClient_attempt_201205241647_0001_r_000090_0
+2012-05-24 16:55:43,016 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000057_0/part-r-00057 is closed by DFSClient_attempt_201205241647_0001_r_000057_0
+2012-05-24 16:55:43,483 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000091_0/part-r-00091 is closed by DFSClient_attempt_201205241647_0001_r_000091_0
+2012-05-24 16:55:43,583 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000080_0/part-r-00080 is closed by DFSClient_attempt_201205241647_0001_r_000080_0
+2012-05-24 16:55:47,260 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000063_0/part-r-00063 is closed by DFSClient_attempt_201205241647_0001_r_000063_0
+2012-05-24 16:55:48,116 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000082_0/part-r-00082 is closed by DFSClient_attempt_201205241647_0001_r_000082_0
+2012-05-24 16:55:48,385 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000084_0/part-r-00084 is closed by DFSClient_attempt_201205241647_0001_r_000084_0
+2012-05-24 16:55:50,035 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000085_0/part-r-00085 is closed by DFSClient_attempt_201205241647_0001_r_000085_0
+2012-05-24 16:55:50,035 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 432 Total time for transactions(ms): 17Number of transactions batched in Syncs: 78 Number of syncs: 297 SyncTimes(ms): 2865 
+2012-05-24 16:55:50,035 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000088_0/part-r-00088 is closed by DFSClient_attempt_201205241647_0001_r_000088_0
+2012-05-24 16:55:52,764 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000076_0/part-r-00076 is closed by DFSClient_attempt_201205241647_0001_r_000076_0
+2012-05-24 16:55:54,256 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000099_0/part-r-00099 is closed by DFSClient_attempt_201205241647_0001_r_000099_0
+2012-05-24 16:55:57,892 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000089_0/part-r-00089 is closed by DFSClient_attempt_201205241647_0001_r_000089_0
+2012-05-24 16:55:57,942 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000072_0/part-r-00072 is closed by DFSClient_attempt_201205241647_0001_r_000072_0
+2012-05-24 16:55:59,802 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000066_0/part-r-00066 is closed by DFSClient_attempt_201205241647_0001_r_000066_0
+2012-05-24 16:55:59,891 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000093_0/part-r-00093 is closed by DFSClient_attempt_201205241647_0001_r_000093_0
+2012-05-24 16:56:03,180 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000097_0/part-r-00097 is closed by DFSClient_attempt_201205241647_0001_r_000097_0
+2012-05-24 16:56:04,627 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000095_0/part-r-00095 is closed by DFSClient_attempt_201205241647_0001_r_000095_0
+2012-05-24 16:56:04,992 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000094_0/part-r-00094 is closed by DFSClient_attempt_201205241647_0001_r_000094_0
+2012-05-24 16:56:10,297 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000070_0/part-r-00070 is closed by DFSClient_attempt_201205241647_0001_r_000070_0
+2012-05-24 16:56:12,079 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000081_0/part-r-00081 is closed by DFSClient_attempt_201205241647_0001_r_000081_0
+2012-05-24 16:56:13,257 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000096_0/part-r-00096 is closed by DFSClient_attempt_201205241647_0001_r_000096_0
+2012-05-24 16:56:23,905 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000078_0/part-r-00078 is closed by DFSClient_attempt_201205241647_0001_r_000078_0
+2012-05-24 16:56:25,204 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000092_0/part-r-00092 is closed by DFSClient_attempt_201205241647_0001_r_000092_0
+2012-05-24 16:58:23,490 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000012_0/part-r-00012 is closed by DFSClient_attempt_201205241647_0001_r_000012_0
+2012-05-24 16:58:23,490 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Number of transactions: 526 Total time for transactions(ms): 19Number of transactions batched in Syncs: 96 Number of syncs: 363 SyncTimes(ms): 2895 
+2012-05-24 16:58:35,178 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000083_0/part-r-00083 is closed by DFSClient_attempt_201205241647_0001_r_000083_0
+2012-05-24 16:58:41,800 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000011_0/part-r-00011 is closed by DFSClient_attempt_201205241647_0001_r_000011_0
+2012-05-24 16:58:46,177 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000087_0/part-r-00087 is closed by DFSClient_attempt_201205241647_0001_r_000087_0
+2012-05-24 16:58:48,367 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000015_0/part-r-00015 is closed by DFSClient_attempt_201205241647_0001_r_000015_0
+2012-05-24 16:58:54,649 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_temporary/_attempt_201205241647_0001_r_000098_0/part-r-00098 is closed by DFSClient_attempt_201205241647_0001_r_000098_0
+2012-05-24 16:59:00,136 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_SUCCESS is closed by DFSClient_attempt_201205241647_0001_m_000100_0
+2012-05-24 16:59:00,137 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.100.222.164:50010
+2012-05-24 16:59:00,137 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.83.66.177:50010
+2012-05-24 16:59:00,137 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:59:00,137 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.77.39.184:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.35.94.55:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.224.157.71:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.101.53.89:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-2709744642501260654 is added to invalidSet of 10.118.166.169:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.35.94.55:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.83.66.177:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.100.222.164:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.77.39.184:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.224.157.71:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.101.53.89:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.118.166.169:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-5457864889147500295 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-4051652234502317484 is added to invalidSet of 10.35.94.55:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-4051652234502317484 is added to invalidSet of 10.118.166.169:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_-4051652234502317484 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_6243427877186023702 is added to invalidSet of 10.224.157.71:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_6243427877186023702 is added to invalidSet of 10.77.39.184:50010
+2012-05-24 16:59:00,138 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_6243427877186023702 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:59:00,843 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.118.166.169:50010 to delete  blk_-5457864889147500295_1432 blk_-4051652234502317484_1433 blk_-2709744642501260654_1431
+2012-05-24 16:59:00,843 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.83.66.177:50010 to delete  blk_-5457864889147500295_1432 blk_-2709744642501260654_1431
+2012-05-24 16:59:00,843 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.77.39.184:50010 to delete  blk_-5457864889147500295_1432 blk_6243427877186023702_1434 blk_-2709744642501260654_1431
+2012-05-24 16:59:03,844 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.224.157.71:50010 to delete  blk_-5457864889147500295_1432 blk_6243427877186023702_1434 blk_-2709744642501260654_1431
+2012-05-24 16:59:03,844 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.35.94.55:50010 to delete  blk_-5457864889147500295_1432 blk_-4051652234502317484_1433 blk_-2709744642501260654_1431
+2012-05-24 16:59:03,844 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.114.114.76:50010 to delete  blk_-5457864889147500295_1432 blk_6243427877186023702_1434 blk_-4051652234502317484_1433 blk_-2709744642501260654_1431
+2012-05-24 16:59:04,461 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.77.39.184:50010 is added to blk_-2325347992364173164_1444 size 455486
+2012-05-24 16:59:04,461 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.83.66.177:50010 is added to blk_-2325347992364173164_1444 size 455486
+2012-05-24 16:59:04,463 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.114.114.76:50010 is added to blk_-2325347992364173164_1444 size 455486
+2012-05-24 16:59:04,464 INFO org.apache.hadoop.hdfs.StateChange: DIR* NameSystem.completeFile: file /user/s3gator/output/_logs/history/job_201205241647_0001_1337878099865_s3gator_domain+calculation+of+region is closed by DFSClient_774978985
+2012-05-24 16:59:04,501 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_3241889498880646777 is added to invalidSet of 10.77.39.184:50010
+2012-05-24 16:59:04,501 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_3241889498880646777 is added to invalidSet of 10.101.53.89:50010
+2012-05-24 16:59:04,501 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* NameSystem.addToInvalidates: blk_3241889498880646777 is added to invalidSet of 10.114.114.76:50010
+2012-05-24 16:59:06,844 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.77.39.184:50010 to delete  blk_3241889498880646777_1437
+2012-05-24 16:59:06,844 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.114.114.76:50010 to delete  blk_3241889498880646777_1437
+2012-05-24 16:59:06,845 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.101.53.89:50010 to delete  blk_-5457864889147500295_1432 blk_3241889498880646777_1437 blk_-2709744642501260654_1431
+2012-05-24 16:59:09,845 INFO org.apache.hadoop.hdfs.StateChange: BLOCK* ask 10.100.222.164:50010 to delete  blk_-5457864889147500295_1432 blk_-2709744642501260654_1431
+2012-05-24 16:59:10,777 INFO org.apache.hadoop.hdfs.StateChange: *BLOCK* NameSystem.processReport: from 10.35.94.55:50010, blocks: 69, processing time: 1 msecs
+2012-05-24 17:00:11,420 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down NameNode at master/10.114.114.76
+************************************************************/

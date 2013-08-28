@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/metrics
+END
+FSDatasetMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/metrics/FSDatasetMBean.class
+END
+DataNodeInstrumentation.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/hdfs/server/datanode/metrics/DataNodeInstrumentation.class
+END

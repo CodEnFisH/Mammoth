@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl
+END
+TestMetricsBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl/TestMetricsBuilderImpl.java
+END
+ConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl/ConfigUtil.java
+END
+TestMetricsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl/TestMetricsVisitor.java
+END
+TestSinkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl/TestSinkQueue.java
+END
+ConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl/ConfigBuilder.java
+END
+TestMetricsConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl/TestMetricsConfig.java
+END
+TestMetricsSystemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/test/org/apache/hadoop/metrics2/impl/TestMetricsSystemImpl.java
+END

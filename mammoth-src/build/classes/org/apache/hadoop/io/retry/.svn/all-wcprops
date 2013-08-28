@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry
+END
+RetryPolicies$RetryUpToMaximumCountWithFixedSleep.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$RetryUpToMaximumCountWithFixedSleep.class
+END
+RetryInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryInvocationHandler.class
+END
+RetryPolicies$ExceptionDependentRetry.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$ExceptionDependentRetry.class
+END
+RetryPolicies.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies.class
+END
+RetryPolicies$RetryLimited.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$RetryLimited.class
+END
+RetryPolicies$RetryForever.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$RetryForever.class
+END
+RetryPolicies$TryOnceThenFail.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$TryOnceThenFail.class
+END
+RetryPolicies$RetryUpToMaximumTimeWithFixedSleep.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$RetryUpToMaximumTimeWithFixedSleep.class
+END
+RetryPolicies$RetryUpToMaximumCountWithProportionalSleep.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$RetryUpToMaximumCountWithProportionalSleep.class
+END
+RetryPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicy.class
+END
+RetryPolicies$TryOnceDontFail.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$TryOnceDontFail.class
+END
+RetryProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryProxy.class
+END
+RetryPolicies$RemoteExceptionDependentRetry.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$RemoteExceptionDependentRetry.class
+END
+RetryPolicies$ExponentialBackoffRetry.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/io/retry/RetryPolicies$ExponentialBackoffRetry.class
+END

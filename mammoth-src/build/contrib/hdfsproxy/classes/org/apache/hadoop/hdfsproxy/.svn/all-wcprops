@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy
+END
+ProxyForwardServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyForwardServlet.class
+END
+LdapIpDirFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/LdapIpDirFilter.class
+END
+ProxyUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyUtil.class
+END
+ProxyFileDataServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyFileDataServlet.class
+END
+ProxyListPathsServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyListPathsServlet.class
+END
+HdfsProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/HdfsProxy.class
+END
+ProxyFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyFilter.class
+END
+LdapIpDirFilter$LdapRoleEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/LdapIpDirFilter$LdapRoleEntry.class
+END
+ProxyUtil$DummyHostnameVerifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyUtil$DummyHostnameVerifier.class
+END
+ProxyUtil$DummyTrustManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyUtil$DummyTrustManager.class
+END
+ProxyStreamFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyStreamFile.class
+END
+ProxyUtil$UtilityOption.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyUtil$UtilityOption.class
+END
+KerberosAuthorizationFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/KerberosAuthorizationFilter.class
+END
+LdapIpDirFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/LdapIpDirFilter$1.class
+END
+ProxyUtil$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyUtil$1.class
+END
+AuthorizationFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/AuthorizationFilter.class
+END
+ProxyFileForward.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyFileForward.class
+END
+ProxyHttpServer.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/build/contrib/hdfsproxy/classes/org/apache/hadoop/hdfsproxy/ProxyHttpServer.class
+END

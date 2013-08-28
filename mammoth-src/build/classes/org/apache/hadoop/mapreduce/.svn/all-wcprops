@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce
+END
+InputSplit.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/InputSplit.class
+END
+RecordWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/RecordWriter.class
+END
+JobStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/JobStatus.class
+END
+TaskID.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/TaskID.class
+END
+Counter.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Counter.class
+END
+JobContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/JobContext.class
+END
+Mapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Mapper.class
+END
+ReduceContext$ValueIterable.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/ReduceContext$ValueIterable.class
+END
+JobID.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/JobID.class
+END
+ReduceContext$ValueIterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/ReduceContext$ValueIterator.class
+END
+Reducer.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Reducer.class
+END
+ID.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/ID.class
+END
+Partitioner.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Partitioner.class
+END
+ClusterMetrics.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/ClusterMetrics.class
+END
+InputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/InputFormat.class
+END
+JobSubmissionFiles.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/JobSubmissionFiles.class
+END
+Job.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Job.class
+END
+ReduceContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/ReduceContext.class
+END
+TaskAttemptID.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/TaskAttemptID.class
+END
+MapContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/MapContext.class
+END
+JobStatus$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/JobStatus$State.class
+END
+OutputCommitter.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/OutputCommitter.class
+END
+JobACL.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/JobACL.class
+END
+CounterGroup.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/CounterGroup.class
+END
+Mapper$Context.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Mapper$Context.class
+END
+Job$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Job$1.class
+END
+RecordReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/RecordReader.class
+END
+Counters.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Counters.class
+END
+Reducer$Context.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Reducer$Context.class
+END
+TaskType.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/TaskType.class
+END
+StatusReporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/StatusReporter.class
+END
+TaskAttemptContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/TaskAttemptContext.class
+END
+TaskInputOutputContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/TaskInputOutputContext.class
+END
+OutputFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/OutputFormat.class
+END
+Job$JobState.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/build/classes/org/apache/hadoop/mapreduce/Job$JobState.class
+END

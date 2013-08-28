@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/webapps/static
+END
+hadoop.css
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/webapps/static/hadoop.css
+END
+jobtracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/webapps/static/jobtracker.js
+END
+jobconf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/webapps/static/jobconf.xsl
+END
+hadoop-logo.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/webapps/static/hadoop-logo.jpg
+END
+sorttable.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/webapps/static/sorttable.js
+END

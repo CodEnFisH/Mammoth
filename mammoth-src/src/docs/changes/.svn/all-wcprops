@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/docs/changes
+END
+ChangesFancyStyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/docs/changes/ChangesFancyStyle.css
+END
+changes2html.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/docs/changes/changes2html.pl
+END
+ChangesSimpleStyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/docs/changes/ChangesSimpleStyle.css
+END

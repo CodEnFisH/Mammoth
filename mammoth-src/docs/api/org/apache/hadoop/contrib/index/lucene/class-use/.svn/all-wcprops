@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/lucene/class-use
+END
+ShardWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/lucene/class-use/ShardWriter.html
+END
+RAMDirectoryUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/lucene/class-use/RAMDirectoryUtil.html
+END
+LuceneUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/lucene/class-use/LuceneUtil.html
+END
+FileSystemDirectory.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/docs/api/org/apache/hadoop/contrib/index/lucene/class-use/FileSystemDirectory.html
+END
