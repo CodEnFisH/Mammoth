@@ -61,18 +61,6 @@ int save2file_dim2_int16(FILE *fp,
 						int yidx, int xidx,
 						int ystart, int xstart,
 						int ylen, int xlen) {
-	/*
-	// generate file name
-	char fpname[FILENAME_LEN];
-	memset(fpname, 0, FILENAME_LEN);
-	sprintf(fpname, "2dimsplit_%d_%d.bsc", xidx, yidx);
-	FILE *fp = fopen(fpname, "w");
-	if (!fp) {
-		printf("Failed to open file to write data chunk.\n");
-		return -1;
-	}
-	*/
-	
 	for (int j=0; j<ylen; ++j) {
 		for (int i=0; i<xlen; ++i) {
 			fprintf(fp, "%d %d ", xstart+i, ystart+j);
@@ -82,7 +70,6 @@ int save2file_dim2_int16(FILE *fp,
 			fprintf(fp, "\n");
 		}
 	}
-	// fclose(fp);
 }
 
 int save2file_dim3_int16(FILE *fp,
@@ -91,18 +78,6 @@ int save2file_dim3_int16(FILE *fp,
 						int zidx, int yidx, int xidx,
 						int ystart, int xstart,
 						int ylen, int xlen) {
-	/*
-	// generate file name
-	char fpname[FILENAME_LEN];
-	memset(fpname, 0, FILENAME_LEN);
-	sprintf(fpname, "3dimsplit_level%d_%d_%d.bsc", zidx, xidx, yidx);
-	FILE *fp = fopen(fpname, "w");
-	if (!fp) {
-		printf("Failed to open file to write data chunk.\n");
-		return -1;
-	}
-	*/
-	
 	for (int j=0; j<ylen; ++j) {
 		for (int i=0; i<xlen; ++i) {
 			fprintf(fp, "%d %d ", xstart+i, ystart+j);
@@ -112,7 +87,6 @@ int save2file_dim3_int16(FILE *fp,
 			fprintf(fp, "\n");
 		}
 	}
-	// fclose(fp);
 }
 
 int split_dim2_int16(FILE *fp, int sd_id, varnames *names_dim2,
@@ -341,35 +315,11 @@ int main(int argc, char* argv[])
 								chunks3d[vk][k*yinterval*xinterval+pj*xinterval+pi]);
 						}
 					}
-					/*
-					// expand data twice
-					for (k=0; k<nz; ++k) {
-						for (vk=0; vk<number_of_var3d; ++vk) {
-							fprintf(fp, "%6d ", 
-								chunks3d[vk][k*yinterval*xinterval+pj*xinterval+pi]);
-						}
-					}
-					*/
 					
 					fprintf(fp, "\n");
 				}
 			}
 			printf("write successfully.\n");
-			
-			/*
-			for (k=0; k<nz; ++k) {
-				start3d[0] = k;
-				for (int idx=0; idx<number_of_var3d; ++idx) {
-					readdataset(sd_id, namearray3d[idx], 
-								start3d, stride3d, edge3d, chunks3d);
-					fprintf(fp, "%d ", *(chunks3d
-										+yinterval*xinterval*k
-										+xinterval*j
-										+i));
-				}
-			}
-			delete [] chunks3d;
-			*/
 			for (int idx=0; idx<number_of_var2d; ++idx) {
 				delete [] chunks2d[idx];
 			}
