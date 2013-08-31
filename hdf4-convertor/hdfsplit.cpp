@@ -220,7 +220,6 @@ int main(int argc, char* argv[])
 	SDreadattr(sd_id, ny_idx, &ny);
 	SDreadattr(sd_id, nz_idx, &nz);
 	
-	
 	// number of chunks along x-axis and y-axis
 	int xnum = atoi(argv[2]);
 	int ynum = atoi(argv[3]);
@@ -261,8 +260,6 @@ int main(int argc, char* argv[])
 								"snowdpth", "radsw", "rnflx",
 								"radswnet", "radlwin",  "usflx",
 								"vsflx", "ptsflx", "qvsflx"};
-			// int16 chunks2d[number_of_var2d][edge2d[0]][edge2d[1]];
-			// int16 chunks2d[edge2d[0]][edge2d[1]];
 			int16 **chunks2d = new int16*[number_of_var2d];
 			for (int idx=0; idx<number_of_var2d; ++idx) {
 				chunks2d[idx] = new int16[edge2d[1]*edge2d[0]];
@@ -301,25 +298,26 @@ int main(int argc, char* argv[])
 			printf("begin to write variables to file.\n");
 			for (int pj=0; pj<yinterval; ++pj) {
 				for (int pi=0; pi<xinterval; ++pi) {
-					fprintf(fp, "%6d %6d ", start2d[1]+pi, start2d[0]+pj);
+					fprintf(fp, "%d %d ", start2d[1]+pi, start2d[0]+pj);
 					int vk = 0;
-					for (vk=0; vk<number_of_var2d; ++vk) {
-						fprintf(fp, "%6d ", chunks2d[vk][xinterval*pj+pi]);
+
+					//for (vk=0; vk<number_of_var2d; ++vk) {
+					for (vk=0; vk<1; ++vk) {
+						fprintf(fp, "%d", chunks2d[vk][xinterval*pj+pi]);
 					}
 					
-					// for the purpose of reducing data size
 					nz = 2;
-					for (k=0; k<nz; ++k) {
+					// for (k=0; k<nz; ++k) {
+					for (k=0; k<0; ++k) {
 						for (vk=0; vk<number_of_var3d; ++vk) {
-							fprintf(fp, "%6d ", 
-								chunks3d[vk][k*yinterval*xinterval+pj*xinterval+pi]);
+							fprintf(fp, "%6d ", chunks3d[vk][k*yinterval*xinterval+pj*xinterval+pi]);
 						}
 					}
-					
 					fprintf(fp, "\n");
 				}
 			}
 			printf("write successfully.\n");
+			
 			for (int idx=0; idx<number_of_var2d; ++idx) {
 				delete [] chunks2d[idx];
 			}
