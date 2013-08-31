@@ -10,8 +10,10 @@ import java.util.Random;
 import java.util.Vector;
 
 import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.mapred.DomainCalcUtils;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
@@ -20,6 +22,7 @@ import org.apache.hadoop.mapreduce.lib.input.BackgroundValueSet;
 import org.apache.hadoop.mapreduce.lib.input.Coordinate;
 import org.apache.hadoop.mapreduce.lib.input.CoordinateValuePair;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.DomainOutputFormat;
 import org.apache.hadoop.mapreduce.lib.input.TwoDimCoordinate;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
@@ -203,41 +206,20 @@ public class Mammoth {
 	
 	public static class MammothAggregator 
 		extends Reducer<IntWritable,CoordinateValuePair,
-						IntWritable,CoordinateValuePair> {
-		
-		// final String prefixOfReuseData = "/mnt/s3gator/_mammoth_reduce_";
-		String prefixOfReuseData;
+						NullWritable,CoordinateValuePair> {
 		
 		public void reduce(IntWritable key, Iterable<CoordinateValuePair> values, 
 						Context context) throws IOException, InterruptedException {
 			
 			Configuration conf = context.getConfiguration();
-			prefixOfReuseData = conf.get(
-					"app.reduce.out.path", "/mnt/s3gator/_mammoth_reduce_");
-			
 			IntWritable reduceLocalHashCode = new IntWritable(
   					context.getTaskAttemptID().getTaskIndex());
-			BufferedOutputStream bos = new BufferedOutputStream(
-  					new FileOutputStream(
-  							prefixOfReuseData+Integer.toString(reduceLocalHashCode.get())));
-			
-			Vector<CoordinateValuePair> valuesInVec = new Vector<CoordinateValuePair>();
 			for (CoordinateValuePair value : values) {
-				valuesInVec.add(value);
+				CoordinateValuePair [] tmp = new CoordinateValuePair[1];
+				tmp[0] = value;
+				api.Aggregate(tmp);
+				context.write(null, value);
 			}
-			
-			CoordinateValuePair[] valuesInArray = new CoordinateValuePair[valuesInVec.size()];
-			valuesInVec.toArray(valuesInArray);
-			CoordinateValuePair cvp = api.Aggregate(valuesInArray);
-			MammothTrigger.writeBState(bos, cvp);
-			/*
-			for (CoordinateValuePair value : values) {
-				MammothTrigger.writeBState(bos, value);
-			}
-			*/
-			
-			bos.flush();
-			bos.close();
 		}
   	}
 	
@@ -249,23 +231,49 @@ public class Mammoth {
 	      System.exit(2);
 	    }
 	    
-	    Job job = new Job(conf, "Mammoth for state-transition applications.");
-	    job.setJarByClass(Mammoth.class);
-	    job.setInputFormatClass(DomainInputFormat.class);
-	    job.setMapperClass(MammothTrigger.class);
-	    job.setReducerClass(MammothAggregator.class);
-	    job.setOutputKeyClass(IntWritable.class);
-	    job.setOutputValueClass(CoordinateValuePair.class);
-	    
-	    int chunkNumX = conf.getInt("app.chunknum.x", 10);
-	    int chunkNumY = conf.getInt("app.chunknum.y", 10);
-	    
-	    job.setChunkNumX(chunkNumX);
-	    job.setChunkNumY(chunkNumY);
-	    job.setNumReduceTasks(chunkNumX*chunkNumY);
-	    
-	    FileInputFormat.addInputPath(job, new Path(otherArgs[0]));
-	    FileOutputFormat.setOutputPath(job, new Path(otherArgs[1]));
-	    System.exit(job.waitForCompletion(true) ? 0 : 1);
+	    int iter = 0;
+	    int totalIter = conf.getInt("app.iteration.num", 2);
+	    while (iter < totalIter) {
+	    	int chunkNumX = conf.getInt("app.chunknum.x", 10);
+		    int chunkNumY = conf.getInt("app.chunknum.y", 10);
+		    
+		    Job job = new Job(conf, 
+		    	"Mammoth for state-transition applications, iteration " + Integer.toString(iter));
+		    job.setJarByClass(Mammoth.class);
+		    job.setInputFormatClass(DomainInputFormat.class);
+		    job.setOutputFormatClass(DomainOutputFormat.class);
+		    job.setMapperClass(MammothTrigger.class);
+		    job.setReducerClass(MammothAggregator.class);
+		    job.setOutputKeyClass(IntWritable.class);
+		    job.setOutputValueClass(CoordinateValuePair.class);		    
+		    job.setChunkNumX(chunkNumX);
+		    job.setChunkNumY(chunkNumY);
+		    job.setNumReduceTasks(chunkNumX*chunkNumY);
+		    Path input = new Path(otherArgs[0]);
+		    Path output = new Path(otherArgs[1]);
+		    FileInputFormat.addInputPath(job, input);
+		    FileOutputFormat.setOutputPath(job, output);
+		    job.waitForCompletion(true);
+		    
+		    // rename the 'output' directory as the 'input' for the next iteration
+		    FileSystem fs = FileSystem.get(conf);
+			if (fs.delete(input, true) == false) {
+				System.out.println("Rename the input directory failed.");
+			}
+			if (fs.rename(output, input) == false) {
+				System.out.println("Rename the output directory failed.");
+			}
+			
+			String strPathToLogsInInputDir = otherArgs[0] + "/_logs";
+			String strPathToTemporaryInInputDir = otherArgs[0] + "/_SUCCESS";
+			if (fs.delete(new Path(strPathToLogsInInputDir), true) == false) {
+				System.out.println("Rename _log file in the input directory failed.");
+			}
+			if (fs.delete(new Path(strPathToTemporaryInInputDir), false) == false) {
+				System.out.println("Rename the _temporary file in the directory failed.");
+			}
+			
+			iter++;
+	    }
 	}
 }

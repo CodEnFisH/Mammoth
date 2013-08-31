@@ -42,4 +42,10 @@
     <name>app.reduce.out.path</name>
     <value>/mnt/s3gator/_mammoth_reduce_</value>
   </property>
+  
+  <property>
+    <name>app.iteration.num</name>
+    <value>2</value>
+  </property>
+
 </configuration>

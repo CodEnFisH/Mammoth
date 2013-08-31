@@ -29,11 +29,13 @@ import org.apache.hadoop.util.Progressable;
 public class TaskAttemptContext extends JobContext implements Progressable {
   private final TaskAttemptID taskId;
   private String status = "";
+  private Configuration conf;
   
   public TaskAttemptContext(Configuration conf, 
                             TaskAttemptID taskId) {
     super(conf, taskId.getJobID());
     this.taskId = taskId;
+    this.conf = conf;
   }
 
   /**
@@ -62,5 +64,9 @@ public class TaskAttemptContext extends JobContext implements Progressable {
    * Report progress. The subtypes actually do work in this method.
    */
   public void progress() { 
+  }
+  
+  public Configuration getConf() {
+	  return this.conf;
   }
 }

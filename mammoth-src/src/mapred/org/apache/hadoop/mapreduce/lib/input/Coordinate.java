@@ -95,14 +95,6 @@ public abstract class Coordinate implements WritableComparable<Coordinate> {
     }
     
     public boolean equals(Object o) {
-    	/*
-    	if (this.compareTo(otherCoord) == 0) {
-    		return true;
-    	}
-    	else {
-    		return false;
-    	}
-    	*/
     	Coordinate otherCoord = (Coordinate) o;
     	if (this.hashCode() == otherCoord.hashCode())
     		return true;

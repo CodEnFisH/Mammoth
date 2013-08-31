@@ -20,7 +20,6 @@ import org.apache.commons.logging.Log;
 public class DomainRecordReader 
 	extends RecordReader<LongWritable, ArrayList<CoordinateValuePair>> {
 	
-	private final int mammothLineDataLen = 2400;
 	private static final Log LOG = LogFactory.getLog(DomainInputFormat.class);	
 	private CompressionCodecFactory compressionCodecs = null;
 	private long start;
@@ -92,8 +91,6 @@ public class DomainRecordReader
 			TwoDimCoordinate c = new TwoDimCoordinate(
 					Integer.parseInt(strValues[0]),
 					Integer.parseInt(strValues[1]));
-			// int paramNum = BackgroundValueSet.ValueSetNum;
-			// int paramNum = mammothLineDataLen;
 			int paramNum = strValues.length - 2;
 			double[] params = new double[paramNum];
 			for (int i=0; i<paramNum; ++i) {

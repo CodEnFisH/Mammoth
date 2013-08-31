@@ -33,7 +33,6 @@ public class CoordinateValuePair implements WritableComparable<CoordinateValuePa
     	buf.append(coordinate.toString());
     	buf.append(" ");
     	buf.append(values.toString());
-    	buf.append("\n");
     	return buf.toString();
     }
 

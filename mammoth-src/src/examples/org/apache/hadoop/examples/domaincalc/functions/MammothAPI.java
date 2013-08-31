@@ -3,11 +3,20 @@ package org.apache.hadoop.examples.domaincalc.functions;
 import java.util.Vector;
 import org.apache.hadoop.mapreduce.lib.input.*;
 
-public class MammothAPI {	
+/*
+ * PLEASE REPLACE THE FOLLOWING EXAMPLE CODE WITH YOUR OWN LOGICS.
+ */
+
+/*
+ * The following example code implements Double Exponential Smoothing,
+ * which applies to time series data of predicting the current state
+ * using historical states and current observation.
+ * 
+ * Please refer http://en.wikipedia.org/wiki/Exponential_smoothing for details
+ */
+public class MammothAPI {
 	/*
 	 * The trigger method
-	 * 
-	 * REPLACE THE FOLLOWING EXAMPLE CODE WITH YOUR OWN LOGICS.
 	 * 
 	 * The parameters include
 	 * "coord" - The coordinate of the point to be computed
@@ -19,58 +28,57 @@ public class MammothAPI {
 			BackgroundValueSet bg,
 			double ob) {
 		/*
-		 * The following example code use the observation to update
-		 * the states of a certain point and its neighbors.
-		 * The neighbors include the points on the top, bottom, left and right.
+		 * The "coord" pinpoints the position of the point;
+		 * the "bg" is the SMOOTHED VALUE of the last iteration;
+		 * the "ob" is the RAW DATA of the current iteration.
+		 * 
+		 * The estimate value at every iteration is saved
+		 * in association with the smoothed value. Both of them serve
+		 * the next iteration.
+		 * 
+		 * For the first iteration, the SMOOTHED value equal the RAW data,
+		 * and the ESTIMATE is 0.
 		 */
-		int x = (int)coord.getX();
-		int y = (int)coord.getY();
-		TwoDimCoordinate topCoord, bottomCoord, leftCoord, rightCoord;
-		BackgroundValueSet topVS, bottomVS, leftVS, rightVS;
-		Vector<CoordinateValuePair> neighbors = new Vector<CoordinateValuePair>();
 		
-		topCoord = new TwoDimCoordinate(x, y+1);
-		topVS = new BackgroundValueSet(bg);
-		neighbors.add(new CoordinateValuePair(topCoord, topVS));
+		double alpha = 0.5, beta = 0.5;
+		double prevSmoothed, prevEstimate;
+		double cntSmoothed, cntEstimate;
 		
-		bottomCoord = new TwoDimCoordinate(x, y-1);
-		bottomVS = new BackgroundValueSet(bg);
-		neighbors.add(new CoordinateValuePair(bottomCoord, bottomVS));
+		if (bg.getCount() == 1) {
+			// The first iteration
+			prevSmoothed = bg.getValues()[0];
+			prevEstimate = 0;
+		}
+		else {
+			/*
+			 * As the Double Exponential Smoothing method only leverages
+			 * the data of states from the last iteration and the current
+			 * iteration, there will be sufficient information since the 
+			 * second the iteration.
+			 */
+			prevSmoothed = bg.getValues()[0];
+			prevEstimate = bg.getValues()[1];
+		}
 		
-		rightCoord = new TwoDimCoordinate(x+1, y);
-		rightVS = new BackgroundValueSet(bg);
-		neighbors.add(new CoordinateValuePair(rightCoord, rightVS));
+		cntSmoothed = alpha*ob + (1-alpha)*(prevSmoothed+prevEstimate);
+		cntEstimate = beta*(cntSmoothed-prevSmoothed) + (1-beta)*prevEstimate;
 		
-		leftCoord = new TwoDimCoordinate(x-1, y);
-		leftVS = new BackgroundValueSet(bg);
-		neighbors.add(new CoordinateValuePair(leftCoord, leftVS));
+		double [] resultsInArray = new double[2];
+		resultsInArray[0] = cntSmoothed;
+		resultsInArray[1] = cntEstimate;		
+		CoordinateValuePair [] results = new CoordinateValuePair[1];
+		results[0] = new CoordinateValuePair(coord, 
+				new BackgroundValueSet(resultsInArray));
 		
-		CoordinateValuePair[] results = new CoordinateValuePair[neighbors.size()];
-		results = neighbors.toArray(results);
 		return results;
 	}
 	
 	/*
 	 * The aggregate method
-	 * 
-	 * REPLACE THE FOLLOWING CODE WITH YOUR OWN LOGICS
 	 */
 	public CoordinateValuePair Aggregate(
 			CoordinateValuePair[] valuesAtPoint) {
-		int size = valuesAtPoint[0].getValues().getCount();
-		double[] values = new double[size];
-		for (int i=0; i<size; ++i) {
-			values[i] = 0.0;
-		}
-		for (int i=0; i<valuesAtPoint.length; ++i) {
-			BackgroundValueSet.accumulate(values, valuesAtPoint[i].getValues());
-		}
-		for(int i=0; i<size; ++i) {
-			values[i] = values[i]/valuesAtPoint.length;
-		}
 		
-		CoordinateValuePair result = new CoordinateValuePair(
-				valuesAtPoint[0].getCoordinate(), values);
-		return result;
+		return valuesAtPoint[0];
 	}
 }

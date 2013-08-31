@@ -59,9 +59,6 @@ public class DomainInputFormat
 			int indexInArray = index1 + numRegionX * index2;
 			splitArray[indexInArray] = new FileSplit(
 					path, 0, length, blkLocations[0].getHosts());
-			
-			// LOG.info("Log by xin: split " + indexInArray + " is " + fn);
-			// String[] addrs = blkLocations[0].getHosts();
 		}
 		
 		for (int i=0; i<splitArray.length; ++i) {

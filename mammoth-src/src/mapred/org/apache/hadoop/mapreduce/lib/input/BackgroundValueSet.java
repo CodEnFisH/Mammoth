@@ -8,7 +8,7 @@ import org.apache.hadoop.io.WritableComparable;
 public class BackgroundValueSet implements WritableComparable<BackgroundValueSet> {
 	public double [] values;
 	private int count;
-	public final static int ValueSetNum = 15;
+	// public final static int ValueSetNum = 15;
 	
 	public BackgroundValueSet() {
 		count = 0;

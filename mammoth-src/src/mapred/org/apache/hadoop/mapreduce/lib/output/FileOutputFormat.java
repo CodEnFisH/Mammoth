@@ -240,6 +240,7 @@ public abstract class FileOutputFormat<K, V> extends OutputFormat<K, V> {
   public synchronized static String getUniqueFile(TaskAttemptContext context,
                                                   String name,
                                                   String extension) {
+	  /*
     TaskID taskId = context.getTaskAttemptID().getTaskID();
     int partition = taskId.getId();
     StringBuilder result = new StringBuilder();
@@ -250,6 +251,21 @@ public abstract class FileOutputFormat<K, V> extends OutputFormat<K, V> {
     result.append(NUMBER_FORMAT.format(partition));
     result.append(extension);
     return result.toString();
+    */
+	  TaskID taskId = context.getTaskAttemptID().getTaskID();
+		Configuration conf = context.getConf();
+		int chunkNumX = conf.getInt("app.chunknum.x", 10);
+		int partition = taskId.getId();
+		int x = partition%chunkNumX;
+		int y = partition/chunkNumX;
+		StringBuilder result = new StringBuilder();
+		result.append("split");
+		result.append('_');
+		result.append(Integer.toString(x).toCharArray());
+		result.append('_');
+		result.append(Integer.toString(y).toCharArray());
+		result.append(".bsc");
+		return result.toString();
   }
 
   /**
